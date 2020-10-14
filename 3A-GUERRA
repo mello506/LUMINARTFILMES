@@ -24,8 +24,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR lime][B]1ª GUERRA [/B][/COLOR] </name>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/3A1-1GUERRA</externallink>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://</externallink>
 <info>AQUI VOCE ENCONTRARÁ FILMES SOBRE A 1ª GUERRA MUNDIAL </info>
 <genre>1ª GUERRA</genre>
 </channel>
@@ -36,9 +36,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B]2ª GUERRA [/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/3A2-2GUERRA</externallink>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://</externallink>
 <info>AQUI VOCE ENCONTRARÁ FILMES SOBRE A 2ª GUERRA MUNDIAL </info>
 <genre> 2ª GUERRA</genre>
 </channel>
@@ -49,9 +49,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B]OUTRAS GUERRAS[/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/3A3-OUTRASGUERRAS</externallink>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://</externallink>
 <info>AQUI VOCE ENCONTRARÁ FILMES SOBRE OUTRAS GUERRAS </info>
 <genre>OUTRAS GUERRAS</genre>
 </channel>
@@ -62,9 +62,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B]GUERRA DO VIETNAN [/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/3A4-GUERRADOVIETNAN</externallink>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://</externallink>
 <info>AQUI VOCE ENCONTRARÁ FILMES SOBRE A GUERRA DO VIETNAN </info>
 <genre>GUERRA DO VIETNAN</genre>
 </channel>
@@ -75,9 +75,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B]OCUPAÇÃO E RESISTÊNCIA[/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/3A5-OCUPACAOERESISTENCIA</externallink>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://</externallink>
 <info>AQUI VOCE ENCONTRARÁ FILMES SOBRE OCUPAÇÃO E RESISTÊNCIA AO INVASOR</info>
 <genre>OCUPAÇÃO E RESISTÊNCIA</genre>
 </channel>
@@ -88,9 +88,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B]COMANDOS E ESPIONAGEM[/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/3A6-COMANDOSESPIONAGEM</externallink>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://</externallink>
 <info>AQUI VOCE ENCONTRARÁ FILMES SOBRE ESPIONAGEM EM PERÍODOS DE GUERRA</info>
 <genre>ESPIONAGEM DE GUERRA</genre>
 </channel>
@@ -101,9 +101,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B]SÉRIES DE GUERRA[/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/3B-SERIESDEGUERRA</externallink>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://</externallink>
 <info>AQUI VOCE ENCONTRARÁ SÉRIES FEITAS SOBRE GUERRAS</info>
 <genre>OCUPAÇÃO E RESISTÊNCIA</genre>
 </channel>
