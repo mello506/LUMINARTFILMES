@@ -1,1 +1,133 @@
-XXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels></channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR blue][B] AÇÃONEW[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES FILMES DE FILMES DE AÇÃO</info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] FILMES DE AÇÃO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES FILMES DE FILMES DE AÇÃO ESTÃO AQUI</info>
+<genre>AÇÃO</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANÇA - 2004 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=eDDh50B6kA4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Jny6eIkNaKPIMBWWiNP0qJSz5ZdlDmGS/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9E559E638799CB7B91198BC82EF31C95F0F41D5C&dn=Chamas%20da%20Vingan%c3%a7a%20720p%20%282004%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2790%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DFA259958252FF912E17600D5F58006270DC8ED&dn=Chamas%20da%20Vingan%c3%a7a%201080p%20%282004%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2790%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=cIJBWS6zC2w$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA - 720 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/CHMSDVNGC2004.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA - 2004 - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] CHAMAS DA VINGANCA - 2004 - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/fCDC9Qq/chamasvinganca-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/nmcqdnH/chamasvinganca-fan.jpg</fanart>
+<info>Uma grande onda de sequestros varre o México, fazendo com que muitos de seus cidadãos mais ricos contratem guarda-costas para seus filhos. John Creasy (Denzel Washington) é um desmotivado ex-agente da CIA, que é levado à Cidade do México por seu amigo Rayburn (Christopher Walken). Sem emprego, ele aceita a proposta de ser guarda-costas da pequena Pita (Dakota Fanning), uma garota de 9 anos que é filha de um industrial (Marc Anthony). Incomodado com as perguntas constantes da garota, John inicialmente vê seu novo trabalho como um fardo mas, aos poucos, cria amizade com Pita e passa a ter um novo ânimo em sua vida. O sequestro de Pita desfaz esta situação, fazendo com que ele, mesmo ferido, parta para resgatá-la a qualquer custo.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR lime]ESTRADA PARA PERDIÇÃO - 2002 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CvwM9oPszr0V7dLHk2VCKcA03I.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yH7mQtNIoeryZqL5VMHdIaBMKpo.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1bduxZ5FUS7C_CYa-4lkG2ctSx5JLnFMr/view</link>
+<info>Ele não deveria estar lá. Mas no momento em que Michael Sullivan Jr. presencia um brutal assassinato, as vidas desse menino de 12 anos e do gangster que é seu pai são destruídas para sempre e seus destinos unidos para sempre. Agora, perseguido pela Máfia a quem devotou sua vida, Sullivan e seu filho não têm para onde fugir ou como escapar à perseguição incansável de um sádico assassino. É nessa luta feroz e instintiva pela sobrevivência e para proteger seu filho, que este gangster profissional irá descobrir a honra e a redenção.</info>
+<genre>AÇÃO</genre>
+</item>
+
+<item>
+<title>[COLOR lime]LS-> US MARSHALS - OS FEDERAIS - 1998 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uixF2pHa0whTKcYmenDrArX0II.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jjpdhJw0YlfO1UeM4JCfpoJF2hN.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1iWLB_EdmtUCrS02HyvO940OK94Oacvk5/view</link>
+<info>A polícia de Chicago, ao investigar um acidente, descobre que as impressões digitais do ferido conferem com as impressões digitais de um suspeito por duplo assassinato. Assim Mark Sheridan, o acidentado, é preso ainda no hospital. Sua remoção para Nova York, local onde ele cometeu crimes, é providenciada. Mas durante o voo (no qual há outros detentos) uma tentativa de fuga provoca a queda do avião, num acidente que matou e feriu diversos civis. Sheridan consegue fugir. Samuel Gerard, um experiente agente, fica encarregado de recapturá-lo, mas em pouco tempo fica claro que o fugitivo não um mero assassino e que uma intricada trama se esconde atrás da "versão oficial".</info>
+<genre>AÇÃO</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]LS-> ANNA-O PERIGO TEM NOME - 2019 - 720  - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sEZnAqV6ILhz8GSDewgpOymQNPO.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1eYsK3KpzJi-RrKura6mfoPc2DDRehkZH/view</link>
+<info>Por trás da beleza marcante de Anna Poliatova há um segredo que irá expor sua indestrutível força e habilidade para se tornar uma das assassinas mais temidas do mundo. Uma eletrizante e emocionante viagem repleta de energia, reviravoltas surpreendentes e ação de tirar o fôlego.</info>
+<genre>AÇÃO</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]LS-> CÓDIGO PARA O INFERNO - 1998 - 720 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZxPAyNJD5ZJzJ587ol3c0mbZp3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xVgfale3aSMx3NofZyJ1yAHHwv5.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/12NlnAuQyzlDSIJHMdZJwjxjIir6bSj4l/view</link>
+<info>Após decifrar códigos de acesso a um programa secreto da Agência Nacional de Segurança, um garoto autista tem seus pais assassinados e é perseguido por oficiais inescrupulosos do governo. O agente Arthur Jeffries investiga a morte dos pais e decide protegê-lo, pois sabe que algo mais está em jogo.</info>
+<genre>AÇÃO</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]LS-> ASSASINO A PREÇO FIXO - 1972 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pI8PJMrvwBvG5t7kAhoinz9Kdld.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ueasqhY0GZgfJ7qDOAqFWJvfPmX.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1AbF_7Ho2Ip5Pttb0rUEVfBP6nEgIhdtA/view</link>
+<info>Arthur Bishop é um assassino de elite com um código restrito e um talento único para eliminar alvos. Quando seu mentor e amigo Harry é assassinado, Bishop decide matar aqueles responsáveis pela sua morte. Tudo se complica quando o filho de Harry se aproxima com o mesmo desejo de vingança e disposto a aprender as técnicas de Bishop. Enquanto uma aliança mortal nasce, Bishop enfrenta traições e decepções enquanto aqueles que foram contratados para resolver o problema se tornam o próprio problema.</info>
+<genre>AÇÃO</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]LS-> REFÉM - 2005 - SD 720 1080 - DUB LEG[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kyMWqnoxVoeBIPA3iN9UUd0PrP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uvvH7WhrBqaQjm7ynBGHNS5OOHO.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1RepeXbDltFkcxlgFWTF3ihIGz9tqgXSr/view</link>
+<info>Após passar por uma tragédia pessoal enquanto trabalhava como negociador de reféns para o Departamento de Polícia, Jeff Talley (Bruce Willis) pede demissão do cargo e decide trabalhar como delegado na pequena cidade de Bristo Camino. Jeff quer paz e a pacata cidade tem tudo para lhe proporcionar isto. Porém quando três adolescentes vão à casa de uma família com o objetivo de roubar o carro deles, eles ficam presos dentro da casa e decidem por tomar todos como seus reféns. A situação força Jeff a atuar como negociador dos reféns, fazendo um trabalho que ele preferia nunca mais ter que realizar em sua vida.</info>
+<genre>AÇÃO</genre>
+</item>
+<item>
+
+<item>
+<title>[COLOR lime]LS-> PROJETO GEMINI - 2019 - 1080 - DUB[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/7I1u6V3LN0W3d9nNdCtzdalw8IY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hZJLBaTca4ZBsogOOmr8dR7aO5L.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1WPWRONXNW1Y4IlwXyf-KG9ykMSmRSyCT/view</link>
+<info>Henry Brogan (Will Smith) é o melhor assassino profissional do mundo, com uma taxa de sucesso maior do que de qualquer outro, mas, quando decide se aposentar, acaba se tornando um alvo da Agência de Inteligência de Defesa dos Estados Unidos, para quem trabalhava anteriormente. Enquanto luta para se manter vivo, ele se depara com um clone de si mesmo e descobre que as ações do governo americano são para esconder um grande segredo, que só Brogan, com toda sua experiência, é capaz de desmascarar.</info>
+<genre>AÇÃO</genre>
+</item>
+<item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] COLEÇÕES DE FILMES DE FILMES DE AÇÃO[/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/4G1-COLECAODEFILMESDEACAO</externallink>
+<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILME DE AÇÃO ESTÃO AQUI</info>
+<genre>AÇÃO</genre>
