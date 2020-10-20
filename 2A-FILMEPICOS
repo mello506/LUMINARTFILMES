@@ -55,7 +55,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00f2710da3227ed0f10298423a0fd0323caf0e6e$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 2005 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=Lc-7QXXnutY&t=4s$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 2005 - SD - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] CRUZADA - RES - DUB[/COLOR]</link>
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] CRUZADA - RES - DUB[/COLOR]</link>
+<link>http://esrv.cc:80/movie/leonardo/123456/16291.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/VWFVMyQ/cruzada-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/mv8p30B/cruzada-fan.jpg</fanart>
@@ -72,7 +72,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VXQERY2B47GEBFZGHAFERZB422HGHBJV&dn=O+%C3%9Altimo+dos+Moicanos+%281992%29+BRrip+Blu-Ray+720p+Dublado+-+DAT2015&tr=udp://tracker.openbittorrent.com:80/announce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO DOS MOICANOS - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFRUJZQBMBQXZFA5LZQCEKSEPXZ6WKKC&dn=O+%C3%9Altimo+dos+Moicanos+%281992%29+BRrip+Blu-Ray+1080p+-+DAT2015&tr=udp://tracker.openbittorrent.com:80/announce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO DOS MOICANOS - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] O ULTIMO DOS MOICANOS - RES - DUB[/COLOR]</link>
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] O ULTIMO DOS MOICANOS - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/OULMDMICNS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO DOS MOICANOS - 1080 - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] O ULTIMO DOS MOICANOS - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/RSfs8fv/ultimomoicanos-icon.jpg</thumbnail>
@@ -91,7 +91,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a60b2571a500aa608f35fe71bbeb917e5b691f4&dn=Gladiador+-+Vers%C3%A3o+Estendida+Remasterizada+2000+%5B1080p%5D+WWW.BLUDV.COM$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] GLADIADOR V. EST. - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=hhx3CVQe7nI$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] GLADIADOR - 720 - DUB[/COLOR]</link>
 <link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/GLADR.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] GLADIADOR - 1080 - DUB[/COLOR]</link>
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] GLADIADOR - RES - DUB[/COLOR]</link>
+<link>http://esrv.cc:80/movie/leonardo/123456/15018.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] GLADIADOR - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/C8mhR5P/gladiador-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/NtRfNzR/gladiador-fan.jpg</fanart>
