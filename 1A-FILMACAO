@@ -44,17 +44,31 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>AÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]ESTRADA PARA PERDIÇÃO - 2002 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CvwM9oPszr0V7dLHk2VCKcA03I.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/yH7mQtNIoeryZqL5VMHdIaBMKpo.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1bduxZ5FUS7C_CYa-4lkG2ctSx5JLnFMr/view</link>
-<info>Ele não deveria estar lá. Mas no momento em que Michael Sullivan Jr. presencia um brutal assassinato, as vidas desse menino de 12 anos e do gangster que é seu pai são destruídas para sempre e seus destinos unidos para sempre. Agora, perseguido pela Máfia a quem devotou sua vida, Sullivan e seu filho não têm para onde fugir ou como escapar à perseguição incansável de um sádico assassino. É nessa luta feroz e instintiva pela sobrevivência e para proteger seu filho, que este gangster profissional irá descobrir a honra e a redenção.</info>
-<genre>AÇÃO</genre>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESTRADA PARA PERDIÇÃO - 2002 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=IjbSYkY5hVA$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESTRADA PARA PERDIÇÃO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12utOmjQ_WfW6QByC4_8FDGEoi-i0ugvz/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESTRADA PARA PERDIÇÃO - RES - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8156788471c72ca8a7a0bce304ff4e4ca2f3773e&dn=Estrada%20para%20Perdi%c3%a7%c3%a3o%20720p%20Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a6969&tr=udp%3a%2f%2fopen.demonii.com%3a1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESTRADA PARA PERDIÇÃO - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080sname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] ESTRADA PARA PERDIÇÃO - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESTRADA PARA PERDIÇÃO - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] ESTRADA PARA PERDIÇÃO - DATA - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] ESTRADA PARA PERDIÇÃO - DATA - RES - DUB[/COLOR]</link>
+
+
+<thumbnail>https://i.ibb.co/FnwVFyV/estperdicao-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Ele não deveria estar lá. Mas no momento em que Michael Sullivan Jr. presencia um brutal assassinato, as vidas desse menino de 12 anos e do gangster que é seu pai são destruídas para sempre e seus destinos unidos para sempre. Agora, perseguido pela Máfia a quem devotou sua vida, Sullivan e seu filho não têm para onde fugir ou como escapar à perseguição incansável de um sádico assassino. É nessa luta feroz e instintiva pela sobrevivência e para proteger seu filho, que este gangster profissional irá descobrir a honra e a redenção. </info>
+<genre>AÇÃO</genre>  
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR lime]LS-> US MARSHALS - OS FEDERAIS - 1998 - 1080 - DUB[/COLOR]</title>
