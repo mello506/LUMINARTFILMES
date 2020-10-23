@@ -53,7 +53,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12utOmjQ_WfW6QByC4_8FDGEoi-i0ugvz/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESTRADA PARA PERDICAO - RES - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8156788471c72ca8a7a0bce304ff4e4ca2f3773e&dn=Estrada%20para%20Perdi%c3%a7%c3%a3o%20720p%20Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a6969&tr=udp%3a%2f%2fopen.demonii.com%3a1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESTRADA PARA PERDICAO - 720 - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080sname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] ESTRADA PARA PERDICAO - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] ESTRADA PARA PERDICAO - 1080 - DUB[/COLOR]</link>
 
 <link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESTRADA PARA PERDICAO - RES - DUB[/COLOR]</link>
 
