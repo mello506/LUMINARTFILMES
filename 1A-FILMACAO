@@ -114,17 +114,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]LS-> CÓDIGO PARA O INFERNO - 1998 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZxPAyNJD5ZJzJ587ol3c0mbZp3.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/xVgfale3aSMx3NofZyJ1yAHHwv5.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/12NlnAuQyzlDSIJHMdZJwjxjIir6bSj4l/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CODIGO PARA O INFERNO - 1998 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CODIGO PARA O INFERNO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12NlnAuQyzlDSIJHMdZJwjxjIir6bSj4l/view?usp=sharing$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] CODIGO PARA O INFERNO - RES - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e66063507c100a2e47e80306b63b39f51b48ab5f&dn=C%26oacute%3Bdigo+para+o+Inferno+%281998%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CODIGO PARA O INFERNO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ab76fb7367af9bf96b38ebc071ad6129df5be66&dn=%5bACESSE...HD-ELITE.ME%5d%20Codigo.para.o.Inferno.1998.1080p.BluRay.REMUX.VC.1.x264.DTS-HD.Dual-C.A.A&tr=udp%3a%2f%2f9.rarbg.me%3a2790%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CODIGO PARA O INFERNO - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=NehzcPX-bPU$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CODIGO PARA O INFERNO - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/CODGPROINFRNO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CODIGO PARA O INFERNO - 720 - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] CODIGO PARA O INFERNO - RES - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Após decifrar códigos de acesso a um programa secreto da Agência Nacional de Segurança, um garoto autista tem seus pais assassinados e é perseguido por oficiais inescrupulosos do governo. O agente Arthur Jeffries investiga a morte dos pais e decide protegê-lo, pois sabe que algo mais está em jogo.</info>
 <genre>AÇÃO</genre>
 </item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR lime]LS-> ASSASINO A PREÇO FIXO - 1972 - 1080 - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pI8PJMrvwBvG5t7kAhoinz9Kdld.jpg</thumbnail>
