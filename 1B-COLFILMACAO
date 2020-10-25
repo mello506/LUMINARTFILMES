@@ -198,7 +198,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VwQqUZ98VxazJuva52dP_hH0zXuyrS-n/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] MAD MAX - ALEM DA CUPULA DO TROVAO - RES - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - ALEM DA CUPULA DO TROVAO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] MAD MAX - ALEM DA CUPULA DO TROVAO - 720 - DUB[/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92c07d9c31204b13253f9159e8253dee78984427&dn=Mad+Max+3+%281985%29+BDrip+1080p+Dublado+datljs2014&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - ALEM DA CUPULA DO TROVAO - 1080 - DUB[/COLOR]</link>
 
@@ -206,7 +206,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/MDMX03.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - ALEM DA CUPULA DO TROVAO - 1080 - DUB[/COLOR]</link>
 
-<link>http://esrv.cc:80/movie/leonardo/123456/15083.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - ALEM DA CUPULA DO TROVAO - 1080 - DUB[/COLOR]</link>
+<link>http://esrv.cc:80/movie/leonardo/123456/15083.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - ALEM DA CUPULA DO TROVAO - SD - DUB[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
