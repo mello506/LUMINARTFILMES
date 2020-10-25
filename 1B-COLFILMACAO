@@ -146,7 +146,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA - 1979 - DUB[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=caHnaRq8Qlg$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=caHnaRq8Qlg&t=27s$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA[/COLOR]</link>
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AA7pia4LcjK-HhmyKy4IYn-9cVsQ0Pb8/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] MAD MAX 1 - O GUERREIRO DA ESTRADA - RES - DUB[/COLOR]</link>
 
@@ -154,11 +154,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bcf6a04f1af146b98bd020772ff64cfbe85aab6$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA - 1080 - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA - RES - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] MAD MAX 1 - O GUERREIRO DA ESTRADA - RES - DUB[/COLOR]</link>
 
 <link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/MDMX01.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA - 720 - DUB[/COLOR]</link>
 
-<link>http://esrv.cc:80/movie/leonardo/123456/15081.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA - 720 - DUB[/COLOR]</link>
+<link>http://esrv.cc:80/movie/leonardo/123456/15081.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA - SD - DUB[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -182,7 +182,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/MDMX02.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - A CACADA CONTINUA - 720 - DUB[/COLOR]</link>
 
-<link>http://esrv.cc:80/movie/leonardo/123456/15082.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - A CACADA CONTINUA - 720 - DUB[/COLOR]</link>
+<link>http://esrv.cc:80/movie/leonardo/123456/15082.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - A CACADA CONTINUA - SD - DUB[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
