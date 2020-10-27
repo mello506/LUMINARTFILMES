@@ -265,15 +265,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOMEDOFILME[/B][/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SICÁRIO[/B][/COLOR]</name>
 <thumbnail>ICONEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÃO NOMEDOFILME COMPLETA</info>
-<genre>GENERO</genre>
+<info>COLEÇÃO SICÁRIO COMPLETA</info>
+<genre>AÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - TERRA DE NINGUÉM - 2015 - DUB[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - TERRA DE NINGUÉM - 2015 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=rJJh6p9pH18$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - TERRA DE NINGUEM[/COLOR]</link>
 
