@@ -265,6 +265,63 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOMEDOFILME[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO NOMEDOFILME COMPLETA</info>
+<genre>GENERO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - TERRA DE NINGUÉM - 2015 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=rJJh6p9pH18$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - TERRA DE NINGUEM[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UR_v-z2UicvsDE9TSUHLU0cOUOCEwxpg/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] SICARIO - TERRA DE NINGUEM - RES - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B453CC8AB16C5A734EEE957BE2B7B664548C044&dn=Sicario%20Terra%20de%20Ninguem%202015%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - TERRA DE NINGUEM - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DA219641812A46F01C70769A3D1F1715CF583F31&dn=Sicario%20Terra%20de%20Ninguem%202015%20Bluray%201080p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - TERRA DE NINGUEM - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - TERRA DE NINGUEM - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] SICARIO - TERRA DE NINGUEM - RES - DUB[/COLOR]</link>
+
+<link>http://p-fun.fun:80/movie/VoDOnTvBR2030/2018vod2/74318.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - TERRA DE NINGUEM - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Na crescente fronteira sem lei entre os Estados Unidos e o México, uma agente do FBI (Emily Blunt) é exposta ao mundo brutal do tráfico internacional de drogas por membros de uma força-tarefa do governo (Josh Brolin e Benicio Del Toro) que a escalam em seu plano para derrotar o chefe de um cartel mexicano.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - DIA DO SOLDADO - 2018 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=0_VrIu-dCJk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - DIA DO SOLDADO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oNy9D-xDvjJc0KAidKLrx4RXkeu4xkUt/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] SICARIO - DIA DO SOLDADO - RES - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA8421EB25457059C427C6300C3EEB00A98E35FB&dn=%7b%7d%20Sic%C3%A1rio%202%20-%20Dia%20do%20Soldado%202018%20%28720p%29%20Acesse%20&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - DIA DO SOLDADO - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:531FC836B3B04D56447673E645F820B9601021EC&dn=%7b%7d%20Sic%C3%A1rio%202%20-%20Dia%20do%20Soldado%202018%20%281080p%29%20Acesse%20&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - DIA DO SOLDADO - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=Z9nne61rfHQ$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - DIA DO SOLDADO - 1080 - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/SCRODIADSLDO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - DIA DO SOLDADO - 1080 - DUB[/COLOR]</link>
+
+<link>http://p-fun.fun:80/movie/VoDOnTvBR2030/2018vod2/74320.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - DIA DO SOLDADO - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O oficial da CIA Matt Graver (Josh Brolin) volta a contactar seu sicário de confiança, Alejandro Gillick (Benicio Del Toro), desta vez para sequestrar a filha caçula (Isabella Moner) de um barão das drogas mexicano. Os famosos cartéis agora são considerados células terroristas e o objetivo da missão, orientada secretamente pelo alto escalão do governo, é fazer eclodir uma guerra entre os grupos rivais.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] MAD MAX[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/mGQMcdb/madmax-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
