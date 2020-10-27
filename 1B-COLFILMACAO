@@ -152,7 +152,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:496e6a2ad5980c30559f46907b16ac38b08bea2c&dn=Rambo+-+Programado+para+Matar+%281982%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 1 - PROGRAMADO PARA MATAR - 720 - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 1 - PROGRAMADO PARA MATAR - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] RAMBO - 1 - PROGRAMADO PARA MATAR - 1080 - DUB[/COLOR]</link>
 
 <link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] RAMBO - 1 - PROGRAMADO PARA MATAR - RES - DUB[/COLOR]</link>
 
