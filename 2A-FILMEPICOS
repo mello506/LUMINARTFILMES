@@ -199,15 +199,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]LS-> ROBIN HOOD-O PRÍNCIPE DOS LADRÕES - 1991 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwueNrnleCnA5gVeXkhpTcNNBWz.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/76kQ2XjTQ306ybeDjGM76vDKp6x.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1a7f4SzKRVnzERa3hYX90x_jKkNgvMRHq/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD O PRÍNCIPE DOS LADRÕES - 1991 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=Zq1CloX7tQU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD O PRINCIPE DOS LADROES[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a7f4SzKRVnzERa3hYX90x_jKkNgvMRHq/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] ROBIN HOOD O PRINCIPE DOS LADROES - RES - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2SXCC6A2EGGN3OY5LL4NLDB32NJAD4I7&dn=Robin+Hood+-+O+Pr%C3%ADncipe+dos+Ladr%C3%B5es+%281991%29+BRrip+Blu-Ray+720p+Dublado+-+DAT2015&tr=udp://tracker.openbittorrent.com:80/announce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD O PRINCIPE DOS LADROES - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] ROBIN HOOD O PRINCIPE DOS LADROES - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] ROBIN HOOD O PRINCIPE DOS LADROES - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] ROBIN HOOD O PRINCIPE DOS LADROES - RES - DUB[/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/22709.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD O PRINCIPE DOS LADROES - RES - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Após voltar de uma Cruzada Robin de Locksley, um jovem cavaleiro, descobre que seu pai, Lorde de Locksley , foi morto pelos seguidores do xerife de Nottingham , que por sua vez é partidário do Príncipe João, que tudo fará pra que Ricardo Coração de Leão  não volte ao poder. Robin é visado pelos usurpadores e foge, mas sempre acompanhado por Azeem , um mouro que lhe deve a vida. Eles vão parar na Floresta de Sherwood, onde são atacados por camponeses que, para sobreviver, atacam os asseclas do xerife. Logo Robin e Azeem se unem ao bando e planejam trazer Ricardo de volta ao poder. Em meio à sua luta, Robin é ajudado por Marian , uma bela donzela por quem se apaixona.</info>
 <genre>ÉPICOS</genre>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR lime]LS-> 10.000 AC - 2008 - 720 - DUB[/COLOR]</title>
