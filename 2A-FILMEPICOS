@@ -272,15 +272,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]LS-> EL CID - 1961 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/2CKcPo2M9pejF3Vi7PBHPVw5Eei.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/n7R8fy38YSfLxvbNZypisunWmxt.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] EL CID - 1961 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=BE7QDaBoo_4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] EL CID[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E711A7961E4875004FEA58F80B6D8A974DBA5DA8&dn=El%20Cid%20%281961%29%20BluRay%20720p%20DUBLADO.mp4&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=http%3a%2f%2ftracker.torrentyorg.pl%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fdenis.stalker.upeer.me%3a6969%2fannounce&tr=http%3a%2f%2ftracker.yoshi210.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftorrentclub.tech%3a6969%2fannounce&ws=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&ws=http%3a%2f%2ftracker.torrentyorg.pl%3a80%2fannounce&ws=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&ws=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&ws=udp%3a%2f%2fdenis.stalker.upeer.me%3a6969%2fannounce&ws=http%3a%2f%2ftracker.yoshi210.com%3a6969%2fannounce&ws=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&ws=udp%3a%2f%2ftorrentclub.tech%3a6969%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] EL CID - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] EL CID - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=GqQ4mLmyP_g$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] EL CID - SD - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/ELCID.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] EL CID - 720 - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] EL CID - RES - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
 https://drive.google.com/file/d/1CpS1Xxi9VC7jLkB1kB7rMkCwZyKNmpcf/view</link>
 <info>Filme épico sobre o lendário herói espanhol Rodrigo Diaz de Bivar, "El Cid" para os seus seguidores, que, sem comprometer o seu rigoroso sentido de honra, consegue tomar a iniciativa e expulsar os mouros da Espanha cristã.</info>
 <genre>ÉPICOS</genre>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR lime]LS-> ALEXANDRE - 2004 - 720 - DUB[/COLOR]</title>
