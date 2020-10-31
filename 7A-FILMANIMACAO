@@ -82,18 +82,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]LS-> CASA MONSTRO - 2006 - 1080 - DUB [/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eduzrwou4Lkr8Ybflr8Wmx5CNSZ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/xCPq0OXDs7LyFTzOCxanjkyr36l.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1W7bzsz_Ar-qMBMorTv_D2zRM3A1GZRrp/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CASA MONSTRO - 2006 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=q3h98qqikyA$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CASA MONSTRO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2118e57ed030296dddb994f9e77c26f599af62e3&dn=A+Casa+Monstro+%282006%29+BluRay+720p++Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CASA MONSTRO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b23e3a1a6825b639ffff4413acd64f1cde2fdfd&dn=A+Casa+Monstro+%282006%29+BluRay+1080p+3D+HSBS+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CASA MONSTRO - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=w_liDzFCcQo&t=6s$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CASA MONSTRO - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/ACSAMNTRO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CASA MONSTRO - 720 - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/25195.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CASA MONSTRO - 720 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Nenhum adulto acredita quando três adolescentes falam que existe uma casa no bairro que é uma criatura perigosa.
 Com o Dia das Bruxas se aproximando, eles têm que descobrir uma forma de destruir a estrutura da casa antes que ela faça mal
 a crianças inocentes.</info>
 <genre>ANIMAÇÃO</genre>
 </item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR lime]LS-> AS AVENTURAS DE TINTIN - O SEGREDO DO UNICÓRNIO - 2011 - 720 - DUB[/COLOR]</title>
