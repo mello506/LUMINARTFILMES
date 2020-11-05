@@ -215,18 +215,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMAÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]LS-> O ESTRANHO MUNDO DE JACK - 1993 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/4RfY3Bx11Bs8Vlyvws0CoJc0gr8.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/nRIjQOb6rbEWJEVi4G14znPVaO.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/14mB0fm2zSNrcWTuhKM_k-IZ20w2cFja5/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ESTRANHO MUNDO DE JACK - 1993 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=Ie3lhEebWW4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ESTRANHO MUNDO DE JACK[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3D511FA4E8A2D8623B90188CE78B08507DA0A864&dn=O.Estranho.Mundo.de.Jack.1993.720p.Dublado-WOLVERDONFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ESTRANHO MUNDO DE JACK - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d93a5dd8bb04dd71a5ff81c1f19fc8de42f6dc4&dn=O+Estranho+Mundo+de+Jack+%281993%29+BDrip+1080p+Dublado+dat2014&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ESTRANHO MUNDO DE JACK - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=m6COAh0l-Q4$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ESTRANHO MUNDO DE JACK - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/OESTNHMNDJCK.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ESTRANHO MUNDO DE JACK - 1080 - DUB[/COLOR]</link>
+<link>http://familytv.net:80/movie/Mari20/Mari20/76096.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ESTRANHO MUNDO DE JACK - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/ncCs434/jackword-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Jack Skellington é um ser fantástico que vive na Cidade do Halloween, um local cercado por criaturas fantásticas. Lá, todos passam o ano organizando o Halloween do ano seguinte mas, após mais um Halloween, Jack se mostra cansado de fazer aquilo todos os anos. Assim, ele deixa os limites da Cidade do Halloween e vagueia pela floresta. Por acaso acha alguns portais, sendo que cada um leva até um tipo festividade. Jack acaba atravessando o portal do Natal, onde vê demonstrações do espírito natalino. Ao retornar para a Cidade do Halloween, sem ter compreendido o que viu, ele começa a convencer os cidadãos a sequestrarem o Papai Noel e fazerem seu próprio Natal. Apesar de argumentos fortes de sua leal namorada Sally contra o projeto, o Papai Noel é capturado. Mas os fatos mostrarão que Sally estava totalmente certa.</info>
 <genre>ANIMAÇÃO</genre>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR lime]LS-> MOGLI - O MENINO LOBO - 2016 - 720 - DUB[/COLOR]</title>
