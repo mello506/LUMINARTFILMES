@@ -165,20 +165,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]LS-> VALENTE - 2012 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/jX9O3eyzfw937QOhRF4wz6nhxBM.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/sgpRSSST1gsyqIo98HVFaMmruIk.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1ltJoMHmvMyv0Fu2YEeIRlESbFLi1qP3P/view</link>
-<info>A jovem princesa Merida foi criada pela mãe para ser a sucessora perfeita ao cargo de rainha, seguindo a etiqueta 
-e os costumes do reino. Mas a garota dos cabelos rebeldes não tem a menor vocação para esta vida traçada, preferindo
-cavalgar pelas planícies selvagens da Escócia e praticar o seu esporte favorito, o tiro ao arco. Quando uma competição 
-é organizada contra a sua vontade, para escolher seu futuro marido, Merida decide recorrer à ajuda de uma bruxa, a quem
-pede que sua mãe mude. Mas quando o feitiço surte efeito, a transformação da rainha não é exatamente o que Merida imaginava. 
-Agora caberá à jovem ajudar a sua mãe e impedir que o reino entre em guerra com os povos vizinhos.</info>
-<genre>ANIMAÇÃO</genre>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] VALENTE - 2012 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=5fPmKfcaaWk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] VALENTE[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c339ce2427861f5ffd473de10c4643273aabd28c&dn=Valente.2012.720p.BluRay.x264-VTM_SL+%27%28Dublado%29%27&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] VALENTE - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B65EA8A0E512D0D54A3449F3955FCF1914642A22&dn=Valente%20%282012%29%201080p%20Dublado%20JohnL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] VALENTE - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] VALENTE - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/VLNTE.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] VALENTE - 1080 - DUB[/COLOR]</link>
+<link>http://maxpig.live:8080/movie/adriano123/adriano123/1299.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] VALENTE - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/0DJ0KGq/valente-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A jovem princesa Merida foi criada pela mãe para ser a sucessora perfeita ao cargo de rainha, seguindo a etiqueta e os costumes do reino. Mas a garota dos cabelos rebeldes não tem a menor vocação para esta vida traçada, preferindo cavalgar pelas planícies selvagens da Escócia e praticar o seu esporte favorito, o tiro ao arco. Quando uma competição é organizada contra a sua vontade, para escolher seu futuro marido, Merida decide recorrer à ajuda de uma bruxa, a quem pede que sua mãe mude. Mas quando o feitiço surte efeito, a transformação da rainha não é exatamente o que Merida imaginava… Agora caberá à jovem ajudar a sua mãe e impedir que o reino entre em guerra com os povos vizinhos.</info>
+<genre>ANIMAÇÃO</genre>  
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR lime]LS-> RATATOUILLE - 2007 - 720 - DUB[/COLOR]</title>
