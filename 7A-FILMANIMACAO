@@ -162,7 +162,6 @@ com inspiração no feriado mexicano do Dia dos Mortos, acaba gerando uma extrao
 <genre>ANIMAÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] VALENTE - 2012 - DUB[/COLOR]</title>
@@ -180,14 +179,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMAÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]LS-> RATATOUILLE - 2007 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/lpyqGZXjaPpr2dzkD9XD5DUGMkN.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/1uDmqOspR1jVhwJnVy5EOEIFm3e.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1mJwMbGEDwKGbebjjX8nCm1GSfU11C2eA/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE - 2007 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=NgsQ8mVkN8w$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A763EF3D87AAFF0C233D29B0DDC0E87030BC0A4B&dn=Ratatouille%20720p%20Dublado%20-%20The%20Pirate%20Filmes&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:293BB627804281B179572F917EF0FEDF405266D6&dn=Ratatouille%20%282007%29%201080p%20Dublado%205.1%20-%20WWW.&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=rBmvLdDXerg$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/RTATOULE.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE - 1080 - DUB[/COLOR]</link>
+<link>http://familytv.net:80/movie/Mari20/Mari20/64031.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/J2ZfSh6/ratatouille-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Paris. Remy é um rato que sonha se tornar um grande chef. Só que sua família é contra a idéia, além do 
 fato de que, por ser um rato, ele sempre é expulso das cozinhas que visita. Um dia, enquanto estava nos esgotos, ele
 fica bem embaixo do famoso restaurante de seu herói culinário, Auguste Gusteau. Ele decide visitar a cozinha 
@@ -196,7 +200,8 @@ qualquer custo. Remy e Linguini realizam uma parceria, em que Remy fica escondid
 deve fazer ao cozinhar.</info>
 <genre>ANIMAÇÃO</genre>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR lime]LS-> OS CROODS - 2013 - 1080 - DUB[/COLOR]</title>
