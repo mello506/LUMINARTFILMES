@@ -345,7 +345,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ÉPICOS</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CENTURIÃO - 2010 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=3wnpRyWD4fI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CENTURIAO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52a73fa559a8158b835181315f561f65577afe8c&dn=Centuri%26atilde%3Bo+%282010%29+BDRip+Bluray+720p+dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CENTURIAO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61c1841b7f3a59ea0afe07a2ae1dd12cf1935030&dn=Centurion+%282010%29+720p+mkv+-+500MB+-+YIFY&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CENTURIAO - 1080 - LEG[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] CENTURIAO - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CENTURIAO - 1080 - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CENTURIAO - 720 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Centurião se passa na Grã-Bretanha, nos primeiros anos depois de Cristo. Quintus, o único sobrevivente de um ataque selvagem aos soldados romanos, se junta à IX Legião do general Virilus em sua marcha ao norte para acabar com as terríveis tribos conhecidas como Pict. Depois de um ataque surpresa, Virilus é mantido prisioneiro. Só restam sete soldados e Quintus está disposto a enfrentar todos os perigos para resgatar Virilus e proteger seus homens. Em uma luta pela sobrevivência em campo inimigo, não vai ser nada fácil escapar da morte.</info>
+<genre>ÉPICOS</genre>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <item>
 <title>[COLOR lime]LS-> A QUEDA DO IMPÉRIO ROMANO - 1964 - 720 - DUB[/COLOR]</title>
@@ -392,16 +412,6 @@ https://drive.google.com/file/d/1DC0wDf8GOVotcZYbyPLYrQlKE6aOzuVB/view</link>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[COLOR lime]CENTURIÃO - 2010 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://uploaddeimagens.com.br/images/002/441/062/full/centuri%C3%A3o.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/iSHNL3URBKtSkEJsxeTYLzkJ8gE.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1irHurvutFXXFV0aHrVZKaLsNRlQWuuVI/view</link>
-<info>Centurião se passa na Grã-Bretanha, nos primeiros anos depois de Cristo. Quintus, o único sobrevivente de um ataque selvagem aos soldados romanos, se junta à IX Legião do general Virilus em sua marcha ao norte para acabar com as terríveis tribos conhecidas como Pict. Depois de um ataque surpresa, Virilus é mantido prisioneiro. Só restam sete soldados e Quintus está disposto a enfrentar todos os perigos para resgatar Virilus e proteger seus homens. Em uma luta pela sobrevivência em campo inimigo, não vai ser nada fácil escapar da morte.</info>
-<genre>ÉPICOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR lime]LS-> OS DEZ MANDAMENTOS - 1956 - 1080 - DUB[/COLOR]</title>
