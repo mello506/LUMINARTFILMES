@@ -120,6 +120,50 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SHERLOCK HOLMES[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO SHERLOCK HOLMES COMPLETA</info>
+<genre>SUSPENSE</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHERLOCK HOLMES - 2009 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=eaXSotEkzSA$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHERLOCK HOLMES[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9feb6e26eb1d24edd546e326fa9188b8f4e00ac&dn=Sherlock+Holmes+%282009%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHERLOCK HOLMES - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:599d361c687c1d6f66dcd5391aea8aad92967ef4&dn=Sherlock+Holmes+%282009%29+1080p+Full+Hd++Dual+Audio+Pt+Br+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHERLOCK HOLMES - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] SHERLOCK HOLMES - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/SHRLCKHLMS01.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHERLOCK HOLMES - 1080 - DUB[/COLOR]</link>
+<link>http://familytv.net:80/movie/Mari20/Mari20/74622.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHERLOCK HOLMES - 720 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O excêntrico detetive consultor Sherlock Holmes e o doutor John Watson lutam para derrubar um novo inimigo e desvendar um plano mortal que poderia destruir a Inglaterra.</info>
+<genre>SUSPENSE</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHERLOCK HOLMES - O JOGO DAS SOMBRAS - 2012 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=MP-UMob9bqE$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHERLOCK HOLMES - O JOGO DAS SOMBRAS[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cdb3f540685ef99bfab3681f692134235d87543&dn=Sherlock+Holmes+2%3A+O+Jogo+Das+Sombras+%282011%29++720p+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHERLOCK HOLMES - O JOGO DAS SOMBRAS - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffa8b155e9a67f95c4c215aa6e4afee301f016b8&dn=Sherlock+Holmes-+O+Jogo+de+Sombras+%282011%29+1080p+Dual+Audio+pt+br&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHERLOCK HOLMES - O JOGO DAS SOMBRAS - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] SHERLOCK HOLMES - O JOGO DAS SOMBRAS - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/SHRLCKHLMS02.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHERLOCK HOLMES - O JOGO DAS SOMBRAS - 1080 - DUB[/COLOR]</link>
+<link>http://appcliente.com:8880/movie/fabiox/fabiox/3954.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHERLOCK HOLMES - O JOGO DAS SOMBRAS - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Há um novo mentor criminoso em geral (Professor Moriarty) e não apenas ele é o equivalente intelectual de Holmes, mas sua capacidade para o mal e a falta de consciência pode lhe dar uma vantagem sobre o detetive.</info>
+<genre>SUSPENSE</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 
 <channels></channels>
@@ -164,37 +208,6 @@ https://drive.google.com/file/d/1x3NAjveRJQRoDWtvebAeGW7isckgKDdy/view</link>
 <item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SHERLOCK HOLMES[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>COLETÂNEA DAS SEQUÊNCIAS DOS FILMES DE SHERLOCK HOLMES ESTÃO AQUI</info>
-<genre>SUSPENSE</genre>
-
-
-<item>
-<title>[COLOR lime]SHERLOCK HOLMES 1- 2009 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/T2OCCBIwfUMAaYYQLWGVBOIdEe.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/r8V954pQMDFzYFdBh2WC1Y3pnN3.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/129kxL1n2KUG7VFqI3-HGhR5__qUYbi7C/view</link>
-<info>O excêntrico detetive consultor Sherlock Holmes e o doutor John Watson lutam para derrubar um novo inimigo e desvendar um plano mortal que poderia destruir a Inglaterra.</info>
-<genre>SUSPENSE</genre>
-</item>
-
-<item>
-<title>[COLOR lime]SHERLOCK HOLMES 2 -O JOGO DAS SOMBRAS- 2011 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR3T5aOuKOm1z2gVwEgwNe8jvWw.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/mtNiSFSjhzHqOcGiRJ9eXukK2xY.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/18ptWNU2IEB3-cD5Ijk5hXVPwhL00CZuU/view</link>
-<info>Há um novo mentor criminoso em geral (Professor Moriarty) e não apenas ele é o equivalente intelectual de Holmes, mas sua capacidade para o mal e a falta de consciência pode lhe dar uma vantagem sobre o detetive.</info>
-<genre>SUSPENSE</genre>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
