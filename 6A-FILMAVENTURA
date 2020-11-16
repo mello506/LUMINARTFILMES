@@ -71,7 +71,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cb1f70ced5a679c8940a402003488807c216d83&dn=A+Liga+Extraordin%26aacute%3Bria+%282003%29+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LIGA EXTRAORDINARIA - 720 - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LIGA EXTRAORDINARIA - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] A LIGA EXTRAORDINARIA - 1080 - DUB[/COLOR]</link>
 
 <link>http://proxy.ec.cx/video.php?url=RCFServer4/ondemand/ALGAEXTRDNRA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LIGA EXTRAORDINARIA - 1080 - DUB[/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26135.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LIGA EXTRAORDINARIA - 720 - DUB[/COLOR]</link>
