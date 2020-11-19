@@ -94,17 +94,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>
-<title>[COLOR lime]LS-> EU, ROBÔ - 2004 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaFZyOHeDzB0k9sbQ7LNUOd9RGs.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3N0XNfknTOpGwYadltyDSszCZmZ.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1CTyrPZB1Mhwb3s5b7oYazIFNJW1s_COR/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBÔ - 2004 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=JWqCEzZEv2k$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBÔ[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a328689355f744b393b9dc9f76e1be2aa382e3d7&dn=eu+robo+%282004%29+BDRip+bluray+HD+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBÔ - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9609c9d524307a8a47f0fe78cff8abee2ed334d&dn=Eu%2C+Rob%26ocirc%3B+%282004%29+BluRay+1080p+Dual+Audio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBÔ - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/EURBO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBÔ - 720 - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] EU , ROBÔ - RES - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Em 2035 a existência de robôs é algo corriqueiro, sendo usados constantemente como empregados e assistentes dos humanos. Os robôs possuem um código de programação chamado Lei dos Robóticos, que impede que façam mal a um ser humano. Esta lei parece ter sido quebrada quando o Dr. Miles aparece morto e o principal suspeito de ter cometido o crime é justamente o robô Sonny. Caso Sonny realmente seja o culpado, a possibilidade dos robôs terem encontrado um meio de quebrarem a Lei dos Robóticos pode permitir que eles dominem o planeta, já que nada mais poderia impedi-los de subjugar os seres humanos. Para investigar o caso é chamado o detetive Del Spooner que, com a ajuda da Dra. Susan Calvin, precisam desvendar o que realmente aconteceu.</info>
 <genre>FICÇÃO</genre>
-</item>
-<item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <item>
 <title>[COLOR lime]JOHN CARTER - ENTRE DOIS MUNDOS - 2012 - 1080 - DUB[/COLOR]</title>
