@@ -122,19 +122,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>FICÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]LS-> O VINGADOR DO FUTURO - 1990 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSGvijJ539ppQwNScOKHJZNMZgv.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/axrH8P9TzSOBpTOXvzZOzn8CZeZ.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1buBSoaokuHhwvgqu0DPM4OhN3keC2K3-/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O VINGADOR DO FUTURO - 1990 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LrCfObsXpKQ$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O VINGADOR DO FUTURO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:990722ff03320983172a38e529803a85197ad7fc&dn=O+Vingador+do+Futuro+%281990%29+BluRay+720p+Dual+%26Aacute%3Budio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O VINGADOR DO FUTURO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df63dac568a45ba50f830a6621abce73636017c7$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O VINGADOR DO FUTURO - 1080 - DUB[/COLOR]</link>
+<link>http://proxy.ec.cx/video.php?url=RCFServer1/ondemand/OVNGDRDFTRO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O VINGADOR DO FUTURO - 1080 - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] O VINGADOR DO FUTURO - RES - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Douglas Quaid (Arnold Schwarzenegger) é um construtor e tem pesadelos recorrentes envolvendo uma viagem a Marte. Ele vai até a Rekall Inc., uma empresa que realiza implantes de memória que dão a sensação aos clientes de terem um final de semana dos sonhos. A intenção de Douglas é que seja implantada a memória de uma viagem a Marte, mas durante o processo algo sai errado. Ele perde a memória e passa a ser perseguido por assassinos, entre eles sua esposa Lori (Sharon Stone). Desorientado, Douglas descobre que, na verdade, chama-se Hauser e que é um agente da inteligência marciana. Em busca de respostas, ele viaja para Marte.</info>
 <genre>FICÇÃO</genre>
 </item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <title>[COLOR lime]LS-> 2019 - O ANO DA EXTINÇÃO - 2009 - 1080 - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLgkMhsGDOvlLrkC8HFNOLhE0wL.jpg</thumbnail>
