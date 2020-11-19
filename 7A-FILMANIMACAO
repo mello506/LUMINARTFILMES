@@ -183,7 +183,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=NgsQ8mVkN8w$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A763EF3D87AAFF0C233D29B0DDC0E87030BC0A4B&dn=Ratatouille%20720p%20Dublado%20-%20The%20Pirate%20Filmes&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:293BB627804281B179572F917EF0FEDF405266D6&dn=Ratatouille%20%282007%29%201080p%20Dublado%205.1%20-%20WWW.&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=rBmvLdDXerg$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE - RES - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=rBmvLdDXerg$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE - SD - DUB[/COLOR]</link>
 <link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/RTATOULE.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE - 1080 - DUB[/COLOR]</link>
 <link>http://familytv.net:80/movie/Mari20/Mari20/64031.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] RATATOUILLE - 720 - DUB[/COLOR]</link>
 
@@ -205,7 +205,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=3TWjsu5grs4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CROODS[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84869f7b395ffb88857a20a23c6faada8a948bbe&dn=Os.Croods.%282013%29.BDrip.Dublado.720p+-+AndreTPF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CROODS - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f42664f4875f6fc981bc044017fad82f1f7f4c56&dn=The.Croods.2013.1080p.BluRay.x264-SPARKS.DUAL-BRENYS&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CROODS - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] OS CROODS - RES - DUB[/COLOR]</link>
 <link>https://proxy.ec.cx/video.php?url=RCFServer2/ondemand/OSCRDS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CROODS - 1080 - DUB[/COLOR]</link>
 <link>http://maxpig.live:8080/movie/adriano123/adriano123/1177.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CROODS - 720 - DUB[/COLOR]</link>
 
@@ -232,7 +231,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMAÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] KLAUS - 2019 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=GUG4gr9EqTs$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] KLAUS[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D3807D377A8BFE9714439D407FE79B9D8A6C7EC6&dn=%5bWWW.BLUDV.TV%5d%20Klaus%202019%20%28720p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] KLAUS - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F64CC09E1E440A14341A90B4F245B8C82D211D64&dn=%5bWWW.BLUDV.TV%5d%20Klaus%202019%20%281080p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] KLAUS - 1080 - DUB[/COLOR]</link>
+<link>http://proxy.ec.cx/video.php?url=RCFServer3/ondemand/KLAUS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] KLAUS - 1080 - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/34465.mkv$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] KLAUS - 720 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Em Smeerensburg, remota ilha localizada acima do Círculo Ártico, Jesper é um estudante da Academia Postal que enfrenta um sério problema: os habitantes da cidade brigam o tempo todo, sem demonstrar o menor interesse por cartas. Prestes a desistir da profissão, ele encontra apoio na professora Alva e no misterioso carpinteiro Klaus, que vive sozinho em sua casa repleta de brinquedos feitos a mão.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <item>
 <title>[COLOR lime]LS-> MOGLI - O MENINO LOBO - 2016 - 720 - DUB[/COLOR]</title>
@@ -310,18 +326,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 https://drive.google.com/file/d/1TJYWd9NPGA2lPeuIyeTXCuk3izvNMSlA/view</link>
 <info>Em um distante futuro, um pequeno robô coletor de lixo embarca em uma jornada espacial que acabará por decidir o destino da humanidade.</info>
-<genre>ANIMAÇÃO</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS-> KLAUS - 2019 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/aLniylyJlbXEdxvaGSuQkRACWUx.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/mlxKite1x1PgmIhJgAxNS9eHmH8.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1AOHrOoRVbn9HdYCOwzM3wX_lidOR0AbH/view</link>
-<info>Em Smeerensburg, remota ilha localizada acima do Círculo Ártico, Jesper é um estudante da Academia Postal que enfrenta um sério problema: os habitantes da cidade brigam o tempo todo, sem demonstrar o menor interesse por cartas. Prestes a desistir da profissão, ele encontra apoio na professora Alva e no misterioso carpinteiro Klaus, que vive sozinho em sua casa repleta de brinquedos feitos a mão.</info>
 <genre>ANIMAÇÃO</genre>
 </item>
 <item>
