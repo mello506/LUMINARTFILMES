@@ -30,7 +30,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] 1984 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=p2t239pJNJM$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 1948[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1b_rMR-rijdzqCu2KT-T5w8fLHPizp0eX/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] 1948 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f3d618c7f8b690986f2e13587d013b1e9bd6aa2$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] 1948 - 720 - LEG[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF6047756E45D09F931716830EF61E3EABD112AB&dn=1984%20%281984%29%20%5b1080p%5d$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] 1948 - 1080 - LEG[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=L2R_YNT5H6Y$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] 1948 - VERSAO ANTIGA EM SD - DUB[/COLOR]</link>
@@ -96,11 +95,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBÔ - 2004 - DUB[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=JWqCEzZEv2k$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBÔ[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a328689355f744b393b9dc9f76e1be2aa382e3d7&dn=eu+robo+%282004%29+BDRip+bluray+HD+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBÔ - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9609c9d524307a8a47f0fe78cff8abee2ed334d&dn=Eu%2C+Rob%26ocirc%3B+%282004%29+BluRay+1080p+Dual+Audio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBÔ - 1080 - DUB[/COLOR]</link>
-<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/EURBO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBÔ - 720 - DUB[/COLOR]</link>
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] EU , ROBÔ - RES - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=JWqCEzZEv2k$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a328689355f744b393b9dc9f76e1be2aa382e3d7&dn=eu+robo+%282004%29+BDRip+bluray+HD+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9609c9d524307a8a47f0fe78cff8abee2ed334d&dn=Eu%2C+Rob%26ocirc%3B+%282004%29+BluRay+1080p+Dual+Audio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBO - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/EURBO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] EU , ROBO - 720 - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] EU , ROBO - RES - DUB[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
