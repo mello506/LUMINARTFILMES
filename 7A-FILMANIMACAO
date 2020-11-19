@@ -263,7 +263,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMAÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO - 2015 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B3AF59FB8C13A280275973B61C06EEFEE9EAEA3F&dn=Shaun%20-%20O%20Carneiro%20%282015%29%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:103B9060C8A797E9FDDB4D64E2ED479BD040F344&dn=Shaun%20-%20O%20Carneiro%20%282015%29%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/SHNOCRNRO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO - 1080 - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/25658.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] SHAUN O CARNEIRO - 720 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O carneiro Shaun é o líder de seu rebanho. Ele decide tirar um dia de folga com seus amigos para se divertir. Mas as coisas saem de controle e o rebanho vai parar numa cidade grande e caótica. O grupo se mete em muitas confusões e Shaun ainda precisa guiar todo seu rebanho, em segurança, de volta para a fazenda.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <item>
 <title>[COLOR lime]LS-> MOGLI - O MENINO LOBO - 2016 - 720 - DUB[/COLOR]</title>
