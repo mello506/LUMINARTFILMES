@@ -141,8 +141,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] REFEM - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] REFEM - RES - DUB[/COLOR]</link>
 <link>https://proxy.ec.cx/video.php?url=RCFServer2/ondemand/RFEM.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] REFEM - 1080 - DUB[/COLOR]</link>
-
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] REFEM - RES - DUB[/COLOR]</link>
+<link>http://pdsrv.io:80/movie/109901/109901/69789.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] REFEM - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/rZVH75k/refem-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
