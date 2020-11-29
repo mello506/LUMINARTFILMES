@@ -86,6 +86,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>AVENTURA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
@@ -166,6 +167,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Indiana Jones e seu ajudante Mac escapam por pouco de um encontro com agentes soviéticos, em um campo de pouso remoto. Agora Indiana está de volta à sua casa na Universidade Marshall, mas seu amigo e reitor da escola, Dean Stanforth, explica que suas ações recentes o tornaram alvo de suspeita e que o governo está pressionando para que o demita. Ao deixar a cidade Indiana conhece o rebelde jovem Mutt Williams, que tem uma proposta: caso o ajude em uma missão Indiana pode deparar-se com a caveira de cristal de Akator. Agentes soviéticos também estão em busca do artefato, entre eles a fria e bela Irina Spalko, cujo esquadrão de elite está cruzando o globo atrás da Caveira de Cristal.</info>
 <genre>AVENTURA</genre>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
@@ -257,6 +259,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>AVENTURA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
@@ -265,23 +268,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>COLEÇÃO A MÚMIA COMPLETA</info>
 <genre>AVENTURA</genre>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MÚMIA - 1999 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=bvOlaJD5BTI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MUMIA[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DYD4l4VZEVwn6T717fEqIRt95vRnrW8T/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MUMIA - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4A58C7E73B560F6887A9B4C7E26A840F674C21A5&dn=A%20M%c3%bamia%201999%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MUMIA - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B135423C6D21BB2951BCEE2B10A0FA570BAD0907&dn=A%20M%c3%bamia%201999%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MUMIA - 1080 - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] A MUMIA - RES - DUB[/COLOR]</link>
-
-<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/AMUMIA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MUMIA - 720 - DUB[/COLOR]</link>
-<link>http://vipeiptv.com:25461/movie/macarrao/macarrao/851531.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MUMIA - 720 - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/22025.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MUMIA - 1080 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/w7VyLr3/amumia-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/PNPfqhH/amumia-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Em 1926, um grupo de arqueologistas descobre uma tumba na cidade perdida de Hamunaptra. Dentro da tumba encontrado o corpo de Imhotep, o sacerdote do Faraó Seti, que foi mumificado vivo além de ter recebido a mais terrível das maldições por ter dormido com a amante do faraó e, movido por ciúme doentio e amor, ter matado o Faraó. No entanto, quando um dos membros da expedição lê um manuscrito que foi encontrado pelo grupo e traz Imhotep de volta vida, ele ressurge cheio de ódio e só pensa em reencontrar sua amada e destruir todos que cruzem o seu caminho, trazendo consigo as dez pragas do Egito.</info>
 <genre>AVENTURA</genre>
 </item>
@@ -291,17 +289,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O RETORNO DA MÚMIA - 2001 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=LMLsXedqroo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O RETORNO DA MUMIA[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oHPV9YalRLxaUm5UQS2DFjPGW4yJ2Zyz/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O RETORNO DA MUMIA - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6DD3778629E99115B9364424C932410D319219A9&dn=O%20Retorno%20da%20M%c3%bamia%202001%20%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O RETORNO DA MUMIA - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DB06B0097508DF5A9A52B5A02F5E821ADC61466E&dn=O%20Retorno%20da%20M%c3%bamia%202001%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O RETORNO DA MUMIA - 1080 - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] O RETORNO DA MUMIA - RES - DUB[/COLOR]</link>
-
-<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/ORTNDAMUMIA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O RETORNO DA MUMIA - 1080 - DUB[/COLOR]</link>
-<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/91929.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] O RETORNO DA MUMIA - 720 - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/22650.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] O RETORNO DA MUMIA - 720 - DUB[/COLOR]</link>
+<link>http://dns.playbr.stream:80/movie/boxplay/Jdj4rndn/8225.mp4$$lsname=[B]SERVER 2[/B][COLOR yellow] ->[/COLOR][COLOR lime] O RETORNO DA MUMIA - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/jv4btg6/amumia2-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/WHZp98P/amumia2-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Pronta para andar pela terra mais uma vez, a múmia do poderoso Imhotep continua sua determinada busca pela imortalidade. Mas desta vez uma outra força do mal também está liberta no mundo… ainda mais poderosa do que Imhotep. Quando essas duas forças colidem, o destino do mundo está em perigo, levando Rich e Evie O´Connel a uma desesperada batalha para salvar o mundo da maldade e resgatar seu filho das garras de Imhothep antes que seja tarde demais.</info>
 <genre>AVENTURA</genre>
 </item>
@@ -311,17 +305,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A TUMBA DO IMPERADOR DRAGÃO - 2008 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=9mRpr-L8AQU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A TUMBA DO IMPERADOR DRAGAO[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B0UcQIEY-IAUVEK2ip4QgkdVHr_ocTtP/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A TUMBA DO IMPERADOR DRAGAO - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13BC757F54AA84543E7FA390AFDE06F31D528107&dn=A%20M%c3%bamia%20Tumba%20do%20Imperador%20Drag%c3%a3o%202008%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A TUMBA DO IMPERADOR DRAGAO - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BEAD7F5BD4FFDAB806BEBF6B83E2BC30FFE30DCF&dn=A%20M%c3%bamia%20Tumba%20do%20Imperador%20Drag%c3%a3o%202008%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A TUMBA DO IMPERADOR DRAGAO - 1080 - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] A TUMBA DO IMPERADOR DRAGAO - RES - DUB[/COLOR]</link>
-
-<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/AMUMIATMBDIMPRDDRG.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] A TUMBA DO IMPERADOR DRAGAO - 72O - DUB[/COLOR]</link>
-<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/91930.mkv$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] A TUMBA DO IMPERADOR DRAGAO - 720 - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/22030.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] A TUMBA DO IMPERADOR DRAGAO - 720 - DUB[/COLOR]</link>
+<link>http://dns.playbr.stream:80/movie/boxplay/Jdj4rndn/8169.mkv$$lsname=[B]SERVER 2[/B][COLOR yellow] ->[/COLOR][COLOR lime] A TUMBA DO IMPERADOR DRAGAO - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/0t08tYK/amumia3-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/pPgvMhm/amumia3-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>O impiedoso imperador dragão é amaldiçoado pela feiticeira Zi Juan, o que faz com que ele e seu exército de 10 mil homens seja petrificado. Mais de dois milênios depois o túmulo do imperador dragão é descoberto por Alex O'Connor, filho dos aventureiros Rick e Evelyn, que deixou os estudos para se dedicar à escavação. Seus pais não sabem do trabalho de Alex, que conta com a ajuda do tio, Jonathan Carnahan, dono de uma boate em Xangai. Atualmente Rick e Evelyn levam uma pacata vida em Londres, mas sentem falta da aventura. Um dia eles recebem a proposta de levar um precioso artefato a Xangai e, usando a desculpa de visitar Jonathan, aceitam a missão. Só que ao chegar eles são abordados pelo general Yang, que deseja trazer o imperador dragão de volta à vida.</info>
 <genre>AVENTURA</genre>
 </item>
