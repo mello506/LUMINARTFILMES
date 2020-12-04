@@ -31,13 +31,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGIONÁRIO - 2020 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=p6mxhiBIOlI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGIONARIO[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] O LEGIONARIO - RES - DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9D56907436CA3FAD80BA3DD314BEA9DC50AA2A3&dn=The.Legion.2020.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGIONARIO - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48CCD951664FBC686032C7D1538DBC97B82FB043&dn=The.Legion.2020.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGIONARIO - 1080 - LEG FIX[/COLOR]</link>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] O LEGIONARIO - RES - DUB[/COLOR]</link>
 
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] O LEGIONARIO - RES - DUB[/COLOR]</link>
 
@@ -54,16 +49,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORAÇÃO VALENTE - 1995 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=1NJO0jxBtMo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORACAO VALENTE[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1k3WljZ_scPRcpbKBpu0WkSItVPLXpXZo/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORACAO VALENTE - 1995 - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WFFLYPRSQIASVEM24BHSFLJVTEXRKPWD&dn=Coracao%20Valente%20(1995)%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORACAO VALENTE - 1995 - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6389A9699BE576724DDFA479C90FE5A2CAF7685&dn=Cora%c3%a7%c3%a3o%20Valente%20-%20Edi%c3%a7%c3%a3o%2020%20Anos%20%281995%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20DeG&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORACAO VALENTE - 1995 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=EGZiR3eSE10$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORACAO VALENTE - 1995 - 720 - DUB[/COLOR]</link>
-<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/CRCAOVLNTE.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORACAO VALENTEE - 1080 - DUB[/COLOR]</link>
+
+<link>https://suvinil-vod.azureedge.net/RCFServer1/ondemand/CRCAOVLNTE.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORACAO VALENTEE - 1080 - DUB[/COLOR]</link>
 
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] CORACAO VALENTE - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/9wWXzRX/cora-ovalente-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/8dKL1TF/cora-ovalente-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>A história do herói escocês do século 13,  William Wallace, que lidera seus conterrâneos contra o monarca inglês Edward I, após ter sofrido uma tragédia pessoal causada pelos soldados ingleses. O exército amador de Wallace foi maior que o exército da Inglaterra.</info>
 <genre>ÉPICO</genre> 
 </item>
@@ -73,15 +68,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 2005 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=GFMpHkv9hsw$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1txXcITHJab4t4ZF0pzwHNp738MJmSjS1/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 2005 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B7A97FA7111A0FBC27D1E5E96A06DEFF5CB75037&dn=cruzada+2005+720p+bluray+5+1+x264+dual+bludv&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 2005 - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00f2710da3227ed0f10298423a0fd0323caf0e6e$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 2005 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=Lc-7QXXnutY&t=4s$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 2005 - SD - DUB[/COLOR]</link>
+
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] CRUZADA - RES - DUB[/COLOR]</link>
+
 <link>http://esrv.cc:80/movie/leonardo/123456/16291.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/VWFVMyQ/cruzada-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/mv8p30B/cruzada-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Balian (Orlando Bloom) é um jovem ferreiro francês, que guarda luto pela morte de sua esposa e filho. Ele recebe a visita de Godfrey de Ibelin (Liam Neeson), seu pai, que é também um conceituado barão do rei de Jerusalém e dedica sua vida a manter a paz na Terra Santa. Balian decide se dedicar também à esta meta, mas após a morte de Godfrey ele herda terras e um título de nobreza em Jerusalém. Determinado a manter seu juramento, Balian decide permanecer no local e servir a um rei amaldiçoado como cavaleiro. Paralelamente ele se apaixona pela princesa Sibylla (Eva Green), a irmã do rei.</info>
 <genre>ÉPICO</genre> 
 </item>
@@ -91,15 +87,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ÚLTIMO DOS MOICANOS - 1992 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=yaQeVnN6pUc$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO DOS MOICANOS[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wyNhTYwiqOM5FACetJsxmqrgiRTTvVa2/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO DOS MOICANOS - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VXQERY2B47GEBFZGHAFERZB422HGHBJV&dn=O+%C3%9Altimo+dos+Moicanos+%281992%29+BRrip+Blu-Ray+720p+Dublado+-+DAT2015&tr=udp://tracker.openbittorrent.com:80/announce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO DOS MOICANOS - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFRUJZQBMBQXZFA5LZQCEKSEPXZ6WKKC&dn=O+%C3%9Altimo+dos+Moicanos+%281992%29+BRrip+Blu-Ray+1080p+-+DAT2015&tr=udp://tracker.openbittorrent.com:80/announce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO DOS MOICANOS - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] O ULTIMO DOS MOICANOS - RES - DUB[/COLOR]</link>
-<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/OULMDMICNS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO DOS MOICANOS - 1080 - DUB[/COLOR]</link>
+<link>https://suvinil-vod.azureedge.net/RCFServer1/ondemand/OULMDMICNS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO DOS MOICANOS - 1080 - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] O ULTIMO DOS MOICANOS - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/RSfs8fv/ultimomoicanos-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/R0Ydrjm/ultimomoicanos-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>No século 18, em meio à guerra entre franceses e ingleses no continente norte-americano, um homem branco criado pelos índios tenta defender a sua tribo dos ataques.</info>
 <genre>GENERO</genre>  
 </item>
@@ -109,11 +103,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] GLADIADOR - 2000 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=owK1qxDselE$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] GLADIADOR[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BAirCL6A0ou5kncG3_6YFNEod-4x5yp1/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GLADIADOR - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fd5576760be2db1b8faaa7e12874e5834a479cd&dn=Gladiador+-+Vers%C3%A3o+Estendida+Remasterizada+2000+WWW.BLUDV.COM$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] GLADIADOR V. EST. - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a60b2571a500aa608f35fe71bbeb917e5b691f4&dn=Gladiador+-+Vers%C3%A3o+Estendida+Remasterizada+2000+%5B1080p%5D+WWW.BLUDV.COM$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] GLADIADOR V. EST. - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=hhx3CVQe7nI$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] GLADIADOR - 720 - DUB[/COLOR]</link>
-<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/GLADR.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] GLADIADOR - 1080 - DUB[/COLOR]</link>
+<link>https://suvinil-vod.azureedge.net/RCFServer4/ondemand/GLADR.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] GLADIADOR - 1080 - DUB[/COLOR]</link>
 <link>http://esrv.cc:80/movie/leonardo/123456/15018.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] GLADIADOR - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/C8mhR5P/gladiador-icon.jpg</thumbnail>
@@ -127,15 +119,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] DEMÉTRIUS E OS GLADIADORES - 1954 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=Vm2SbLDnuJ4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] DEMETRIUS E OS GLADIADORES[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1d5DQTmrhbvZJSky_0xNK8VcPC1_Ffstp/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] DEMETRIUS E OS GLADIADORES - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] DEMETRIUS E OS GLADIADORES - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] DEMETRIUS E OS GLADIADORES - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] DEMETRIUS E OS GLADIADORES - RES - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] DEMETRIUS E OS GLADIADORES - RES - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] DEMETRIUS E OS GLADIADORES - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/pjkZj7t/demetrius-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/Xp03Wj9/demetrius-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Um escravo de força extraordinária é encarregado de proteger o manto que Cristo usou na cruz. Depois de ser capturado por Calígula, sua fé é testada quando ele é forçado a competições mortais na arena.</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -145,15 +135,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ÚLTIMO SAMURAI - 2003 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=7pocyXjD_D4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO SAMURAI[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12rFjMOZglEygtQwDpLYjCHcYTaaGY61A/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO SAMURAI - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86AB022B45D15E91D1949C1A342F52EDA3ED43FF&dn=O%20%c3%9altimo%20Samurai%202004%20%28720p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO SAMURAI - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93FAECB451E1067EA523B2BA2348DB98AA54613C&dn=O%20%c3%9altimo%20Samurai%202004%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO SAMURAI - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] O ULTIMO SAMURAI - RES - DUB[/COLOR]</link>
-<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/OULTMSMRAI.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO SAMURAI - 720 - DUB[/COLOR]</link>
+<link>https://suvinil-vod.azureedge.net/RCFServer4/ondemand/OULTMSMRAI.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO SAMURAI - 720 - DUB[/COLOR]</link>
 <link>http://esrv.cc:80/movie/leonardo/123456/15211.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] O ULTIMO SAMURAI - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/Kr5rgmp/ultimosamurai-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/89XGP5k/ultimosamurai-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>O soldado Nathan Algren deixa os Estados Unidos rumo ao Japão feudal. Na tentativa de derrotar um comandante, é capturado. Algren sabe o destino de prisioneiros inimigos, mas fica surpreso ao ser poupado e se sente atraído pelo estilo de vida dos Samurai, entre outras coisas.</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -163,15 +151,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] DANÇA COM LOBOS - 1990 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=8ZcT9OGsmFA$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] DANCA COM LOBOS[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B_YTcryG9XyWaCFOKxqw9QeKliAm4734/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] DANCA COM LOBOS - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9CF5E0CF4FE3DA9CFBC1AD5CC56B0E6AD555714B&dn=Dan%c3%a7a%20com%20Lobos%20720p%20%281990%29%20Dual%20%c3%81udio%20BluRay%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2770%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] DANCA COM LOBOS - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B6BE178BA3E7CF9218E36B631B079EFACD95A50B&dn=Dan%c3%a7a%20com%20Lobos%201080p%20%281990%29%20Dual%20%c3%81udio%20BluRay%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2770%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] DANCA COM LOBOS - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] DANCA COM LOBOS - RES - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] DANCA COM LOBOS - RES - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] DANCA COM LOBOS - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/gTR9mW6/dancaclobos-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/QD6Wj5f/dancaclobos-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>No período da Guerra Civil Americana, o jovem militar John Dunbar cria uma estratégia não violenta de aproximação com índios Sioux. Os indígenas, que acham curiosa a amizade de Dunbar com um lobo, passam a conviver de forma afetuosa com o tenente.</info>
 <genre>ÉPICOS</genre>  
 </item>
@@ -181,13 +167,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD - 2010 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=qDqtvVWyoso$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EUg56c4wPyRhMzTcVNlAH2n2T7bOIlSv/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] ROBIN HOOD - RES - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6733D1FF93AD39528E6BF9110F6EA399E309A2F3&dn=Robin%20Hood%20Sem%20Cortes%20BLUDV&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C4E7D0ADCEA010BF4E925622DB8974516CBDAA4&dn=Robin%20Hood%20Sem%20Cortes%20%5b1080p%5d%20BLUDV&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD - 1080 - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] ROBIN HOOD - RES - DUB[/COLOR]</link>
-
-<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/RBNHOD.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD - 1080 - DUB[/COLOR]</link>
+<link>https://suvinil-vod.azureedge.net/RCFServer3/ondemand/RBNHOD.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD - 1080 - DUB[/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/22708.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD - 720 - DUB[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
@@ -201,10 +183,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD O PRÍNCIPE DOS LADRÕES - 1991 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=Zq1CloX7tQU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD O PRINCIPE DOS LADROES[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a7f4SzKRVnzERa3hYX90x_jKkNgvMRHq/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] ROBIN HOOD O PRINCIPE DOS LADROES - RES - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2SXCC6A2EGGN3OY5LL4NLDB32NJAD4I7&dn=Robin+Hood+-+O+Pr%C3%ADncipe+dos+Ladr%C3%B5es+%281991%29+BRrip+Blu-Ray+720p+Dublado+-+DAT2015&tr=udp://tracker.openbittorrent.com:80/announce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD O PRINCIPE DOS LADROES - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] ROBIN HOOD O PRINCIPE DOS LADROES - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] ROBIN HOOD O PRINCIPE DOS LADROES - RES - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] ROBIN HOOD O PRINCIPE DOS LADROES - RES - DUB[/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/22709.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROBIN HOOD O PRINCIPE DOS LADROES - RES - DUB[/COLOR]</link>
 
@@ -221,7 +201,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=J73aDZuAx2I$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 10.000 A.C.[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86DCE3949D7670D5DC19FE78F3AA06FB8F7372B6&dn=10.000%20A.C.%202008%20WWW.BLUDV.COM&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] 10.000 A.C. - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35056ED055E85A9AEFAB9A0A5DE59D6F7938608D&dn=10.000%20A.C.%202008%20%5b1080p%5d%20WWW.BLUDV.COM&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] 10.000 A.C. - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] 10.000 A.C. - RES - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] 10.000 A.C. - RES - DUB[/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/21992.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] 10.000 A.C. - 720 - DUB[/COLOR]</link>
 
@@ -238,7 +217,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=1zh4rMKiPmo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A AGUIA DA LEGIAO PERDIDA[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:172f79e24ef8df4ab1a48e26c7e7f156d3f2b04f&dn=A+%26Aacute%3Bguia+da+Legi%26atilde%3Bo+Perdida+%282011%29+BDRip+720p+dublad&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A AGUIA DA LEGIAO PERDIDA - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afd1647f9d321eb75c2eebc8a4f14fe29c4fb29c&dn=A+%C3%81guia+da+Legi%C3%A3o+Perdida+2011+%5B1080p%5D+WWW.BLUDV.COM$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A AGUIA DA LEGIAO PERDIDA - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] A AGUIA DA LEGIAO PERDIDA - RES - DUB[/COLOR]</link>
 
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] A AGUIA DA LEGIAO PERDIDA - RES - DUB[/COLOR]</link>
 
@@ -258,8 +236,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7adf63f0482961b45f77395fbb1f79a739c43fef&dn=Rei+Arthur+%282004%29+BDRip+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] REI ARTHUR - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3bc13849ec881301619bddc7f338a1e28c4ad5f&dn=Rei+Arthur+%282004%29+BDRip+1080p+5.1+Dual+%26Aacute%3Budio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] REI ARTHUR - 1080 - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] REI ARTHUR - RES - DUB[/COLOR]</link>
-
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] REI ARTHUR - RES - DUB[/COLOR]</link>
 
 <link>http://p-fun.fun:80/movie/VoDOnTvBR2030/2018vod2/38096.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] REI ARTHUR - 720 - DUB[/COLOR]</link>
@@ -276,11 +252,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.youtube/play/?video_id=BE7QDaBoo_4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] EL CID[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E711A7961E4875004FEA58F80B6D8A974DBA5DA8&dn=El%20Cid%20%281961%29%20BluRay%20720p%20DUBLADO.mp4&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=http%3a%2f%2ftracker.torrentyorg.pl%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fdenis.stalker.upeer.me%3a6969%2fannounce&tr=http%3a%2f%2ftracker.yoshi210.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftorrentclub.tech%3a6969%2fannounce&ws=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&ws=http%3a%2f%2ftracker.torrentyorg.pl%3a80%2fannounce&ws=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&ws=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&ws=udp%3a%2f%2fdenis.stalker.upeer.me%3a6969%2fannounce&ws=http%3a%2f%2ftracker.yoshi210.com%3a6969%2fannounce&ws=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&ws=udp%3a%2f%2ftorrentclub.tech%3a6969%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] EL CID - 720 - DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] EL CID - 1080 - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.youtube/play/?video_id=GqQ4mLmyP_g$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] EL CID - SD - DUB[/COLOR]</link>
-<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/ELCID.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] EL CID - 720 - DUB[/COLOR]</link>
+<link>https://suvinil-vod.azureedge.net/RCFServer5/ondemand/ELCID.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] EL CID - 720 - DUB[/COLOR]</link>
 
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] EL CID - RES - DUB[/COLOR]</link>
 
@@ -298,9 +271,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=86hH_yUDPvw&feature=emb_logo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALEXANDRE[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5EA288B70FEF6369EEEC7389D944E2DCCC531AE9&dn=Alexandre%20-%20O%20Grande%202004%205.1%20DUBLADO%20%28720p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALEXANDRE - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALEXANDRE - 1080 - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] ALEXANDRE - RES - DUB[/COLOR]</link>
-
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] ALEXANDRE - RES - DUB[/COLOR]</link>
 
 <link>http://maxpig.live:8080/movie/adriano123/adriano123/2013.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALEXANDRE - 720 - DUB[/COLOR]</link>
@@ -318,8 +288,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=g4I5qyVWnk0&feature=emb_logo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] LEGITIMO REI[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77425f6139ca18db2e8aebb4f85d1c3d6fcf3c78&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Leg%c3%adtimo%20Rei%202018%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUAL%5d$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] LEGITIMO REI - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e3ac66919beee75bc0ec11d8a22661ae96f3f8a&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Leg%c3%adtimo%20Rei%202018%20%5bWEB-DL%5d%20%5b1080p%5d%20%5bDUAL%5d$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] LEGITIMO REI - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] LEGITIMO REI - RES - DUB[/COLOR]</link>
-<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/LGTMREI.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] LEGITIMO REI - 1080 - DUB[/COLOR]</link>
+<link>https://suvinil-vod.azureedge.net/RCFServer3/ondemand/LGTMREI.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] LEGITIMO REI - 1080 - DUB[/COLOR]</link>
 <link>http://maxpig.live:8080/movie/adriano123/adriano123/24666.mp4L$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] LEGITIMO REI - 720 - DUB[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
@@ -335,8 +304,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=-6xf5q97wTA$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] BEN HUR[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D7353A3FBE74FB68D9FB3A098E12285E9A2E1A6&dn=Ben%20Hur%202016%20Bluray%20720p%20Dublado%20TPF&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] BEN HUR - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:974EC78A710573BC2A275163B8A842B1000871B4&dn=Ben%20Hur%202016%20Bluray%201080p%20Dublado%20-%20TPF&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] BEN HUR - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] BEN HUR - RES - DUB[/COLOR]</link>
-<link>https://proxy.ec.cx/video.php?url=RCServer12/ondemand/BNHREP02.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] BEN HUR - 1080 - DUB[/COLOR]</link>
+<link>https://suvinil-vod.azureedge.net/RCServer12/ondemand/BNHREP02.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] BEN HUR - 1080 - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] BEN HUR - RES - DUB[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
@@ -352,9 +320,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=3wnpRyWD4fI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CENTURIAO[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52a73fa559a8158b835181315f561f65577afe8c&dn=Centuri%26atilde%3Bo+%282010%29+BDRip+Bluray+720p+dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CENTURIAO - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61c1841b7f3a59ea0afe07a2ae1dd12cf1935030&dn=Centurion+%282010%29+720p+mkv+-+500MB+-+YIFY&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CENTURIAO - 1080 - LEG[/COLOR]</link>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] CENTURIAO - RES - DUB[/COLOR]</link>
-
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CENTURIAO - 1080 - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CENTURIAO - 720 - DUB[/COLOR]</link>
 
@@ -372,9 +337,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76bd079eacc806e2a3fd5470b73e7a68fda3285f$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] TROIA - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91DAA0F3BCB380AC92D776EBFC6044F9DD706FD4&dn=Troia.Vers%c3%a3o.Diretor.2004.BluRay.1080p.Dual.Audio.D4V1.WWW.BLUDV.COM$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] TROIA - 1080 - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] TROIA - RES - DUB[/COLOR]</link>
-
-<link>https://proxy.ec.cx/video.php?url=RCFServer2/ondemand/TROIA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] TROIA - 1080 - DUB[/COLOR]</link>
+<link>https://suvinil-vod.azureedge.net/RCFServer2/ondemand/TROIA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] TROIA - 1080 - DUB[/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26917.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] TROIA - 720 - DUB[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
@@ -390,8 +353,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=9gQjRrVE5rI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] POMPEIA[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b4a84832d7bcf7c46819baa9e37f4c7dbac11c2&dn=Pompeia.%282014%29.Dublado.720p.&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] POMPEIA - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f23e509db962d06b03d27deac4d2912097df29e&dn=Pompeia+%282014%29+Bluray+1080p+Dublado+5.1+Ch&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] POMPEIA - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=qstlbMh95Cc$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] POMPEIA - RES - DUB[/COLOR]</link>
-<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/PMPEIA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] POMPEIA - 720 - DUB[/COLOR]</link>
+
+<link>https://suvinil-vod.azureedge.net/RCFServer4/ondemand/PMPEIA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] POMPEIA - 720 - DUB[/COLOR]</link>
 <link>http://familytv.net:80/movie/Mari20/Mari20/74566.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] POMPEIA - 720 - DUB[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
@@ -408,9 +371,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B1DFB56A8C638D22F73271BE3E50374CF785915&dn=h%C3%A9rcules+2014+brrip+blu+ray+720p+dublado+mp4+andretpf&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] HERCULES - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06F2C5B38A3F714BE738E938655B1957320FFEA0&dn=h%C3%A9rcules+2014+brrip+1080p+5+1+ch+aac+mp4+dublado+andretpf&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] HERCULES - 1080 - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] HERCULES - RES - DUB[/COLOR]</link>
-
-<link>https://proxy.ec.cx/video.php?url=RCFServer2/ondemand/HERCLS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] HERCULES - 1080 - DUB[/COLOR]</link>
+<link>https://suvinil-vod.azureedge.net/RCFServer2/ondemand/HERCLS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] HERCULES - 1080 - DUB[/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26446.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] HERCULES - 720 - DUB[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
@@ -428,8 +389,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74A5C492CE9A340580DD59AC4FA347E158655365&dn=Rei%20Arthur%20-%20A%20Lenda%20da%20Espada%202017%20%5bBluRay%5d%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] REI ARTHUR - A LENDA DA ESPADA - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ED4F7925231F0CFFF0E43CD38A6F72253E4B2F2B&dn=Rei%20Arthur%20-%20A%20Lenda%20da%20Espada%202017%20%5bBluRay%5d%20%281080p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] REI ARTHUR - A LENDA DA ESPADA - 1080 - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] REI ARTHUR - A LENDA DA ESPADA - RES - DUB[/COLOR]</link>
-
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] REI ARTHUR - A LENDA DA ESPADA - 1080- DUB[/COLOR]</link>
 <link>http://familytv.net:80/movie/Lucielio06/Lucielio06/74591.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] REI ARTHUR - A LENDA DA ESPADA - 720 - DUB[/COLOR]</link>
 
@@ -441,192 +400,5 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<item>
-<title>[COLOR lime]LS-> A QUEDA DO IMPÉRIO ROMANO - 1964 - 720 - DUB[/COLOR]</title>
-<thumbnail>http://eovideolevou.com.br/imgProduto/29995_f1.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/gzjPKIqFl2RGAyokda0XuEp1xJJ.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1nUCtnGPTB47OmMwZCUAIWVAOT5M5Pt3B/view</link>
-<info>O leal soldado romano Lívio segue os princípios do sábio Imperador Marco Aurélio, esperando criar uma república pacífica. Mas os sonhos e planos de Lívio parecem ser frustrados quando o corrupto Comodo chega ao trono.</info>
-<genre>ÉPICOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS-> EXCALIBUR - 1981 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yjPnQDvhFh41227othpY3qm92U.jpg</thumbnail>
-<fanart>https://www.uliege.be/upload/docs/image/jpeg/2018-10/agenda-legendearthurepee.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/18fcPZBe93VXdKU_1CSSQ46xfrSLazzir/view</link>
-<info>O mago Merlin dá ao rei Uther Pendragon  a mística Excalibur, a espada do poder. Durante uma emboscada Uther é ferido mortalmente e, pouco antes de morrer, enterra a espada em uma pedra. Fica então decidido que o cavaleiro que puder retirá-la da pedra será o novo rei, mas ninguém consegue. Anos depois o país estava divido em guerra entre os senhores feudais e Arthur, um jovem escudeiro, retira facilmente a espada da pedra. Alguns nobres juram fidelidade ao novo rei e Merlin relata que Arthur é um filho bastardo de Uther, mas alguns nobres não aceitam sua autoridade.</info>
-<genre>ÉPICOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<item>
-<title>[COLOR lime]LS-> VIKINGS OS CONQUISTADORES - 1958 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/8yWXojwO5LJWvf83be0yDjjobJ7.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/sncFo2xTfZFv7ApUZlqM9QFip8X.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1luL4zOeEQbaKqB_H094VjLznJwaw1bba/view</link>
-<info>Einar e Eric são meio-irmãos. Um é o príncipe e herdeiro do trono inglês; o outro é o filho bastardo de um selvagem viking. Até que em um ataque surpresa, os Vikings sequestram a princesa Morgana, forçando Einar e Eric a uma batalha para tentar recuperá-la, mas por motivos diferentes.</info>
-<genre>ÉPICOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS-> BEN HUR - 1959 -720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/1LIr3W9fM2sT9cwXHmN9cKlXjCk.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zYtWYsxf7DOXqrrcMPxknS2KPop.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1DC0wDf8GOVotcZYbyPLYrQlKE6aOzuVB/view</link>
-<info>Em Jerusalém no início do século I vive Judah Ben-Hur, um rico mercador judeu. Mas, com o retorno de Messala, um amigo da juventude que agora é o chefe das legiões romanas na cidade, um desentendimento devido a visões políticas divergentes faz com que Messala condene Ben-Hur a viver como escravo em uma galera romana, mesmo sabendo da inocência do ex-amigo. Mas o destino vai dar a Ben-Hur uma oportunidade de vingança que ninguém poderia imaginar.</info>
-<genre>ÉPICOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<item>
-<title>[COLOR lime]LS-> OS DEZ MANDAMENTOS - 1956 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://f001.backblazeb2.com/file/papocine/2016/02/20160219-os-dez-mandamentos-1956-600x843.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rKiNFQYpe0qPbVKkBWbUJAVtNl.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1kNDKick-yLv_b8f4_EF-aoJtvz3z6_aJ/view</link>
-<info>A épica vida de Moisés, desde recém-nascido, quando foi colocado nas águas em um cesto e acabou sendo adotado por uma princesa egípcia, até quando descobre sua real condição e decide liderar seu povo que, escravizado pelos egípcios, anseia pela liberdade.</info>
-<genre>ÉPICO</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]APOCALYPTO - 2006 - 720 - LEG[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pONUFedXdonMCVBmMSP4gThEq7K.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/iCMhxXoa53Jdm68R91QlZbFVx6R.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1yhPe19o-fRT9Sjjrv_rF9ezUI26m6WfB/view</link>
-<info>Jaguar Paw levava uma vida tranquila, que foi interrompida devido à uma invasão. Os governantes de um império maia em declínio acreditavam que a chave para a prosperidade seria construir mais templos e realizar mais sacrifícios humanos. Jaguar é capturado para ser um destes sacrifícios, mas consegue escapar por acaso. Agora, guiado apenas pelo amor que sente por sua esposa e pela filha, ele realiza uma corrida desesperada para chegar em casa e salvar sua família.</info>
-<genre>ÉPICO</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS-> JASÃO E O VELO DE OURO - 1963 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWtZQzAu4uobJRqz1XyvxKRRjlW.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/qX3gnd1YbwR3cmWbtgiJCFHTjO4.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/11Z5o8LhnLQmLfddZG4aIEory_PUzn5SE/view</link>
-<info>Na Grécia antiga, Jasão, no intuito de retomar o trono do reino de Tessália, roubado pelo usurpador Pélias, que lhe é devido por nascimento, parte em busca do Velo de Ouro, o símbolo de que os deuses não abandonaram a cidade. Assim, ele parte em busca de uma equipe corajosa o suficiente para acompanhá-lo em sua missão, se utilizando de jogos olímpicos para recrutá-la. Durante a viagem, enfrentam muitos perigos, como o Titã Talos, uma gigantesca estátua de bronze que os ataca na Ilha do Bronze, salvam o cego Fineu da tortura das Harpias, mulheres-pássaros que roubam sua comida todos os dias, encontram o deus Netuno, que os salva de um destino terrível, resgatam a sacerdotisa Medeia de um naufrágio, entre muitas outras aventuras. Quanto mais Jasão se aproxima da conquista do Velo de Ouro, mais os perigos aumentam.</info>
-<genre>ÉPICO</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS-> CLEÓPATRA - 1963 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gatZYIySnwFDCvGEiP8swEyilQz.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/tS3ms6HM52hLLU3eRdjVPSgSS4w.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1_FbA9IfZLo54_yXWV3XrYI0qj3nWsMZS/view</link>
-<info>O filme narra a ascensão e o declínio de Cleópatra, rainha do Egito, sua luta para defender o império das ambições políticas e territoriais de Roma e seu relacionamento com Júlio César e Marco Antônio.</info>
-<genre>ÉPICO</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS-> LAWRENCE DA ARABIA - 1962 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQbjWEbYWr3PaIWvOLVkOaBX4DG.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/1XkzH0xQUgDTnXwIPKT5zDOUGJi.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1YMWMF-GuKljo_kYJ6zsCUL-lx7ik421N/view</link>
-<info>Em 1935, quando pilotava sua motocicleta, T.E.Lawrence (Peter O'Toole) morre em um acidente e, em seu funeral, é lembrado de várias formas. Deste momento em diante, em flashback, conhecemos a história de um tenente do Exército Inglês no Norte da África, que durante a 1ª Guerra Mundial, insatisfeito em colorir mapas, aceita uma missão como observador na atual Arábia Saudita e acaba colaborando de forma decisiva para a união das tribos árabes contra os turcos.</info>
-<genre>ÉPICO</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]REDBAD - A INVASÃO DOS FRANCOS - 2018 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhhfzRFx8bwrGnz3KYNXfj4MQBr.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/pCXDivpeDbHHRIk5ESE8nJIcY0r.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1S9ugzq1VB9NUoLuddFznFC6yYWjiswQ_/view</link>
-<info>Redbad, filho do rei Aldigsl, está duvidando dos rituais ultrapassados de seu povo, os frísios. Ele entra em conflito com o pai quando sua namorada, Fenne, é indicada para ser sacrificada aos deuses. Durante o ritual de sacrifício, os francos entram na cidade. Na batalha, a cidade de Dorestad é capturada e o ambicioso Eibert, tio de Redbad, toma o poder e culpa o sobrinho pela derrota. Amarrado a uma jangada, Redbad é lançado ao mar, mas sobrevive e chega à costa, sendo resgatado pelos vikings. Para libertar seu povo, Redbad conta com a ajuda dos vikings. Mas seriam eles fortes o bastante?</info>
-<genre>ÉPICO</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS-> A ODISSÉIA - 1997 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7P5TgpDBzwWisnlMHWVa79E1GY.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/xWQ0KxliLlrtGX3Uqcn3yVY3cn9.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1-Ue3x6NB_8lGgu3-j2v-p3m3VoEPBvIP/view</link>
-<info>Após dez anos, a Guerra de Troia chega ao fim e o herói Odisseu faz uma viagem de volta para casa. Ele enfrenta criaturas mitológicas, deuses e outros inimigos poderosos.</info>
-<genre>ÉPICO</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS-> OS CAVALEIROS DA TÁVOLA REDONDA - 1953 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIOQGsQEBWgesRv7Kyweh2kVMVm.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/60mFqK2vR41lLmJF6emiVyEYbnd.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1HsgTX3ZHYOrLqb34lv-KyJN3NRaBYpLx/view</link>
-<info>O recém coroado rei da Inglaterra, Arthur Pendragon dedica seu reinado e a irmandade dos Cavaleiros da Távola Redonda aos ideais de paz e justiça. Apoiando o Rei Arthur em seus objetivos está a sua amada Rainha Guinevere, o nobre Sir Lancelot e o misterioso Merlin. Lancelot e Guinevere estão divididos entre a secreta paixão que os envolve e a lealdade e respeito que nutrem por Arthur. Mas essa traição não é nada se comparada ao ódio que a feiticeira Morgana, meia irmã de Arthur, e seu filho Mordred sentem pelo Rei de Camelot.</info>
-<genre>ÉPICO</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS- OS DUELISTAS - 1977 - 720 - LEG FIX[/COLOR]</title>
-<thumbnail>https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/91/11/59/20130287.jpg</thumbnail>
-<fanart>https://i1.wp.com/roadmovie.com.br/wp-content/uploads/2019/03/duellists-1.jpg?fit=1197%2C663&ssl=1</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1ioLRqFa08hbf3STmqqPQqBOsGQcpI9UR/view</link>
-<info>Dois oficiais do Exército de Napoleão, D'Hubert e Feraud, passam as horas de folga desafiando um ao outro para duelos sangrentos. Depois de 16 anos de duelos sem nenhum sinal de trégua, os dois têm um confronto final.</info>
-<genre>ÉPICO</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS-> WATERLOO - A BATALHA DE NAPOLEÃO - 1970 - SD  - LEG FIX[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCTgVa7ipTu7BOeD7nydhA5vx66.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/qMRdCfAnFLawsThEFPFm5yefB7E.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1yG6rAfkYM5QKMcVYdtwzKGtawfCr3mvV/view</link>
-<info>Épico histórico que conta a saga de Napoleão, na batalha de Waterloo. Em 1815, após escapar da Ilha de Elba, Napoleão organiza seu exército para participar da luta decisiva na Bélgica contra os exércitos da Inglaterra e da Prússia.</info>
-<genre>ÉPICO</genre>
-</item>
-<item
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[COLOR lime][B] SÉRIES DE ÉPICOS[/B][/COLOR] </name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/E1-SERIESDEEPICOS</externallink>
-<thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>AS SÉRIES DE ÉPICOS ESTÃO AQUI</info>
-<genre>ÉPICOS</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[COLOR lime][B] COLEÇÕES DE FILMES ÉPICOS[/B][/COLOR] </name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/2B-COLFILMEPICOS</externallink>
-<thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES ÉPICOS ESTÃO AQUI </info>
-<genre>ÉPICOS</genre>
 
 
