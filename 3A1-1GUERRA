@@ -23,20 +23,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] FLYBOYS - 2006 - DUB [/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=qhKnuKFEKcA$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] FLYBOYS[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F21EdtzzOgmrCUoc-uJGN4Sqt-gspNjH/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FLYBOYS - 2006 - 1080 DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] FLYBOYS - 2006 - 720 - DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3972F71683FCF9AADCA49FCD43333C39AE553F18&dn=Flyboys%20%282006%29%201080p%20Dublado%20-%20Alan_680&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] FLYBOYS - 2006 - 1080 - DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.youtube/play/?video_id=oXkwGFwfc6g$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FLYBOYS - 2006 - 720 - DUB[/COLOR]</link>
-
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] FLYBOYS - 2006 - 720 - DUB[/COLOR]</link>
+<link>https://suvinil-vod.azureedge.net/RCFServer1/ondemand/FLBYS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] FLYBOYS - 2006 - 720 - DUB[/COLOR]</link>
 
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] FLYBOYS - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/N1ysv46/flyboys-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/SdP3Sms/flyboys-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Antes dos Estados Unidos participarem da Primeira Guerra Mundial, jovens americanos foram os primeiros pilotos de combate americanos e formaram o esquadrão conhecido como "Lafayette Escadrille"</info>
 <genre>1ª GUERRA</genre>  
 </item>
@@ -47,7 +42,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] GALLIPOLI - 1981 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=ngu6HDmFKZ4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] GALLIPOLI[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rowYW_b-NlZveh6ibvGaGWgMWtPQhaRk/view$$lsname=[B]G DRIVE[/B][COLOR yellow]->[/COLOR][COLOR lime] GALLIPOLI - 1981 - 720 - DUB[/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] GALLIPOLI - 1981 - DUB[/COLOR]</link>
 
@@ -59,7 +53,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] GALLIPOLI - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/KwgmJLx/gallipoli-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/Gp7x1Rm/gallipoli-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Unidos pelo idealismo, dois amigos velocistas australianos se alistam no exército em 1915. Enviados para lutar contra os turcos na lendária batalha de Gallipoli, eles se deparam com os horrores da guerra.</info>
 <genre>1ª GUERRA</genre>  
 </item>
@@ -79,7 +73,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] O ULTIMO BATALHAO - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/7RmFMxZ/ultimobatalhao-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/zJ8ffz4/ultimobatalhao-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Durante a Primeira Guerra Mundial, o jovem advogado nova-iorquino Charles Whitesay é promovido a major e enviado ao combate à frente de um batalhão formado por quinhentos outros nova-iorquinos e caipiras do interior do país. O resultado foi a concessão de 3 medalhas de honra.</info>
 <genre>1ª GUERRA</genre>  
 </item>
@@ -101,7 +95,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://vipeiptv.com:25461/movie/macarrao/macarrao/787336.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CAVALO DE GUERRA - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/Js8Y9RG/cavalodeguerra-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/cTfMv7B/cavalodeguerra-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Ted Narracot (Peter Mullan) é um camponês destemido e ex-herói de guerra. Com problemas de saúde e bebedeiras, batalha junto com a esposa Rose (Emily Watson) e o filho Albert (Jeremy Irvine) para sobreviver numa fazenda alugada, propriedade de um milionário sem escrúpulos (David Tewlis). Cansado da arrogância do senhorio, decide enfrentá-lo em um leilão e acaba comprando um cavalo inadequado para os serviços de aragem nas suas terras. O que ele não sabia era que seu filho estabeleceria com o animal um conexão jamais imaginada. Batizado de Joey pelo jovem, os dois começam seus treinamentos e desenvolvem aptidões, mas a 1ª Guerra Mundial chegou e a cavalaria britânica o leva embora, sem que Albert possa se alistar por não ter idade suficiente. Já nos campos de batalha e durante anos, Joey mostra toda a sua força e determinação, passando por diversas situações de perigo e donos diferentes, mas o destino reservava para ele um final surpreendente. </info>
 <genre>1ªGUERRA</genre>  
 </item>
@@ -122,7 +116,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/84773.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] 1917 - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/LCXBry9/1917-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/WDtPfGs/1917-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.</info>
 <genre>1ªGUERRA</genre>  
 </item>
@@ -145,7 +139,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] TERRENO PROIBIDO - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/zs0bfHv/terrenoproibido-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/3kjXzR9/terrenoproibido-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Terreno Proibido é a incrível história de um trio de soldados na Primeira Guerra Mundial, surpreendidos em uma explosão, que ficam encurralados entre duas trincheiras. Desesperados para chegar à segurança das trincheiras inglesas, os homens precisam atravessar um lamaçal e enfrentar um bombardeio de granadas, gás, rajada de metralhadoras e artilharia pesada, à medida que os alemães rapidamente se aproximam de sua localização. Com autenticidade e impressionantes efeitos, este filme mostra a guerra como jamais vista. Situado em França 1916.</info>
 <genre>1ª GUERRA</genre>  
 </item>
@@ -166,7 +160,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] O SILENCIO DA MONTANHA - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/kHL5wZD/silenciomontanha-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/6Y6xTv2/silenciomontanha-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Itália, 1915. Os jovens Andreas (William Moseley) e Francesca (Eugenia Costantini) se conhecem no casamento da irmã dele e logo se apaixonam perdidamente. Na mesma época, a Itália declara guerra a Áustria-Hungria e a Primeira Guerra Mundial eclode. Andreas é chamado a lutar no fronte, nas montanhas Dolomitri, localizadas no norte da Itália, mas deixa com Francesca um sinalizador para que ela acenda caso esteja em perigo. Quando o conflito se agrava, o batalhão do rapaz descobre que o seu vilarejo está sendo atacado, e no momento em que a moça pede ajuda, ele precisa decidir entre lutar pelo seu país ou por sua amada.</info>
 <genre>1ª GUERRA</genre>
 </item>
@@ -185,7 +179,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://xtr1.life:8080/movie/bru123/bru123/127886.mkv$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] HEROIS DE UMA GUERRA - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/zxQXPxz/heroisumaguerra-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/kXJBx0P/heroisumaguerra-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Esta é uma história, inspirada em eventos reais, sobre os soldados de uma bateria de canhões na Primeira Guerra Mundial que, como centenas de milhares de outras pessoas, fizeram com que a glória do exército sérvio se tornasse imortal.</info>
 <genre>1ª GUERRA</genre>
 </item>
@@ -212,7 +206,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 <thumbnail>https://i.ibb.co/bQWs9mq/eternoamor-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/zxGwJc3/eternoamor-fan.jpg</fanart>
+<fanart>http://bit.do/entrarfanart</fanart>
 <info>Mathilde recebe um comunicado de que seu noivo foi morto durante a Primeira Guerra Mundial. Mas ela se recusa a acreditar na triste notícia, e decide contratar um detetive para investigar o que realmente aconteceu no campo de batalha.</info>
 <genre>1ª GUERRA</genre>  
 </item>
