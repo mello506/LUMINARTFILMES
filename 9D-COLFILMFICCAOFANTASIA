@@ -11,458 +11,111 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels></channels>
 <channel>
-<name>[COLOR blue][B] SUSPENSE E TERROR[/B][/COLOR]</name>
+<name>[COLOR blue][B] COLEÇÕES DE FILMES DE FICÇÃO E FANTASIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/9F-COLFILMSUSPENSETERROR</externallink>
 <thumbnail>https://i.ibb.co/106mp2t/suspenseterror-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SUSPENSE E TERROR</info>
-<genre>SUSPENSE E TERROR</genre> 
+<info>COLETÂNEAS DAS SEQUÊNCIAS DOS MELHORES FILMES DE SUSPENSE E TERROR ESTÃO AQUI</info>
+<genre>SUSPENSE E TERROR</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B] FILMES DE TERROR[/B][/COLOR]</name>
+<name>[COLOR lime][B] COLEÇÕES DE FILMES DE FICÇÃO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/K7MJ4Lp/filmesterror-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE SUSPENSE E TERROR ESTÃO AQUI</info>
-<genre>SUSPENSE E TERROR</genre>
+<info>AS MELHORES COLEÇÕES DE FILMES DE FICÇÃO ESTÃO AQUI</info>
+<genre>FICÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CHAVE MESTRA - 2005 - DUB[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1 - 1996 - DUB[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=MM9PJ5DvKys$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CHAVE MESTRA[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a0b360ec6afaa164725f98bdf6ee7bf095123b5&dn=A+Chave+Mestra+%282005%29+BluRay+720p+Dual+Audio&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CHAVE MESTRA - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab61ebb199bc737e0e2c1cc31db9b024185310dd&dn=A+Chave+Mestra+%282009%29+BDRip+1080p+5.1+Dual+%26Aacute%3Budio&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CHAVE MESTRA - 1080 - DUB[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/ACHVMSTRA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CHAVE MESTRA - 1080 - DUB[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/24606.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CHAVE MESTRA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=qOlVj9tmAHk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TXQY0rG0JeuBo6IbZGsvziIeRSbVfUPa/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2c955e4cfd4d56544fcc174d1df94a4b679059a&dn=Independence+Day+%281996%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DEDCDD7BB1B2920E5234CDF71CC04422197EA3C8&dn=Independence%20Day%20o%20Ressurgimento%202016%201080p%20Bluray%205.1CH%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce$$lsname=[B]TORRENT1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1 - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer2/ondemand/INDPNDAY.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] INDEPENDENCE DAY 1 - RESOLUCAO - DUB[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Caroline aceita trabalhar como enfermeira para um casal de deficientes que vive em uma estranha mansão em Nova Orleans. Após encontrar objetos misteriosos, ela começa a desvendar o passado sinistro do casal.</info>
-<genre>TERROR</genre>  
+<thumbnail>https://i.ibb.co/GtMyC2T/independay-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/nj5fLK1/independay-fan.jpg</fanart>
+<info>Uma aventura épica mostra um fenômeno em todo o mundo: céus em chamas e o terror nas maiores cidades do planeta. Com ataques cada vez mais fulminantes e uma magnitude sem igual, a aniquilação da raça humana pode estar para acontecer no final de semana do feriado de 4 de julho. Um improvável grupo unido pelo destino tenta evitar o nosso fim.</info>
+<genre>FICÇÃO</genre>  
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O FIM DO DIA - 2016  - DUB[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO - 2016 - DUB[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=NgM1nWRbibw$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O FIM DO DIA[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:941ACAF8BAD85B1CC7ABCE13AA34D9B31CDA78E6&dn=O%20Fim%20do%20Dia%202017%20%5bBluRay%5d%20%5b720p%5d%20%5bDUAL%5d%20COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2790%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O FIM DO DIA - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BFD108AF7B5F009D31BFB6E01F7332C10B133781&dn=O%20Fim%20do%20Dia%202017%20%5bBluRay%5d%20%5b1080p%5d%20%5bDUAL%5d%20COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2790%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O FIM DO DIA - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=XxS5fTI9ur0&feature=youtu.be&fbclid=IwAR0o8AeZ6T3SB1mwMd0VLOQfeJUI6yFwLeESxaX8H2TVWx-0RQtS_yNrzxs$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O FIM DO DIA - 720 - DUB[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/OFMDODIA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O FIM DO DIA - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=DNzbxU0d6IY$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18heDmbJdRPJDzOxYlUwxEkicA7LF1-KR/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO - SD- DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485880C4FA34D9D52E247B2A2CD195B60A6170AA&dn=Independence%20Day%20O%20Ressurgimento%202016%20720p%20WEB-DL%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF6A2F397BA8A2DBAE4A702DE99A65709DCECEF8&dn=Independence%20Day%20O%20Ressurgimento%202016%201080p%20WEB-DL%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/INDPNDAYORSGMNT.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Ja2k65uOXvU$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO - 720 - DUB[/COLOR]</link>
 
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] O FIM DO DIA - RES - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/7RWt1GV/ofimdodia-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Anos depois de uma misteriosa praga ter devastado o planeta e transformado a maioria da humanidade em criaturas famintas por fome, um andarilho malandro em uma caçada vingativa se depara com um grupo de sobreviventes em uma delegacia abandonada e concorda em tentar ajudá-los a se defender e escapar para o santuário que tão desesperadamente necessitam. </info>
-<genre>TERROR</genre>  
+<thumbnail>https://i.ibb.co/W3HQvcT/independay2-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/jyVXvRP/independay2-fan.jpg</fanart>
+<info>Duas décadas depois do devastador ataque alienígena do Dia da Independência, a Terra enfrenta uma nova ameaça que vem diretamente do espaço. Uma nova geração de pilotos é convocada para combater os inimigos e garantir a liberdade da humanidade.</info>
+<genre>FICÇÃO</genre>  
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] INVASAO ZUMBI - 2016 - DUB [/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=pyWuHv2-Abk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] INVASAO ZUMBI[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1E8F47F90483150623153D424C8E7A9A29534142&dn=Invas%c3%a3o%20Zumbi%202017%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] INVASAO ZUMBI - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ECDF60FD92179F6A15DE05FF63F5099E1089F0DB&dn=Invas%c3%a3o%20Zumbi%202017%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] INVASAO ZUMBI - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=zjR47RvjArk$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] INVASAO ZUMBI - 720 - DUB[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/INVSZMB.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] INVASAO ZUMBI - 1080 - DUB[/COLOR]</link>
-<link>http://vipeiptv.com:25461/movie/macarrao/macarrao/784113.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] INVASAO ZUMBI - 720 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/QngKDq1/invzumbi-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>A Coreia do Sul decreta estado de emergência após um vírus desconhecido tomar conta do país. Algumas pessoas tentam fugir de zumbis e ficam presas em um trem-bala que está a caminho de Busan, a única cidade que não foi afetada pelo vírus.</info>
-<genre>TERROR</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] UM LUGAR SILENCIOSO - 2018 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=8kEupkfQ7gQ$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] UM LUGAR SILENCIOSO[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33BEABDAE90F27A9B1C4CED3ADBEB0C0AD02C800&dn=Um%20Lugar%20Silencioso%202018%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] UM LUGAR SILENCIOSO - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2053D4FF3A21BD2721EFBB1DD2E06D6E80FB9D9E&dn=Um%20Lugar%20Silencioso%202018%20%281080p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] UM LUGAR SILENCIOSO - 1080 - DUB[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/UMLGRSLNCOSO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] UM LUGAR SILENCIOSO - 1080 - DUB[/COLOR]</link>
-<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/84430.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] UM LUGAR SILENCIOSO - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/mCKNZwb/aquietplace-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/6D2D4Kx/aquietplace-fan.jpgFANART</fanart>
-<info>Em uma fazenda nos Estados Unidos, uma família do Meio-Oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.</info>
-<genre>TERROR</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]O ENIGMA DE OUTRO MUNDO - 1982 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFdL757I0ZHPBTqlxTj0DQorFSX.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/z2yBw1BIUyGl8DgRfkWzbgsanjG.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1jU8pHpWPdcl3wyPAvZ9lWB9u8m7o8nQt/view</link>
-<info>Na remota Estação 4 da Antártida pertencente ao Instituto Nacional de Ciências dos Estados Unidos estão 12 homens (cientistas e operários), que observam com espanto um norueguês tentar de todas as maneiras matar um cão, tanto que invade a estação e atira até nos americanos, mas é morto. O piloto de helicóptero J.R MacReady se oferece para viajar até a base norueguesa e tentar achar alguma explicação onde só então começam a surgir pistas do acontecido, pois o cachorro se transforma em uma terrível criatura que ataca os pesquisadores que gradativamente concluem que estão diante de um alienígena, que pode se transformar em uma cópia exata das suas vítimas.</info>
-<genre>TERROR</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]THE THING - A COISA - 2011 - 1080 - LEG[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/zKdqe9kfhLQ9giuLcpoQI3WL1Vw.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/9pguay2WdWNORzgxQuOmxPVf7Z3.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1PiUyTvlyoQ38HUd8aBYJtDTzPcrBTC0q/view</link>
-<info>A paleontóloga Kate Lloyd (Mary Elizabeth Winstead) viaja para uma região remota e gelada para ajudar na investigação de uma possível nova forma de vida após cientistas noruegueses encontrarem uma nave espacial e um ser misterioso dentro de uma pedra de gelo. Mas o que parecia estar morto há muito tempo está, na verdade, prestes a acordar e agora todos os envolvidos na descoberta correm risco de morrer, dando início a uma verdadeira corrida pela vida, já que o alienígena ganha a forma de suas vítimas com extrema facilidade.</info>
-<genre>TERROR</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS-> VAN HELSING - O CAÇADOR DE MONSTROS - 2004 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/11sapq7omMWlM1jodFpJNgjRft7.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/fE23YBnZQiunsmwEB265lUHU8KE.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1Kq40P-gC1TvH_p-W2dfzbxJWUSHb2QUa/view</link>
-<info>O Dr. Van Helsing é um dos principais especialistas em monstros de sua época, no século XIX. Contratado pela Igreja Católica, ele parte para o leste europeu com a missão de eliminar o mais perigoso dos vampiros: o conde Drácula. Ao seu lado ele terá a ajuda de Anna Valerious, tendo ainda que enfrentar monstros como o lobisomem e Frankenstein.</info>
-<genre>TERROR</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]EU SOU A LENDA - 2007 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu7TDJOpEmx9x4sQEhfdw7pqsiM.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/yRCvG5sgUMlLjhPyWTHqeym0vh4.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1MmN9UNAlOVh6fyke0SrqIJ-C0wD7ZDPn/view</link>
-<info>Um terrível vírus incurável, criado pelo homem, dizimou a população de Nova York. Robert Neville é um cientista brilhante que, sem saber como, tornou-se imune ao vírus. Há 3 anos ele percorre a cidade enviando mensagens de rádio, na esperança de encontrar algum sobrevivente. Robert é sempre acompanhado por vítimas mutantes do vírus, que aguardam o momento certo para atacá-lo. Paralelamente ele realiza testes com seu próprio sangue, buscando encontrar um meio de reverter os efeitos do vírus.</info>
-<genre>TERROR</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS-> GUERRA MUNDIAL Z - 2013 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCBEsvqNX2CfWTOApXuyhpgl9LR.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/7NhgUfvLRkE7rWWaAbeqihiQTQs.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/12bi-TIXCjxWHhGPodHG8TiX0VbuYGUxj/view</link>
-<info>A história gira em torno de Gerry Lane, um funcionário da Nações Unidas, que atravessa o planeta numa corrida contra o tempo para parar uma pandemia que está derrubando exércitos e governos, ameaçando dizimar a própria humanidade.</info>
-<genre>TERROR</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]CONSTANTINE - 2005 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGMnu5JddJXl87S9wmDGPAKF75W.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/x7DwLso9VL61ICej5sxu2sNSvq9.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/18sY8WB7iIKv4czRCEMD5h0WExrJzCVGk/view</link>
-<info>John Constantine é um experiente ocultista e exorcista, que literalmente chegou ao inferno. Juntamente com Angela Dodson, uma policial cética, ele investiga o misterioso assassinato da irmã gêmea dela, Isabel. As investigações levam a dupla a um mundo sombrio, em que precisam lidar com demônios e anjos malvados.</info>
-<genre>TERROR</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]A MÚMIA - 2017 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/i4ZougHEyBAboDpi6jsaTUDTjUl.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1Dd3126gxtDkmYGXnEWXliZdrkEsshsdu/view</link>
-<info>Nas profundezas do deserto, uma antiga rainha, cujo destino foi injustamente lhe tirado está mumificada. Apesar de sepultada em sua cripta, ela desperta nos dias atuais. Com uma maldade acumulada ao longo dos anos, ela espalha terror desde as areais do Oriente Médio até os becos de Londres.</info>
-<genre>TERROR</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]A HORA DO LOBISOMEM - BALA DE PRATA - 1985 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/prN7jN8EZZ9bHYQ1T4BcqlRYbMc.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hbRytuATJd7wvqbei1ohvTOL3R9.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1mcBZfSOu6Wok2qamBY0RdkSiVLL9Un6m/view</link>
-<info>A pequena cidade de Tarker's Mill, que sempre foi um lugar pacato até que terríveis e violentos assassinatos começaram a acontecer. Os habitantes locais acreditavam que o responsável pelas mortes seja um psicopata à solta. Porém, um garoto de 11 anos chamado Marty (Corey Haim) acreditava que os assassinatos não estavam sendo causados por uma pessoa, mas sim por um lobisomem. Com a ajuda de sua irmã, Jane (Megan Follows), o jovem consegue escapar e decide ir atrás do monstro.</info>
-<genre>TERROR</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]13 FANTASMAS - 2001 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkLmttZeZSXaIxb6QPARZTxmdHu.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/bVZNGCXhQMPpCCDr6HaYjqMULck.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1Y4bGP4LZmeHvdk-bkqmtcd9z1SmiJ_Ol/view</link>
-<info>Quando o Dr. Cyrus Zorba (F. Murray Abraham) morre, ele deixa para seu sobrinho Arthur (Tony Shalhoub) uma mansão abandonada, para a qual Arthur resolve se mudar, juntamente com sua família. Porém, o que Arthur e sua família não sabem é que o Dr. Zorba construiu a mansão com a finalidade de aprisionar treze fantasmas e, por ter falecido antes de concluir seu intento, a mansão agora é assombrada por doze fantasmas de pessoas que tiveram mortes trágicas e que não podem deixar seus respectivos aposentos. Os fantasmas apenas podem ser vistos com a utilização de um óculos especial e logo eles passarão a atacar Arthur e sua família.</info>
-<genre>TERROR</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]A CASA DOS 1000 CORPOS - 2003 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/80DwAVkTVd1UQ87G1r4iYixpdFN.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/bnXs5dibTbH8YdoFCgPUf52GASd.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1WE-3FzkLV-WJ9pU6FUTrDrX2xR_ipXTE/view</link>
-<info>Na década de 70, dois casais estão fazendo uma viagem em busca de diversão. Ao parar em uma loja de horrores na beira de uma estrada, eles conhecem a história do Dr. Satan (Walter Phelan), um famoso médico que matava suas vítimas aos poucos. Dr. Satan foi preso e enforcado, mas nunca encontraram seu corpo. Animados com a história, os jovens decidem visitar a árvore onde Dr. Satan foi enforcado para tentar descobrir onde está seu corpo atualmente.</info>
-<genre>TERROR</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]O LOBISOMEM - 2010 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/e2OLu4hGqUMtvF14gQzwNsASmvC.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kUXciLXDo2Igxw9PDPhXWIDkA5E.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1ePPAVT2GL_VNDBCSwtFdk5bII050CuCG/view</link>
-<info>O ator Lawrence Talbot (Benicio Del Toro), quando criança, sofreu com a morte de sua mãe e nunca mais voltou a morar com o pai (Anthony Hopkins). Mais de duas décadas depois do ocorrido, ele é chamado por sua futura cunhada Gwen Conliffe (Emily Blunt) para ajudá-la a encontrar o noivo desaparecido. Ao retornar para a casa do pai, Talbot acaba se envolvendo numa investigação sobre violentas mortes que acontecem nas noites de lua cheia, entrando em contato com o seu passado e descobrindo um segredo que mudará para sempre a sua vida.</info>
-<genre>TERROR</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]MADRUGADA DOS MORTOS - 2004 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/bG7EutQqyRqfLZ2vxhE29VsOWjp.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/4964VbUBuQESSIGqaJ8fmYTTJ2X.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/172X4Gg5KXqUb9h31mRGW9EyGGQ9QQnBC/view</link>
-<info>Após mais um dia de trabalho, tudo que Ana quer é tomar um banho ao lado do marido e dormir. Mas nas primeiras horas da manhã, ela é violentamente atacada por uma legião de mortos-vivos, e se descobre um pesadelo real: o mundo inteiro está tomado por zumbis. Em fuga desesperada, Ana se une a um pequeno grupo de sobreviventes, que se refugiam num shopping center enquanto o mundo lá fora se transforma literalmente no inferno.</info>
-<genre>TERROR</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B] FILMES DE SUSPENSE[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/t33H9M5/filmessuspense-pasta.png</thumbnail>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] ALIENS X PREDADOR[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/3cVn85W/alienxpredadori-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE SUSPENSE E TERROR ESTÃO AQUI</info>
-<genre>SUSPENSE E TERROR</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>O CONFRONTO TOTAL</info>
+<genre>FICÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] NAVIO FANTASMA - 2002 - DUB[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALIEN X PREDADOR - 2004 - DUB[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=a7xNXTpQA5Q$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] NAVIO FANTASMA[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:797FBF820378FBAE4C3F336E61C8DB858E08E436&dn=Navio%20Fantasma%20%282002%29%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] NAVIO FANTASMA - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10DA89552D31C453B427BB97FB116D239BF31FDB&dn=Navio%20Fantasma%20%282002%29%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] NAVIO FANTASMA - 1080 - DUB[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/NVFNTSM.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NAVIO FANTASMA - 1080 - DUB[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/21869.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NAVIO FANTASMA - SD - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=R_DtGdYccpQ$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALIEN X PREDADOR[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GQXyX0jZrp7cBtICVQTQosWMzsdU6vBE/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALIEN X PREDADOR - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05E6FCD69CAB5B8911A00BC153D06972BAF4434C&dn=Alien%20vs.%20Predador%202004%20Sem%20Censura%20%28720p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALIEN X PREDADOR - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1740DFBDD80E0EE6D6E644F8104B1A0C26E7FE78&dn=Alien%20vs.%20Predador%202004%20Sem%20Censura%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALIEN X PREDADOR - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] ALIEN X PREDADOR - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/ALIENVSPRDR.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALIEN X PREDADOR - 1080 - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] ALIEN X PREDADOR - RES - DUB[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Sean Murphy é o capitão da equipe de resgate Artic Warrior, formada pela chefe de equipe Maureen Epps, pelo contramestre Greer e os técnicos Santos, Dodge e Munder. A principal tarefa do Artic Warrior é encontrar e trazer até a costa navios perdidos ou com problemas em alto-mar. Em uma de suas viagens pela costa do Alasca eles encontram os destroços de um lendário navio italiano que está desaparecido há 40 anos. Porém, o que eles não sabem é que agora o navio é habitado por um ser mortal, que coloca a vida de todos no Artic Warrior em perigo.</info>
-<genre>SUSPENSE</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] 1408 - 2007 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=7_Kwntt9d14$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 1408[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E9D5CA189E2843DC73F603CA2E66218E977505B&dn=1408.BluRay.720p.Dual.Audio.D4V1.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2fretracker.krs-ix.ru%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] 1408 - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e9d5ca189e2843dc73f603ca2e66218e977505b$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] 1408 - 1080 - DUB[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/1408.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] 1408 - 720 - DUB[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/25172.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] 1408 - 720 - DUB[/COLOR]</link>
-
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Um promissor romancista, Mike Enslin, resolveu enveredar por outro caminho e escrever livros que investiguem fenômenos paranormais. Enslin nunca presenciou realmente algum destes fatos, então fica difícil obter credibilidade. Além do mais Mike é totalmente cético, pois até hoje não encontrou evidências de que exista vida após a morte. No entanto decide ir até Nova York e se hospedar no Dolphin Hotel, mais exatamente no quarto 1408, que tem fama de ser habitado por espíritos malignos. O gerente do hotel, Gerald Olin, o avisa que 56 mortes já ocorreram neste quarto, mas Mike está decidido a conferir se sua fama está condizente com a verdade.</info>
-<genre>SUSPENSE</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS OUTROS - 2001 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=iZmV5gOwHRI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS OUTROS[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:025eca0734defaca9fa80b2687d8e0a494310d46&dn=CINETERROR.ORG%20-%20Os%20Outros%20(2001)%20BluRay%20720p%20Dublado&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS OUTROS - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CC5DC6CC587F93656678F219EBCC0C987AB064F5&dn=Os%20Outros%20%282001%29%201080p%20Dual%20-%201046&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2finferno.demonoid.ph%3a3389%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=http%3a%2f%2ftorrent.gresille.org%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=http%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.blackunicorn.xyz%3a6969%2fannounce&tr=http%3a%2f%2fbttracker.crunchbanglinux.org%3a6969%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS OUTROS - 1080 - DUB[/COLOR]</link>
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] OS OUTROS - RES - DUB[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/25008.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS OUTROS - 720 - DUB[/COLOR]</link>
-
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Durante a 2ª Guerra Mundial, Grace decide por se mudar, juntamente com seus dois filhos, para uma mansão isolada na ilha de Jersey, a fim de esperar que seu marido retorne da guerra. Como seus filhos possuem uma estranha doença que os impedem de receber diretamente a luz do sol, a casa onde vivem está sempre em total escuridão. Eles vivem sozinhos seguindo religiosamente certas regras, como nunca abrir uma porta sem fechar a anterior, mas quando eles contratam empregados para a casa eles terminam quebrando estas regras, fazendo com que imprevisíveis consequências ocorram.</info>
+<thumbnail>https://i.ibb.co/DLcCh3r/alienxpredador-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/Xk7r3c8/alienxpredador-fan.jpg</fanart>
+<info>Uma pirâmide até então desconhecida é encontrada na Antártica através de satélites, fazendo com que uma equipe de cientistas e aventureiros seja enviada para investigar o local. Porém lá eles fazem uma descoberta atra: a pirâmide serve de abrigo para duas raças alienígenas extremamente violentas, que estão em guerra.</info>
 <genre>FICÇÃO</genre>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A COLINA ESCARLATE - 2015 - DUB[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALIEN X PREDADOR 2 - 2017 - DUB[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=bxRqAAShwK8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A COLINA ESCARLATE[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:548B0A12F4CD4EB36F16798E3B9AF78DD91E3FA5&dn=A%20Colina%20Escarlate%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A COLINA ESCARLATE - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3E918DEA8BEFCDD38681F7A8C36A6130D8597E2F&dn=A%20Colina%20Escarlate%202016%20Bluray%201080p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A COLINA ESCARLATE - 1080 - DUB[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/ACLNESCRLAT.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] A COLINA ESCARLATE - 1080 - DUB[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/24608.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] A COLINA ESCARLATE - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=r_mE2CwF3MI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALIEN X PREDADOR 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AEU9ITp5-Y3Ro_z4gYUFBin7UTbDO5cL/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALIEN X PREDADOR 2 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] ALIEN X PREDADOR 2 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e389062e7a5ecffb7ceb00986740944ad49036bd&dn=COMANDO.TO%20-%20Aliens%20vs.%20Predador%202_%20Vers%c3%a3o%20Estendida%202007%20%5b1080p%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALIEN X PREDADOR 2 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=MdLoanWtW_E$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALIEN X PREDADOR 2 - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/ALIENVSPRDR2.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] ALIEN X PREDADOR 2 - 1080 - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] ALIEN X PREDADOR 2 - RES - DUB[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://i.ibb.co/zmh005H/alienxpredador2-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/6v6sg64/alienxpredador2-fan.jpg</fanart>
+<info>Gunnison, uma pequena cidade localizada nas montanhas da área central do Colorado. Uma nave dos predatores aterrisa no local, mas os aliens que estavam escondidos nela conseguem matar a todos, com exceção de um. Para sobreviver ele precisará destruir todos os aliens remanescentes. Mas em meio a esta guerra há os humanos, residentes da pequena Gunnison, que assistem a esta batalha como vítimas e espectadores.</info>
+<genre>FICÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] COLEÇÕES DE FILMES DE FANTASIA[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/t33H9M5/filmessuspense-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Apaixonada pelo misterioso Sir Thomas Sharpe, a escritora Edith Cushing muda-se para sua sombria mansão no alto de uma colina. Habitada também por sua fria cunhada Lucille Sharpe, a casa tem uma história macabra e a forte presença de seres de outro mundo não demora a abalar a sanidade de Edith.</info>
-<genre>SUSPENSE</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS-> O CÓDIGO DA VINCI - 2006 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHjS8fyVWuMfRvRR3Nm4QpOWTn7.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hcAMO4LF6G2hvsTpNgmY1kFj3jJ.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1zLiZKAy3Hi8JIJrC-vGLe8e0EjZJec2z/view</link>
-<info>Robert Langdon é um famoso simbologista, que foi convocado a comparecer no Museu do Louvre após o assassinato de um curador. A morte deixou uma série de pistas e símbolos estranhos, os quais Langdon precisa decifrar. Em seu trabalho, ele conta com a ajuda de Sophie Neveu, criptógrafa da polícia. Porém, o que Langdon não esperava era que suas investigações o levassem a uma série de mensagens ocultas nas obras de Leonardo Da Vinci, que indicam a existência de uma sociedade secreta que tem por missão guardar um segredo que já dura mais de dois mil anos.</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]ANJOS E DEMÔNIOS - 2009 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oP5BkGRl500KwfYhKkJKn6fRoeR.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/wjrTJhDQEqmmaEfbM2Qo8ibzvSS.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1-oFKmrEKi63gusWWbR9G2O4_o_Whj_Il/view</link>
-<info>O professor de simbologia Robert Langdon, depois de decifrar o código DaVinci, é chamado pelo Vaticano para investigar o misterioso desaparecimento de quatro cardeais. Agora, além de enfrentar a resistência da própria igreja em ajudá-lo nos detalhes de sua investigação, Langdon precisa decifrar charadas numa verdadeira corrida contra o tempo porque a sociedade secreta por trás do crime em andamento tem planos de explodir o Vaticano.</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]INFERNO - 2016 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfcBQtKBYTa9qh7NTBeuVQ6Tkkc.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/anmLLbDx9d98NMZRyVUtxwJR6ab.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1x3NAjveRJQRoDWtvebAeGW7isckgKDdy/view</link>
-<info>O renomado professor de simbologia de Harvard, Robert Langdon visita a Itália e se envolve em mais uma aventura envolvendo símbolos ocultos e corporações secretas. Ele se vê em uma jornada em que procura desvendar os mistérios do clássico da literatura "A Divina Comédia", de Dante Alighieri.</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]DURANTE A TORMENTA - 2018 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://pbs.twimg.com/media/Dmv4DfAXcAAkWti.jpg:large</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/t73zWIqUeKxBmzFPO0m4OD6RWk7.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/11xG-ncMRBGieWHRNFBXKlquAsdh2oIsP/view</link>
-<info>A interferência entre dois planos paralelos, 1989 e o presente, faz com que Vera, uma mãe feliz e casada, salve a vida de um menino que viveu a 25 anos atrás. Mas as consequências de sua boa ação provocam uma reação em cadeia que a faz acordar em uma nova realidade, onde sua filha nunca nasceu.</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]ROUBANDO VIDAS - 2004 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUXqqWuAhoncZYJlhDBzrwVRd27.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ifmNM1dhYR5Uy5Wi0GxDdCeA2Hx.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1PLxHsxjfTcGxY3i-glzg2nAbrzz0f0wj/view</link>
-<info>A agente especial do FBI Illeana Scott é perita em perfil criminal e não crê nas técnicas tradicionais para decifrar uma mente assassina. Sua abordagem não-convencional é muitas vezes o único meio de descobrir a identidade dos assassinos, para que a polícia os capture. Paquette e Duval são detetives de Montreal que investigam uma morte e se vêem obrigados em aceitá-la para entrar na mente de um assassino. Scott entra no caso e pressupõe que criminoso é um "rouba-vidas", isto é, assume a identidade das vítimas. À medida que aumenta a pressão para a captura do assassino, os métodos nada ortodoxos de Scott a distanciam de Paquette e Duval. Seu comportamento aparentemente frio esconde uma intensa paixão pelo trabalho, mas quando uma atração inesperada a lança num envolvimento amoroso, a renomada especialista começa a duvidar de seus instintos.</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]DEJA VU - 2006 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZVqrKTm0Pq0aTVxxJVTgoEUco8.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/94Mb6dnCtmkqPmjFGucghp7UXda.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/10aW0DPnOcWinH0FYqfmCO4XZploMena1/view</link>
-<info>Doug Carlin (Denzel Washington) trabalha para a Agência do Tabaco, Álcool e Armas de Fogo. Chamado para recuperar provas após a explosão de uma bomba em uma balsa localizada em Nova Orleans, Carlin descobre que aquilo que a maioria das pessoas acredita estar apenas em sua mente é bem mais poderoso do que se imagina. Ele descobre então um meio de viajar no tempo, o que possibilita que evite que a explosão ocorra.</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]O HOMEM SEM SOMBRA - 2000 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5P8M6DDVP7ns2KhzGzLPAHGJEsD.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/xYqtO0XieH3BpMdQET2QuZFBQJ6.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1SStsBS00OzCghqDFCEiGrEZCuf7WwYaM/view</link>
-<info>Em um laboratório militar ultra-secreto, um grupo de brilhantes cientistas faz uma das mais importantes descobertas do século: a fórmula da invisibilidade. Ansioso por analisar os efeitos da fórmula num ser humano, o líder da equipe, Sebastian Craine (Kevin Bacon), decide por testá-la em si mesmo. Entretanto, há um problema: a equipe ainda não tinha descoberto o antídoto para a fórmula. Começa então uma corrida contra o tempo, por parte dos demais cientistas, para tentar encontrar algo que impeça o cada vez mais rápido processo de invisibilidade pelo qual passa o corpo de Craine. Mas aos poucos a intoxicação decorrente do novo poder obtido por Craine o afeta, e faz com que ele comece a acreditar que seus colegas são na verdade uma ameaça à sua existência.</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]TERROR NA ANTARTIDA - 2009 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xl57WNR0mKMAJuT7dvSzCN55dEc.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/iQAq5rbOvkJRmoH37cai44xaCvW.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1aTaty-9MxGWRdENJYb__2UaDuTqsVOrY/view</link>
-<info>Carrie Stetko (Kate Beckinsale) é uma policial abalada por um episódio do passado. Atualmente, ela é a única agente da lei da estação de pesquisa Amundsen-Scott, baseada na Antártida, e está prestes a voltar para a civilização junto com todo o grupo. Contudo, a aparição de um corpo mutilado causa desconfiança e uma investigação de homicídio precisa ser realizada. O agente Robert Pryce (Gabriel Macht) é enviado especialmente para o caso e juntos eles descobrem um avião caído desde os anos 50 com vários cadáveres e misteriosas caixas. O clima de tensão aumenta quando novas mortes começam a acontecer e o fenômeno climático "whiteout" está para começar.</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]VOZES DO ALÉM - 2005 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/z3BZu6D6FDeHfacnaox8IPrydXl.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kiOnPmm5P9hhvC6bhYvqvpgZGp.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1AQrAfXaeLIAe1qkFpCSjtPp2HYuaRbCD/view</link>
-<info>EVP (Eletronic Voice Phenomena) é o fenômeno que diz que, caso um rádio esteja mal sintonizado, pode-se ouvir vozes do além, sendo que caso isto ocorra com uma TV pode-se ver rostos de pessoas já falecidas. Jonathan Rivers (Michael Keaton) é um arquiteto que enviuvou há pouco tempo, com sua esposa tendo falecido de forma misteriosa. Quando lhe é oferecida a oportunidade de entrar em contato com ela usando o método do EVP, Jonathan inicialmente recusa mas, esperançoso com a possibilidade de reencontrá-la, acaba aceitando. O que ele não contava era que a situação fugisse do seu controle.</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]DIA DOS NAMORADOS MACABRO - 1981 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/kl3mewFceFtYIavvGts2atzB0e0.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/1y2hvJJH89k2nTgvynNMPQdnHNA.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1mc6z7KLgFCHWg7Aq62J9YLBKn2V1kqFQ/view</link>
-<info>A Delegacia da pequena cidade de Valentine's Bluff recebe uma caixa de bombons contendo um coração humano. É o primeiro de uma série que chegarão para tirar o sono do xerife da anteriormente pacata localidade.</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]O PACTO DOS LOBOS - 2001 - SD - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L1ESiQPqkMqfxzeqxWyg1yPHsg.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kobkt8yR26GdQ8vndCpwJQeEyaf.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1lDtUjp9Ita_Hnyx6P5BhTcO6aP7t7vIB/view</link>
-<info>Em 1765, durante o reinado de Luís XV, uma misteriosa criatura traz pânico e terror em uma província rural da França. Chamada de a Besta de Gevaudan, ela atacava crianças e mulheres há meses e ninguém era capaz de prevenir suas ações, vê-la com nitidez ou sequer capturá-la. Desesperado em pôr um fim na situação, o rei decide então enviar ao local o renomado biólogo Gregóire de Fronsac (Samuel Le Bihan). Entretanto, Gregóire terá não apenas que lutar contra o monstro mas também contra a ignorância, a conspiração e a intolerância local, recebendo o apoio de duas mulheres, uma aristocrata e uma prostituta.</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR lime]LS-> A LENDA DO CAVALEIRO SEM CABEÇA - 1999 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGzMdNN5315TBsgpW7GZXaS4iJx.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/dVr09swsYuWMf4kjBYAIuZ0ov6u.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1qNxZSNnS5iBGzvaJHoAMA9B-_3k47h8-/view</link>
-<info>Em 1799, uma série de crimes envolvendo inocentes acontece no pequeno vilarejo de Sleepy Hollow. Para investigar o caso é chamado o detetive nova-iorquino Ichabod Crane (Johnny Depp), um excêntrico e determinado oficial de polícia com um jeito avant-garde de solucionar crimes. Os métodos investigativos de Ichabod serão postos à prova neste caso, que envolve um ser sobrenatural que pode ser o causador de todos os crimes.</info>
-<genre>SUSPENSE</genre>
-</item>
-<item>
+<info>OS MELHORES FILMES DE FANTASIA ESTÃO AQUI</info>
+<genre>FANTASIA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
