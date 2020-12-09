@@ -22,13 +22,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B] COLEÇÕES DE FILMES DE FICÇÃO[/B][/COLOR]</name>
+<name>[COLOR blue][B] COLEÇÕES DE FILMES DE FICÇÃO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/K7MJ4Lp/filmesterror-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>AS MELHORES COLEÇÕES DE FILMES DE FICÇÃO ESTÃO AQUI</info>
 <genre>FICÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] INDENPENDENCE DAY[/B][/COLOR]</name>
+<link>NO LINK</link>
+<thumbnail>https://i.ibb.co/QczC8wp/indepdaycol-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>PEDIDO DO USUÁRIO FABRICIO</info>
+<genre>FICÇÃO</genre>  
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1 - 1996 - DUB[/COLOR]</title>
@@ -107,6 +117,207 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>FICÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR blue][B] STAR TREK - FILMES[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Sy1841G/startrek-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>STAR TREK - FILMES</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK - FILMES[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Sy1841G/startrek-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>STAR TREEK</info>
+<genre>FICÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK I - O FILME - 1979 - 1080 - DUB[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id==ZLlV_JVtO5c$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - O FILME[/COLOR]</link>
+
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/JORNDMSESTRLS01.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - O FILME [/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/sK05FHZ/startrekofilme-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A Federação pede ao almirante James T. Kirk e a tripulação da nave estelar Enterprise que contenha um objeto imenso, que está em rota de colisão com a Terra. Depois de investigar, a tripulação descobre que a nuvem alienígena abriga uma inteligência artificial com intenções sinistras. Uma crise acontece quando uma sonda enviada pela nuvem de energia ataca a tripulação, sequestrando a tenente-navegadora Ilia.</info>
+<genre>FICÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK II - A IRA DE KHAN - 1982 - 1080 - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=x8X44NRltMM$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK II - A IRA DE KHAN[/COLOR]</link>
+
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/JORNDMSESTRLS02.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK II - A IRA DE KHAN[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/9Y0SgSK/startrek-2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O almirante James T. Kirk e o capitão Spock observam os cadetes da Academia da Frota Estelar, enquanto outra embarcação da Federação dos Planetas Unidos está prestes a testar o dispositivo Genesis, para criar um planeta em uma parte deserta do espaço. No processo, dois dos oficiais de Kirk são capturados por Khan. Mais uma vez, Kirk assume o comando da Enterprise e enfrenta a nave de Khan em um confronto intergaláctico.</info>
+<genre>FICÇÃO</genre>  
+</item>
+
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK III - A PROCURA DE SPOCK - 1984 - 1080 - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=aCgWzlxnqhc$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK III - A PROCURA DE SPOCK[/COLOR]</link>
+
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/STRTRK03.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK III - A PROCURA DE SPOCK[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/tJTCDSV/startrek-3-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>James T. Kirk sai vitorioso de sua batalha contra Khan, mas tem que pagar um alto preço: a morte de Spock, cujo corpo é enviado para o planeta Gênesis. Ao perceber que McCoy está agindo de maneira estranha, porém, Kirk e Sarek suspeitam que, em seus últimos momentos, Spock tenha dividido com o médico seu espírito, e suas mentes tenham se unido. Para resolver a situação, Kirk e a tripulação da Enterprise precisam reunir o corpo e a alma de seu amigo novamente</info>
+<genre>FICÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK IV - A VOLTA PARA CASA - 1986 - 1080 - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=QOhoIBkOYf0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK IV - A VOLTA PARA CASA[/COLOR]</link>
+
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/STRTRK04.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK IV - A VOLTA PARA CASA[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/6Xd4S8v/startrek-4-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Vivendo exilados no planeta Vulcão, a tripulação da antiga nave USS Enterprise rouba uma nave estelar quando recebe um chamado de socorro vindo da Terra, informando que uma sonda, controlada por uma entidade alienígena, entrou em órbita em volta do planeta e está evaporando os oceanos. O capitão Kirk, Spock e o resto da tripulação viajam no tempo para trazer de volta as baleias já extintas, as únicas que podem comunicar-se com a entidade e mandá-la embora.</info>
+<genre>FICÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK V - A ÚLTIMA FRONTEIRA  - 1989 - 1080 - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=7S5TDrAWBd8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK V - A ÚLTIMA FRONTEIRA[/COLOR]</link>
+
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/STRTRK05.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK V - A ÚLTIMA FRONTEIRA[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/VDd1Yfk/startrek-5-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A tripulação da nave Enterprise se rebela contra a Federação Interplanetária para proteger os habitantes do planeta Ba'Ku. Durante uma missão a este planeta, Data descobre que esta civilização está sendo ameaçada, mas a Primeira Diretiva da Federação diz que nenhuma missão da Frota Estelar pode interferir em outras culturas. Apesar disso, o capitão Jean-Luc Picard desobedece uma ordem superior e, junto com sua tripulação, decide comandar uma revolta para preservar o planeta paradisíaco.</info>
+<genre>GENERO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK VI - A TERRA DESCONHECIDA - 1991 - 1080 - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=RYA2q2Sm_Jo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK VI - A TERRA DESCONHECIDA[/COLOR]</link>
+
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/STRTRK06.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK VI - A TERRA DESCONHECIDA[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/2W44FjC/startrek-6-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O capitão James Kirk e a tripulação da USS Enterprise estão transportando Gorkon, o chanceler de Klingon, para a Terra para negociar um tratado de paz com a Federação Unida de Planetas. Durante o transporte, porém, a Enterprise parece atirar em uma nave de Klingon e Gorkon é morto na confusão subsequente. Kirk e o médico da espaçonave, Leonard McCoy, são presos por assassinato e Spock precisa descobrir quem está por trás do ataque e salvar as negociações.</info>
+<genre>GENERO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK VII - GENERATIONS - 1994 - 1080 - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=KxVyLLHLmz4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - NEW GENERATIONS[/COLOR]</link>
+
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/STRTRK07.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - NEW GENERATIONS[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/Q94TpCP/startrek-7-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A viagem inaugural da terceira nave Enterprise está sob ameaça pelo cientista louco Soren e apenas uma pessoa pode detê-lo, mas ela está morta há 78 anos.</info>
+<genre>FICÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK VIII - PRIMEIRO CONTATO - 1996 - 1080 - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=B3NJ49VyjDs$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK VIII - PRIMEIRO CONTATO[/COLOR]</link>
+
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/JORNDMSESTRLS08.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK VIII - PRIMEIRO CONTATO[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/JsH9M3g/startrek-8-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O capitão Jean-Luc e a tripulação da Enterprise embarcam em uma nova aventura, enfrentando os Borgs, criaturas meio orgânicas e meio máquinas que formam uma comunidade com um único objetivo: conquistar e assimilar todas as raças. Liderados por sua sedutora e sádica rainha, os Borgs seguem para a Terra com um plano demoníaco para alterar a história. O último encontro entre Picard e os Borgs quase o matou e agora ele quer vingança.</info>
+<genre>FICÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK IX - INSURREIÇAO - 1998 - 1080 - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=4rVxjV342W4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - INSURREICAO[/COLOR]</link>
+
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/JRNDNESTRLINSRC.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK - INSURREICAO[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/4dd15yJ/startrek-9-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A tripulação da nave Enterprise se rebela contra a Federação Interplanetária para proteger os habitantes do planeta Ba'Ku. Durante uma missão a este planeta, Data descobre que esta civilização está sendo ameaçada, mas a Primeira Diretiva da Federação diz que nenhuma missão da Frota Estelar pode interferir em outras culturas. Apesar disso, o capitão Jean-Luc Picard desobedece uma ordem superior e, junto com sua tripulação, decide comandar uma revolta para preservar o planeta paradisíaco.</info>
+<genre>FICÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK X -  NÊMESIS - 2002 - 1080 - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=eX15_g1Kc48$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK X -  NEMESIS[/COLOR]</link>
+
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/STRTRK10.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK X -  NEMESIS[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/xS68sST/startrek-10-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A Enterprise, seu capitão e a tripulação partem ao encontro dos romulanos para um acordo de paz, mas um adversário os espera. Ele é nada mais nada menos do que um sósia do capitão Jean-Luc, que se prepara para acabar com o planeta Terra.</info>
+<genre>FICÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK XI - 2009 - 1080 - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=iGAHnZ555nI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK XI[/COLOR]</link>
+
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/STRTRK11.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK XI[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/YyN88Yh/startrek-11-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A bordo da USS Enterprise, a nave mais sofisticada já construída, uma tripulação de novatos embarca em sua viagem inaugural, que é atrapalhada por Nero, um comandante cuja vingança ameaça toda a humanidade. Para que os humanos possam sobreviver, James Kirk, um jovem oficial rebelde, e Spock, um Vulcan completamente lógico, devem superar a rivalidade que há entre eles e encontrar uma maneira de derrotar Nero antes que seja tarde demais.</info>
+<genre>FICÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK XII - ALÉM DA ESCURIDÃO - 2013 - 1080 - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=eRnlHa9VcXE$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK XI - ALEM DA ESCURIDAO[/COLOR]</link>
+
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/JORNDMSESTRLS12.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK XI - ALEM DA ESCURIDAO[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/vzf8Ysw/startrek-12-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Os tripulantes da Enterprise descobrem uma força terrorista dentro da sua própria organização. O capitão Kirk desafia as regras da Frota Estelar e lidera uma missão para capturar uma arma de destruição em massa.</info>
+<genre>FICÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] STAR TREK XIII - SEM FRONTEIRAS - 2016 - 1080 - DUB [/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=XRVD32rnzOw$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK XII - SEM FRONTEIRAS[/COLOR]</link>
+
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/STRTRK13.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] STAR TREK XII - SEM FRONTEIRAS[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/Qv4Tzy6/startre-k13-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Em uma missão de resgate, a nave USS Enterprise é atacada por Krall, um chefe militar que jurou vingança contra a Federação. Após uma aterrissagem forçada, a tripulação precisa deter uma raça alienígena hostil e o início de uma guerra galáctica.</info>
+<genre>FICÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 <channels></channels>
