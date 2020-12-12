@@ -1,1 +1,143 @@
-GGGGGGGGGGGGGGGGGGGGGG
+<channels></channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+
+<channels></channels>
+<channel>
+<name>[COLOR blue][B] AÇÃO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES FILMES DE FILMES DE AÇÃO</info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES DE AÇÃO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES FILMES DE FILMES DE AÇÃO DO REDE CANAIS ESTÃO AQUI</info>
+<genre>AÇÃO</genre> 
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANÇA - 2004 - DUB [/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=eDDh50B6kA4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/CHMSDVNGC2004.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA - 2004 - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/fCDC9Qq/chamasvinganca-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Uma grande onda de sequestros varre o México, fazendo com que muitos de seus cidadãos mais ricos contratem guarda-costas para seus filhos. John Creasy (Denzel Washington) é um desmotivado ex-agente da CIA, que é levado à Cidade do México por seu amigo Rayburn (Christopher Walken). Sem emprego, ele aceita a proposta de ser guarda-costas da pequena Pita (Dakota Fanning), uma garota de 9 anos que é filha de um industrial (Marc Anthony). Incomodado com as perguntas constantes da garota, John inicialmente vê seu novo trabalho como um fardo mas, aos poucos, cria amizade com Pita e passa a ter um novo ânimo em sua vida. O sequestro de Pita desfaz esta situação, fazendo com que ele, mesmo ferido, parta para resgatá-la a qualquer custo.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] US MARSHALS - OS FEDERAIS - 1998 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=Hqso3o86rm8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] US MARSHALS - OS FEDERAIS[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/USMRSHLSOSFDRAIS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] US MARSHALS - OS FEDERAIS - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/p1PNKVB/usmarshals-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A polícia de Chicago, ao investigar um acidente, descobre que as impressões digitais do ferido conferem com as impressões digitais de um suspeito por duplo assassinato. Assim Mark Sheridan, o acidentado, é preso ainda no hospital. Sua remoção para Nova York, local onde ele cometeu crimes, é providenciada. Mas durante o voo (no qual há outros detentos) uma tentativa de fuga provoca a queda do avião, num acidente que matou e feriu diversos civis. Sheridan consegue fugir. Samuel Gerard, um experiente agente, fica encarregado de recapturá-lo, mas em pouco tempo fica claro que o fugitivo não um mero assassino e que uma intricada trama se esconde atrás da "versão oficial".</info>
+<genre>AÇÃO</genre>
+</item>
+<item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<i<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] ANNA O PERIGO TEM NOME - 2019 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=xyykJjUFn1o$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ANNA O PERIGO TEM NOME[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/ANAOPRGTMNME.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] ANNA O PERIGO TEM NOME - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/Y33ktHz/anna-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Por trás da beleza marcante de Anna Poliatova há um segredo que irá expor sua indestrutível força e habilidade para se tornar uma das assassinas mais temidas do mundo. Uma eletrizante e emocionante viagem repleta de energia, reviravoltas surpreendentes e ação de tirar o fôlego.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CODIGO PARA O INFERNO - 1998 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CODIGO PARA O INFERNO[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCFServer4/ondemand/CODGPROINFRNO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CODIGO PARA O INFERNO - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/pz1HH3K/codigoinferno-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Após decifrar códigos de acesso a um programa secreto da Agência Nacional de Segurança, um garoto autista tem seus pais assassinados e é perseguido por oficiais inescrupulosos do governo. O agente Arthur Jeffries investiga a morte dos pais e decide protegê-lo, pois sabe que algo mais está em jogo.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] ASSASSINO A PREÇO FIXO -  2011  - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=fJx82rKj0cU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ASSASSINO A PRECO FIXO[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/ASASINOAPRCFX2.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] ASSASSINO A PRECO FIXO - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/thsfbM8/assaprefixo-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Arthur Bishop é um assassino de elite com um código restrito e um talento único para eliminar alvos. Quando seu mentor e amigo Harry é assassinado, Bishop decide matar aqueles responsáveis pela sua morte. Tudo se complica quando o filho de Harry se aproxima com o mesmo desejo de vingança e disposto a aprender as técnicas de Bishop. Enquanto uma aliança mortal nasce, Bishop enfrenta traições e decepções enquanto aqueles que foram contratados para resolver o problema se tornam o próprio problema.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] REFÉM - 2005 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=1GyRtYR7_Wc$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] REFEM[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCFServer2/ondemand/RFEM.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] REFEM - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/rZVH75k/refem-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Após passar por uma tragédia pessoal enquanto trabalhava como negociador de reféns para o Departamento de Polícia, Jeff Talley (Bruce Willis) pede demissão do cargo e decide trabalhar como delegado na pequena cidade de Bristo Camino. Jeff quer paz e a pacata cidade tem tudo para lhe proporcionar isto. Porém quando três adolescentes vão à casa de uma família com o objetivo de roubar o carro deles, eles ficam presos dentro da casa e decidem por tomar todos como seus reféns. A situação força Jeff a atuar como negociador dos reféns, fazendo um trabalho que ele preferia nunca mais ter que realizar em sua vida.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] PROJETO GEMINI - 2019 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=AbyJignbSj0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] PROJETO GEMINI[/COLOR]</link>
+<link>https://coca-cola.azureedge.net/RCFServer3/ondemand/PRJTGMNI.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] PROJETO GEMINI - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/WyYbTV7/gemini-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Henry Brogan (Will Smith) é o melhor assassino profissional do mundo, com uma taxa de sucesso maior do que de qualquer outro, mas, quando decide se aposentar, acaba se tornando um alvo da Agência de Inteligência de Defesa dos Estados Unidos, para quem trabalhava anteriormente. Enquanto luta para se manter vivo, ele se depara com um clone de si mesmo e descobre que as ações do governo americano são para esconder um grande segredo, que só Brogan, com toda sua experiência, é capaz de desmascarar.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] SÉRIES DE AÇÃO[/B][/COLOR] </name>
+<externallink>https://</externallink>
+<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AS SÉRIES DE AÇÃO ESTÃO AQUI</info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR]</name>
+<externallink>https://</externallink>
+<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILME DE AÇÃO ESTÃO AQUI</info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
