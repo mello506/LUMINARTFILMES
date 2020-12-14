@@ -19,6 +19,45 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] VELOZES E FURIOSOS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Jk05YFD/velofuriososi-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO VELOZES E FURIOSOS </info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=NnDGWyfP7q4&t=45s$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS[/COLOR]</link>
+
+<link>http://p-fun.fun:80/movie/VoDOnTvBR2030/2018vod2/27883.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR red] VELOZES E FURIOSOS 1 - 2001 - 1080 - DUB[/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26945.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS 2 - 2003 - 1080 - DUB[/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26946.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS 3 - 2006 - 1080 - DUB[/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26947.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS 4 - 2009 - 1080  - DUB[/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26948.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS 5 - 2011 - 1080 -  DUB[/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26949.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS 6 - 2013 - 1080 - DUB[/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26950.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS 7 - 2015 - 1080 - DUB[/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26951.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS 8 - 2017 - 720 - DUB[/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/34055.mp4$$lsname=[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS - HOBBS E SHAW - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/KwzTDmw/veloefuricol-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> A COLEÇÃO  DE VELOZES E FURIOSOS</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] RAMBO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/0FJSqJr/rambo-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
