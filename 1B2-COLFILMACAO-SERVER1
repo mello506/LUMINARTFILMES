@@ -9,13 +9,14 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels></channels>
 <channel>
-<name>[COLOR blue][B] COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR]</name>
+<name>[COLOR blue][B] COLEÇÃO DE FILMES DE AÇÃO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÕES DE FILMES DE AÇÃO</info>
+<info>AS MELHORES COLEÇÕES DE FILMES DE AÇÃO EM SERVER 1</info>
 <genre>AÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <channels></channels>
 <channel>
@@ -58,10 +59,45 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] RAMBO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/0FJSqJr/rambo-pasta.jpg</thumbnail>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O PROTETOR[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/hKnvDvg/protetori-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÃO RAMBO COMPLETA</info>
+<info>COLEÇÃO O PROTETOR</info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR - 2014 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=SLhhP7iknf8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26658.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/hgBFc0Y/protetor-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Baseado na série de televisão "The Equalizer" dos anos 1980, o filme apresenta Robert McCall (Denzel Washington), um homem misterioso que costumava trabalhar como oficial da polícia. Motivado pelas injustiças sociais, ele ajuda vítimas e qualquer pessoa em perigo. A protegida da vez é Teri (Chloë Grace Moretz), jovem explorada sexualmente por mafiosos russos.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR 2 - 2018 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=mCKrSwONuyk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR 2[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26657.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR 2 - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/16VrhWS/protetor2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Massachusetts, Estados Unidos. Robert McCall (Denzel Washington) agora trabalha como motorista, ajudando pessoas que enfrentam dificuldades decorrentes de injustiças. Quando sua amiga Susan Plummer (Melissa Leo) é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave (Pedro Pascal), no intuito de encontrar pistas sobre o autor do crime.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] RAMBO[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO RAMBO </info>
 <genre>AÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -69,7 +105,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 1 - PROGRAMADO PARA MATAR - 1982 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=stWutFvRWo0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 1 - PROGRAMADO PARA MATAR[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26771.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 1 - PROGRAMADO PARA MATAR - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26771.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 1 - PROGRAMADO PARA MATAR - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/PcXjn5Z/rambo1-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -82,9 +118,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 2 - A MISSÃO - 1985 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=_8qnq2lP9V0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 2 - A MISSAO[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26772.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 2 - A MISSAO - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26772.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 2 - A MISSAO - 720 - DUB[/COLOR]</link>
 
-thumbnail>https://i.ibb.co/JKg20D6/rambo2-icon.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/JKg20D6/rambo2-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>John Rambo está cumprindo pena em uma penitenciária federal quando recebe uma proposta: se participar de uma missão suicida (que consiste em localizar prisioneiros americanos) no sudeste asiático será perdoado e reintegrado ao exército. Ele concorda mas não imaginava que seria traído pelos compatriotas, que não querem de fato nenhuma prova de prisioneiros, pois isto acarretaria gastos de 2 bilhões de dólares para libertá-los. Com isso, Rambo acaba sendo abandonado pelos americanos em território inimigo.</info>
 <genre>AÇÃO</genre>
@@ -95,7 +131,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 3 - 1988 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=IQt9bDOGTgg$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 3[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26773.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 3 - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26773.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 3 - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/QmM2D3T/rambo3-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -108,7 +144,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 4 - 2008 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=Gj7oxSnTvWA$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 4[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26774.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 4 - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26774.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 4 - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/vXwrRyH/rambo4-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -121,10 +157,186 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 5 - ATÉ O FIM - 2019  - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=M7Qp-UX7hXU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 5 - ATE O FIM[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/38603.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 5 - ATE O FIM - DUB[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/38603.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 5 - ATE O FIM - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/DGXRg66/rambo5-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>O tempo passou para Rambo, agora ele vive recluso e trabalha em um rancho que fica na fronteira entre os Estados Unidos e o México. Sua vida antiga marcada por lutas violentas, mas quase sempre vitoriosas, ficou no passado. No entanto, quando a filha de um amigo é sequestrada, Rambo não consegue controlar seu ímpeto por justiça e resolve enfrentar um dos mais perigosos cartéis do México</info>
 <genre>AÇÃO</genre>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SICÁRIO[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO SICÁRIO </info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - TERRA DE NINGUÉM - 2015 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=rJJh6p9pH18$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - TERRA DE NINGUEM[/COLOR]</link>
+<link>http://appcliente.com:8880/movie/fabiox/fabiox/4795.mkv$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - TERRA DE NINGUEM - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/F42S37x/sicario1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Na crescente fronteira sem lei entre os Estados Unidos e o México, uma agente do FBI (Emily Blunt) é exposta ao mundo brutal do tráfico internacional de drogas por membros de uma força-tarefa do governo (Josh Brolin e Benicio Del Toro) que a escalam em seu plano para derrotar o chefe de um cartel mexicano.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - DIA DO SOLDADO - 2018 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=0_VrIu-dCJk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - DIA DO SOLDADO[/COLOR]</link>
+<link>http://appcliente.com:8880/movie/fabiox/fabiox/3956.mkv$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - DIA DO SOLDADO - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/ygtGtkj/sicario2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O oficial da CIA Matt Graver (Josh Brolin) volta a contactar seu sicário de confiança, Alejandro Gillick (Benicio Del Toro), desta vez para sequestrar a filha caçula (Isabella Moner) de um barão das drogas mexicano. Os famosos cartéis agora são considerados células terroristas e o objetivo da missão, orientada secretamente pelo alto escalão do governo, é fazer eclodir uma guerra entre os grupos rivais.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] MAD MAX[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/mGQMcdb/madmax-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO MAD MAX </info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA - 1979 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=caHnaRq8Qlg&t=27s$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26520.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA - SD - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/m698F2j/madmax1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Num futuro próximo, o combustível que alimenta os motores dos carros é também motivo para crimes perpretados por violentas gangues. Max é um jovem policial e junto com seus companheiros patrulha as estradas a fim de impedir a ação daqueles que insistem em perturbar a paz. A morte de um membro pelas mãos de Max dá início a uma série de crimes cruéis cometidos contra sua família e o melhor amigo. Assim, Max só tem uma escolha: vingança.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - A CAÇADA CONTINUA - 1981 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=V0fNZPt6Fb8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - A CACADA CONTINUA[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26518.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - A CACADA CONTINUA - SD - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/FVymGDr/madmax2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>No futuro o bem mais precioso é a gasolina, em virtude de uma guerra que acabou com os campos petrolíferos do Oriente Médio. Tendo combustível pode-se fugir da morte ou se dirigir a algum lugar para matar alguém. Neste contexto, Max resolve ajudar uma comunidade a defender sua refinaria contra uma gangue de motoqueiros.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - ALÉM DA CÚPULA DO TROVÃO - 1985 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=dTOwB4VMY6k$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - ALEM DA CUPULA DO TROVAO[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26519.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - ALEM DA CUPULA DO TROVAO - SD - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/CPCr73C/madmax3-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Após a destruição da civilização surge Bartertown, uma cidade no deserto com regras primitivas e mortais que tem uma governante que deseja consolidar seu poder a qualquer preço. Até que lá chega Max, que é forçado a participar de uma luta e, por ter se recusado a matar seu oponente, acaba sendo banido no deserto. Até que um grupo de jovens selvagens o salvam e passam a considerá-lo um messias que os levará até uma nova terra.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX -  A ESTRADA DA FÚRIA - 2015 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=NH5TpcVaqCQ$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX -  A ESTRADA DA FURIA[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26521.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX -  A ESTRADA DA FURIA - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/jDwSh8Y/madmax4-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assombrado por seu turbulento passado, Max acredita que a melhor maneira de sobreviver é vagar sozinho. No entanto, após ser capturado pelos homens do tirano Immortan Joe, o guerreiro das estradas se vê no meio de uma guerra mortal, iniciada pela Imperatriz Furiosa na tentativa de resgatar um grupo de garotas e retornar à sua terra natal. Enfurecido, o senhor da guerra convoca os seus garotos de guerra e caça impiedosamente os rebeldes nas estradas do deserto da Austrália. Também tentando fugir, Max aceita ajudar Furiosa em sua luta contra Joe e se vê dividido mais uma vez entre seguir o seu caminho sozinho ou ficar com o grupo.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] JASON BOURNE[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/3MMD1gT/bourner-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO JASON BOURNE </info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A IDENTIDADE BOURNE - 2002 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=kJOsS1wOQSc$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A IDENTIDADE BOURNE[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26128.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] A IDENTIDADE BOURNE - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/R2cDXpG/bourne1-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um homem sem memória é resgatado do oceano por barco de pesca. Sobre si, ele só sabe que tem talento para matar e um chip implantado no quadril. Enquanto busca sua história, tenta escapar de pessoas que, inexplicavelmente, querem matá-lo.</info>
+<genre>AÇÃO</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SUPREMACIA  BOURNE - 2004 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=Y-HqyyfBbSo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SUPREMACIA  BOURNE[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26149.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SUPREMACIA  BOURNE - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/DzxXq35/bourne2-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Há 2 anos Jason Bourne (Matt Damon) achou que tivesse deixado para trás seu passado como assassino frio e calculista criado pela Treadstone. Desde então ele vem mantendo uma existência anônima, abrindo mão da estabilidade de ter um lar e se mudando com Marie (Franka Potente) sempre que surge a ameaça de ser descoberto. Quando um agente aparece na vila onde Jason e Marie vivem, eles não têm outra alternativa senão fugir. Porém um novo jogo internacional de perseguição faz com que Jason tenha que confrontar velhos inimigos.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMATO  BOURNE - 2007 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=ZT2ZxjUjSo0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMATO  BOURNE[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26674.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMATO  BOURNE - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/TM3bpwP/bourne3-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Jason Bourne (Matt Damon) é um homem que vive sem país e sem passado após ter sido submetido a um treinamento brutal, ao qual não se lembra, por pessoas que não conhece. Ele é uma sofisticada arma humana, perseguida incessantemente pela CIA. Após sua última aparição ele decidiu sumir para sempre e esquecer a vida que lhe foi roubada. Entretanto uma matéria em um jornal de Londres, que especula sobre sua existência, faz com que ele torne-se mais uma vez um alvo. O programa Treadstone, que criou Bourne, já não existe mais, mas serviu de base para o programa Blackbriar, desenvolvido pelo Departamento de Defesa dos Estados Unidos. O Blackbriar desenvolve uma geração de novos matadores treinados secretamente pelo governo, que acredita que Bourne é uma ameaça de US$ 30 milhões que deve ser eliminada de uma vez por todas. Já Bourne vê neles uma oportunidade de descobrir quem realmente é e o que fizeram com ele.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGADO  BOURNE - 2012 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=GCpeTw6iKcA$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGADO  BOURNE[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26640.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGADO  BOURNE - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/3vqGrLR/bourne4-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Após Jason Bourne revelar publicamente o projeto Treadstone, Eric Byer (Edward Norton) é encarregado de apagar os rastros que possam incriminar o governo dos Estados Unidos neste e em outros projetos sigilosos. Um deles chama-se Outcome, um projeto que pretende suprimir a dor e aumentar a sensibilidade, inteligência e força de seus agentes através de remédios tomados periodicamente. Com o fim do Outcome, seus agente passam a ser eliminados a mando do próprio governo. Aaron Cross (Jeremy Renner) é um deles, mas consegue escapar sem que Byer perceba. Em busca de respostas, ele vai à casa da doutora Martha Shearing (Rachel Weisz) e a salva da morte certa. Juntos, eles precisam encontrar um meio de sobreviver ao mesmo tempo em que Aaron, sem seus remédios habituais, começa a sentir os efeitos colaterais da abstinência forçada.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] JASON  BOURNE - 2016 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] JASON  BOURNE[/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26463.mp4 $$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] JASON  BOURNE - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/98qbWg9/bourne5-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Jason Bourne está novamente sendo caçado pela CIA. Começa quando Nicky Parson, um ex-agente da CIA que ajudou Bourne, e que depois "desapareceu", agora trabalha com um homem que quer expor as operações sujas da CIA. Então Nicky hackeia a CIA e baixa tudo de todas as Black Ops, incluindo Treadstone, da qual Bourne faz parte. O agente da CIA Heather Lee descobre o hack e avisa o diretor Dewey da CIA, o homem por trás das Black Ops. Dewey então ordena que Parsons seja encontrado e espera que Bourne também seja.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
