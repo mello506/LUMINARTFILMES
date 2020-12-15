@@ -24,8 +24,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.youtube/play/?video_id=l2xNplwdCbY$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O DESAFIO DAS AGUIAS[/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=red$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O DESAFIO DAS AGUIAS - RES - DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] O DESAFIO DAS AGUIAS - 720 - DUB[/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] O DESAFIO DAS AGUIAS - 1080 - DUB[/COLOR]</link>
@@ -48,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CANHÕES DE NAVARONE - 1961 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=dCaWEFmgFJU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CANHOES DE NAVARONE[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LeMtE4anT-MPtX6aKh3knbaHY_Q34a4t/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CANHOES DE NAVARONE - 1080 - DUB[/COLOR]</link>
+
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D573920615D077546821D704E3E1B0E6F8183470&dn=Os%20Canh%c3%b5es%20de%20Navarone%201961%20WWW.BLUDV.COM$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CANHOES DE NAVARONE - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85e2c5bd20ad6c67d7657dbfc17f8c188fc19f20&dn=Os+Canh%C3%B5es+de+Navarone+1961+%5B1080p%5D+WWW.BLUDV.COM$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CANHOES DE NAVARONE - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=dHp1DQ5tfq8&t=7s$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CANHOES DE NAVARONE PARTE 1 - SD - DUB[/COLOR]</link>
@@ -70,7 +68,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] COMANDO DEZ DE NAVARONE - 1978 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=qeQgd2qmbyg$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] COMANDO DEZ DE NAVARONE[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Mq27wT54ugLdYVGjipbxeCbh0RJXinnL/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] COMANDO DEZ DE NAVARONE - 1080 - DUB[/COLOR]</link>
+
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87073172998A484820BA7FC65CAEC41194F9A1AB&dn=Force.10.from.Navarone.1978.REMASTERED.720p.BluRay.999MB.x265&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] COMANDO DEZ DE NAVARONE - 720 - DUB[/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] COMANDO DEZ DE NAVARONE - 1080 - DUB[/COLOR]</link>
@@ -88,113 +86,5 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<item>
-<title>[COLOR lime]A ÁGUIA POUSOU - 1977 - SD - DUB [/COLOR]</title>
-<thumbnail>https://oreidofaroeste.com.br/imagens/capa_4900.jpg</thumbnail>
-<fanart>https://militaryhumor.net/wp-content/uploads/2019/02/The-Interesting-Military-Career-of-Sir-Michael-Caine.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/0B8S56XOJY1VgaTZUaDh3dWtvVDg/view</link>
-<info>Durante a Segunda Guerra Mundial, o oficial nazista Max Radl planeja o sequestro ou morte do primeiro ministro britânico.O esquema segue adiante com o coronel Kurt Steiner liderando a missão, ajudado por Liam Devlin, um irlandês que sente um ódio profundo pela Inglaterra.</info>
-<genre>GUERRA</genre> 
-</item>
-
-<item>
-<title>[COLOR lime]LS-> O 12º HOMEM - 2019 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRitsEjpjCF6GBxJztHZx8wyRa_26_2wUU2SDU6aGFUSet4ygFv</thumbnail>
-<fanart>https://i.ytimg.com/vi/UiRrCAng84A/maxresdefault.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1Xrlo54sCwWBt9nvVDiEQi1Bk-U9zccmn/view</link>
-<info>Drama situado na Segunda Guerra Mundial contando a verdadeira história do herói da resistência norueguesa, Jan Baalsrud. Eram 12 sabotadores. Os nazistas mataram 11 deles. Esta é a verdadeira história de quem escapou.</info>
-<genre>GUERRA</genre>
-</item>>
-
-<item>
-<title>[COLOR red]A PONTE DOS ESPIÕES - 2016 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://http2.mlstatic.com/dvd-ponte-dos-espioes-tom-hanks-novo-lacrado-D_NQ_NP_801021-MLB20697993343_052016-F.jpg</thumbnail>
-<fanart>http://flix66.com/wp-content/uploads/2099/01/screen_shot_2015-10-12_at_10.38.22_pm.png</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1VLsaSF_JxJGsYuUWNT_jz-8QkXyUSqlK/view</link>
-<info> Durante a Guerra Fria, a União Soviética consegue capturar o piloto americano Francis Powers após derrubar seu avião 
-de espionagem, o U-2. Condenado a 10 anos de prisão, a única esperança de Powers é o advogado de Nova York, James Donovan. 
-Sem experiência nesta área legal, o advogado é recrutado pela CIA para defender Rudolf Abel, um espião russo condenado por 
-espionagem pelos americanos. A estratégia é trocar o espião russo pelo americano, sem que os governos dos dois países sejam 
-envolvidos.</info>
-<genre>GUERRA</genre> 
-</item>
-
-<item>
-<title>[COLOR lime]LS-> A ESPIÃ - 2006 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://ottvsimg.ottvs.com.br/cov/eur.023711/0023711_335.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/wd7ltuWqfERJd7s6MStDYzx4SHC.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1S5xPt3RcbtPW2vr7nGNlg-PFDTzKueZ5/view</link>
-<info> Rachel Rosenthal é uma cantora judia que, durante uma tentativa de fuga, perde toda sua família em um ataque alemão.
-Ela se apaixona pelo oficial alemão que ela deveria espionar e quando suspeitam de um traidor dentro da resistência, ela é
-forçada a escolher o lado onde a sua lealdade está.</info>
-<genre>GUERRA</genre> 
-</item>
-
-<item>
-<title>[COLOR lime]LS-> A PONTE DO RIO KWAI - 1957 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTGA64KkkVmU0gzBo6T8ZClWXvQ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/9byr3inr9JnaqeohkGmx1ySSTke.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1MsOrU22h9HW66LTjUi473ThLyrl4gmW9/view</link>
-<info>Durante a Segunda Guerra Mundial, prisioneiros britânicos recebem o encargo dos japoneses de construir em plena selva uma ponte de transporte ferroviário sobre o Rio Kwai, na Tailândia. O coronel Nicholson, que está à frente dos prisioneiros, é o oficial britânico que procura uma forma de elevar o moral de seus homens. Vê a ponte como uma forma de consegui-lo, tendo-os ocupados na construção e fazendo-os sentirem-se orgulhosos da obra. Por sua vez, o major americano Shears, prisioneiro no mesmo campo, só pensa em fugir. Ao final, ele o consegue e, contra a sua vontade, volta algumas semanas depois, guiando um comando inglês, cuja missão é destruir a ponte no instante em que passasse o primeiro trem, para anular a rota de transporte de armas dos japoneses, que pretendiam utilizá-la para invadir a Índia.</info>
-<genre>GUERRA</genre> 
-</item>
-
-<item>
-<title>[COLOR lime]LS-> OPERAÇÃO VALQUIRIA - 2008 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/5cJS5ZuVrWRt6sEYDlo21ak1TNC.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/l1d8RqJjvMXXgYABf0zeLNwuGpS.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1dPmq0wtKKU48z66NGsAo8EI24L09ZrsW/view/link>
-<info>A história é sobre uma das histórias mais heróicas da Segunda Guerra Mundial, mas também uma das mais desconhecidas. Gravemente ferido em combate, o coronel alemão Claus von Stauffenberg retorna para a África para se juntar à resistência alemã e ajudar a criar a Operação Valkyrie, um complexo plano que irá permitir a substituição de Hitler no poder assim que ele estiver morto. O destino e as circunstâncias fazem com que Stauffenberg se torne uma peça central na missão. Ele não só tem que liderar o golpe e tomar o controle do governo de seu país, como fica encarregado de matar Hitler com as próprias mãos.</info>
-<genre>GUERRA</genre> 
-</item>
-
-<item>
-<title>[COLOR lime]LS-> TOBRUK - 1967 - 1080 - LEG FIX[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCCJ6qHQy7OqERbyeOeV0olOZ33.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/e2JWtLeCeQeIL3XmpqNeYtsBPFx.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oKMszKHSNDnZi7B_24MmJuDYC9GHcCAj/view</link>
-<info>Setembro 1942 - Com o Afrika Korps de Rommel em marcha através do Egito, uma unidade de Comandos Britânicos, composta de judeus-alemães e ingleses, apesar do ressentimento mútuo entre eles, resgatam o oficial canadense Donald Craig, topógrafo de companhia petrolífera na vida civil, que é mantido prisioneiro pelos franceses de Vichy na Argélia. O oficial Donald Craig, deverá guiar esses comandos por 800 milhas do Saara para ajudar um planejado desembarque anfíbio de tropas que atacarão a enorme base de armazenamento de combustível alemão em Tobruk. Uma missão que enfrenta um obstáculo após o outro, e que descobre uma despercebida força blindada alemã pronta para ganhar a batalha do Egito.</info>
-<genre>GUERRA</genre> 
-</item>
-
-
-<item>
-<title>[COLOR lime]LS-> O BURACO DA AGULHA - 1981 - 1080 - LEG.FIX [/COLOR]</title>
-<thumbnail>https://oreidofaroeste.com.br/imagens/capa_3614.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/mlrT21Rq4h0M5Ic0vrLcDs7kC68.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1ybdPMI4o1NZKHzuSsiSKbx0VonhfDqEf/view</link>
-<info>Um Super-Espião alemão da WW2, o "Agulha", que elimina os inimigos usando seu fiel canivete, descobre evidências vitais sobre a Invasão dos Aliados, o D-Day. Ele vai para a costa escocesa para escapar em um U-Boat quando seu bote naufraga antes de ser pego pelo submarino e o "Agulha" é levado pelas ondas até a praia. Ele é encontrado por um homem destinado a nunca entrar na guerra, que mora com sua esposa e filho num local isolado. O "Agulha" rapidamente se apaixona pela mulher e ambos devem se decidir entre seu amor e seu país.</info>
-<genre>GUERRA</genre> 
-</item>
-
-<item>
-<title>[COLOR lime]LS-> ENIGMA - 2001 -  1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBRgHFHnCqhfpq4w63XqbjdMdB2.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/easQMFJx9nRXCtgXmZzSj14kUFJ.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1GKYAJC4GvJjPY3MxY3hvjWjqW1UECSrn/view</link>
-<info>Em março de 1943, a equipe de elite dos decodificadores da Inglaterra tem uma responsabilidade monumental: decifrar o Enigma, um código ultraseguro utilizado pelos nazistas para enviar mensagens aos seus submarinos. O desafio fica ainda maior quando se sabe que uma grande esquadra de navios mercantis está prestes a cruzar o Atlântico e cerca de dez mil homens correrão perigo caso a localização dos submarinos alemães não seja logo descoberta, o que apenas poderá ocorrer quando o Enigma for decifrado. Para liderar este trabalho é chamado Tom Jericho (Dougray Scott), um gênio da matemática que consegue realizar tarefas consideradas impossíveis pelos especialistas. Porém, ao mesmo tempo em que Jericho se envolve cada vez mais com a decodificação do Enigma ele precisa estar atento à sua namorada Claire (Saffron Burrows), uma sedutora e misteriosa mulher que pode estar trabalhando como espiã para os alemães.</info>
-<genre>GUERRA</genre> 
-</item>
-
-<item>
-<title>[COLOR lime]LS-> FORÇAS ESPECIAIS - 2011 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrWc9PjZfZk6gane7VDwC1EQKsr.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/w29sqBEeQP12PGTfmBGeSIwlFw8.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1nJ9v1OFgM6daIvvubmh6CmoV9puTyl11/view</link>
-<info>Elsa (Diane Kruger) é uma jornalista francesa que foi sequestrada por um líder do Talibã. Logo um vídeo com ela surge na internet, onde é anunciada sua data de execução. Investigações indicam que o cativeiro de Elsa fica em um vilarejo no Paquistão e logo uma equipe altamente treinada, composta por seis homens liderados por Kovax (Djimon Hounson), é enviada. Eles conseguem resgatá-la, mas agora precisam encontrar um jeito de deixar o local.</info>
-<genre>GUERRA</genre> 
-</item>
-
 
 
