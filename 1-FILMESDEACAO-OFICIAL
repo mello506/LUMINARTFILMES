@@ -53,46 +53,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR blue][B] SÉRIES DE AÇÃO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE AÇÃO DO SERVER1</info>
-<genre>AÇÃO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SÉRIES DE AÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1-SERIESDEACAO-TORRENT</externallink>
-<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>AS SÉRIES DE AÇÃO EM TORRENT ESTÃO AQUI</info>
-<genre>AÇÃO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SÉRIES DE AÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1A-SERIESDEACAO-REDCAN</externallink>
-<thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>AS SÉRIES DE AÇÃO DO REDE CANAIS ESTÃO AQUI</info>
-<genre>AÇÃO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SÉRIES DE AÇÃO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1B-SERIESDEACAO-SERVER1</externallink>
-<thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>AS SÉRIES DE AÇÃO DO SERVER 1 ESTÃO AQUI</info>
-<genre>AÇÃO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
 <name>[COLOR blue][B] COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
