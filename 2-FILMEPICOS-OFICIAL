@@ -10,7 +10,7 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 <channels></channels>
 <channel>
 <name>[COLOR blue][B] FILMES DE ÉPICOS[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://i.ibb.co/0c1J23W/sub-cat-picos.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES DE ÉPICOS DO SERVER1</info>
 <genre>ÉPICOS</genre>
@@ -19,7 +19,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR red][B] FILMES DE ÉPICOS[/B][/COLOR]</name>
+<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES DE ÉPICOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/2A-FILMEPICOS-TORRENT</externallink>
 <thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -30,7 +30,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red][B] FILMES DE ÉPICOS[/B][/COLOR]</name>
+<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES DE ÉPICOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/2B-FILMEPICOS-REDCAN</externallink>
 <thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -41,7 +41,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red][B] FILMES DE ÉPICOS[/B][/COLOR]</name>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES DE ÉPICOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/2C-FILMEPICOS-SERVER1</externallink>
 <thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -54,7 +54,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[COLOR blue][B] COLEÇÕES DE FILMES DE ÉPICOS[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://i.ibb.co/0c1J23W/sub-cat-picos.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES DE ÉPICOS DO SERVER1</info>
 <genre>ÉPICOS</genre>
@@ -62,8 +62,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR red][B] COLEÇÕES DE FILMES DE ÉPICOS[/B][/COLOR]</name>
-<externallink>https://github.com/mello506/LUMINARTFILMES/blob/main/2D-COLFILMEPICOS-TORRENT</externallink>
+<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] COLEÇÕES DE FILMES DE ÉPICOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/2D-COLFILMEPICOS-TORRENT</externallink>
 <thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>AS COLEÇÕES DE FILMES DE ÉPICOS EM TORRENT ESTÃO AQUI</info>
@@ -72,7 +72,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red][B] COLEÇÕES DE FILMES DE ÉPICOS[/B][/COLOR]</name>
+<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] COLEÇÕES DE FILMES DE ÉPICOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/2E-COLFILMEPICOS-REDCAN</externallink>
 <thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -82,11 +82,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red][B] COLEÇÕES DE FILMES DE ÉPICOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/2F-COLFILMEPICOS-SERVER1</externallink>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] COLEÇÕES DE FILMES DE ÉPICOS[/B][/COLOR]</name>
+<externallink>https://github.com/mello506/LUMINARTFILMES/blob/main/2F-COLFILMEPICOS-SERVER1</externallink>
 <thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>AS COLEÇÕES DE FILMES DE ÉPICOS DO SERVER 1 ESTÃO AQUI</info>
+<info>AS COLEÇÕES DE FILMES DE ÉPICOS DO SERVER 1 ESTÃO AQUI </info>
 <genre>ÉPICOS</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
