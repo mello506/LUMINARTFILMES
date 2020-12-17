@@ -1,348 +1,129 @@
-<channels></channels>
-<channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<item>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<link>NOLINK</link>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-
-<channels></channels>
-<channel>
-<name>[COLOR blue][B] COLEÇÃO DE FILMES DE AÇÃO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>AS MELHORES COLEÇÕES DE FILMES DE AÇÃO EM TORRENT</info>
-<genre>AÇÃO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<channels></channels>
-<channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] VELOZES E FURIOSOS[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Jk05YFD/velofuriososi-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÃO VELOZES E FURIOSOS </info>
-<genre>AÇÃO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS - DUB[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=NnDGWyfP7q4&t=45s$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS[/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e4eaaaeb58abcc845e322e8b711aeda3a344996&dn=Cole%26ccedil%3Bao+Velozes+%26amp%3B+Furiosos+BluRay+1080p+Dublado+Coman&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT - FILMES 01 A 06[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS - 1080 - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D2F76D264AA82B7507C8D4F8470C75F69AC34BB&dn=Velozes.e.Furiosos.7.Versao.Estendida.2015.1080p.Dual-WOLVERDONFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337$$lsname=[B]TORRENT - FILME 07[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E095633EE80A182BAA478443F05B3235787C1733&dn=Velozes%20e%20Furiosos%208%202017%20%5bBluRay%5d%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT - FILME 08[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7588FF46789E670AF15245F35C17091CC767F98C&dn=%5bWWW.BLUDV.TV%5d%20Velozes%20%26%20Furiosos%20-%20Hobbs%20%26%20Shaw%202019%20%281080p%20-%20BluRay%20-%20x265%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT - FILME 09[/B][COLOR yellow] ->[/COLOR][COLOR lime] VELOZES E FURIOSOS - HOBBS E SHAW - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/KwzTDmw/veloefuricol-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info> A COLEÇÃO  DE VELOZES E FURIOSOS</info>
-<genre>AÇÃO</genre>  
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O PROTETOR[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/hKnvDvg/protetori-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÃO O PROTETOR</info>
-<genre>AÇÃO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR - 2014 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=SLhhP7iknf8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5eeaf36ec1e8b5724dae3ecdd3cd11f6a07ff0d&dn=O%20Protetor%20%282014%29%20Bluray%20720p%20-%205.1%20Dual%20Audio%20Dublado%20%20Torrent%20Download%20-%20ComandoFilmesO Protetor %E2%80%93 Dublado BluRay 720p / 1080p$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:869006c9266f7152d8325dcde6649b7d914e98f4&dn=O%20Protetor%20%282014%29%20Bluray%201080p%205.1%20Dual%20Audio%20Dublado%20%20Torrent%20Download%20-%20Comando%20FilmesO Protetor %E2%80%93 Dublado BluRay 720p / 1080p$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/hgBFc0Y/protetor-icon.jpg</thumbnail>
+<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] COLEÇÕES DE FILMES DE ÉPICOS[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Baseado na série de televisão "The Equalizer" dos anos 1980, o filme apresenta Robert McCall (Denzel Washington), um homem misterioso que costumava trabalhar como oficial da polícia. Motivado pelas injustiças sociais, ele ajuda vítimas e qualquer pessoa em perigo. A protegida da vez é Teri (Chloë Grace Moretz), jovem explorada sexualmente por mafiosos russos.</info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR 2 - 2018 - DUB [/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=mCKrSwONuyk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR 2[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa8c3ac71481aa420bd94164c572dbd11e3e15c1$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR 2 - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be86c45562d8db979f7dad3cfdf3ec5136cc9fdd$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR 2 - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/16VrhWS/protetor2-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Massachusetts, Estados Unidos. Robert McCall (Denzel Washington) agora trabalha como motorista, ajudando pessoas que enfrentam dificuldades decorrentes de injustiças. Quando sua amiga Susan Plummer (Melissa Leo) é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave (Pedro Pascal), no intuito de encontrar pistas sobre o autor do crime.</info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] RAMBO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/0FJSqJr/rambo-pasta.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÃO RAMBO </info>
-<genre>AÇÃO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 1 - PROGRAMADO PARA MATAR - 1982 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=stWutFvRWo0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 1 - PROGRAMADO PARA MATAR[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:496e6a2ad5980c30559f46907b16ac38b08bea2c&dn=Rambo+-+Programado+para+Matar+%281982%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 1 - PROGRAMADO PARA MATAR - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] RAMBO - 1 - PROGRAMADO PARA MATAR - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/PcXjn5Z/rambo1-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>John Rambo é um veterano de guerra atormentado pelas lembranças do Vietnã. Numa viagem à procura de um colega do exército, passa por uma cidadezinha cujo xerife o toma por vagabundo, e acaba detido. Lá, a agressividade dos policiais traz à tona todos os seus traumas, mas também toda sua habilidade de guerra. Rambo foge, então, para uma floresta vizinha, e dá início a uma caçada explosiva, em que será preciso toda uma força policial para combater um só homem.</info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 2 - A MISSÃO - 1985 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=_8qnq2lP9V0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 2 - A MISSAO[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3da5cb8b56643b559bbf6863b183dcb6944e7b11&dn=Rambo+II%3A+A+Miss%26atilde%3Bo+BRRIP+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 2 - A MISSAO - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8777e3764b099ad82711601e87f8ed334be7433a&dn=First+Blood+Part+II+1985+BluRay+BD25+AVC+DTS-HD+MA+5.1&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 2 - A MISSAO - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/JKg20D6/rambo2-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>John Rambo está cumprindo pena em uma penitenciária federal quando recebe uma proposta: se participar de uma missão suicida (que consiste em localizar prisioneiros americanos) no sudeste asiático será perdoado e reintegrado ao exército. Ele concorda mas não imaginava que seria traído pelos compatriotas, que não querem de fato nenhuma prova de prisioneiros, pois isto acarretaria gastos de 2 bilhões de dólares para libertá-los. Com isso, Rambo acaba sendo abandonado pelos americanos em território inimigo.</info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 3 - 1988 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=IQt9bDOGTgg$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 3[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4862e8f3c2a5ca6da98e3f6b6420636d010d142a&dn=Rambo+III+%281988%29+BRRip+720p+-+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 3 - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b27ce91f9250bd74fee7ab7393cf87f5c1129d69&dn=Rambo+III+1988+BluRay+BD25+AVC+DTS-HD+MA+5.1&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 3 - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/QmM2D3T/rambo3-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>O companheiro e superior de John Rambo no Vietna, o coronel Samuel Trautman, foi designado para liderar uma missão de ajuda aos rebeldes que lutam contra a invasao do Afeganistao pelos sovieticos. Durante, a missa, Trautman e capturado e torturado pelo comandante russo Zaysen. A tensao e aventura aumenta quando Rambo tem um plano de sair ele proprio e os aliados rebeldes numa tentativa corajosa de resgatar o amigo das maos do inimigo.</info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 4 - 2008 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=Gj7oxSnTvWA$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 4[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7119a419aa7d6a64b9182743fba5f5db25efbc2f&dn=Rambo+IV+-+BRRip+720p+DUBLADO&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 4 - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0455FE8266D227A353D155FC62B8E350EA3EC35C&dn=hidratorrent.com%20-%20Rambo4.2008.Trial.Bluray1080p&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO 4 - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/vXwrRyH/rambo4-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Uma guerra civil acontece há quase 60 anos na fronteira com a Birmânia, envolvendo os birmaneses e a tribo karen. John Rambo vive no norte da Tailândia, onde pilota um barco no rio Salween. Cansado de lutar, Rambo leva uma vida simples e solitária, apenas acompanhando o fluxo de rebeldes e refugiados. Até que surgem Sarah Miller e Michael Burnett, dois missionários que desejam levar alimentos e remédios às pessoas afetadas pela guerra. Inicialmente relutante, Rambo aceita a proposta de levá-los pelo rio. Mas 10 dias depois o pastor Artur Marsh o procura, dizendo que os missionários foram capturados e que havia recolhido dinheiro para contratar mercenários para resgatá-los. O pastor agora quer que Rambo leve os mercenários até o local onde ele deixou os missionários, mas ele decide também participar da operação de resgate.</info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 5 - ATÉ O FIM - 2019  - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=M7Qp-UX7hXU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 5 - ATE O FIM[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7119a419aa7d6a64b9182743fba5f5db25efbc2f&dn=Rambo+IV+-+BRRip+720p+DUBLADO&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 5 - ATE O FIM - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6A7A0215E87EC13CE7ABB423D58C149BD4C5D2A&dn=%5bWWW.BLUDV.TV%5d%20Rambo%20-%20At%c3%a9%20o%20Fim%202019%20%281080p%20-%20BluRay%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] RAMBO - 5 - ATE O FIM - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/DGXRg66/rambo5-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>O tempo passou para Rambo, agora ele vive recluso e trabalha em um rancho que fica na fronteira entre os Estados Unidos e o México. Sua vida antiga marcada por lutas violentas, mas quase sempre vitoriosas, ficou no passado. No entanto, quando a filha de um amigo é sequestrada, Rambo não consegue controlar seu ímpeto por justiça e resolve enfrentar um dos mais perigosos cartéis do México</info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SICÁRIO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/D9bhVq7/sicarior-pasta.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÃO SICÁRIO </info>
-<genre>AÇÃO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - TERRA DE NINGUÉM - 2015 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=rJJh6p9pH18$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - TERRA DE NINGUEM[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B453CC8AB16C5A734EEE957BE2B7B664548C044&dn=Sicario%20Terra%20de%20Ninguem%202015%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - TERRA DE NINGUEM - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DA219641812A46F01C70769A3D1F1715CF583F31&dn=Sicario%20Terra%20de%20Ninguem%202015%20Bluray%201080p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - TERRA DE NINGUEM - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/F42S37x/sicario1-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Na crescente fronteira sem lei entre os Estados Unidos e o México, uma agente do FBI (Emily Blunt) é exposta ao mundo brutal do tráfico internacional de drogas por membros de uma força-tarefa do governo (Josh Brolin e Benicio Del Toro) que a escalam em seu plano para derrotar o chefe de um cartel mexicano.</info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - DIA DO SOLDADO - 2018 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=0_VrIu-dCJk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - DIA DO SOLDADO[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA8421EB25457059C427C6300C3EEB00A98E35FB&dn=%7b%7d%20Sic%C3%A1rio%202%20-%20Dia%20do%20Soldado%202018%20%28720p%29%20Acesse%20&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - DIA DO SOLDADO - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:531FC836B3B04D56447673E645F820B9601021EC&dn=%7b%7d%20Sic%C3%A1rio%202%20-%20Dia%20do%20Soldado%202018%20%281080p%29%20Acesse%20&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICARIO - DIA DO SOLDADO - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/ygtGtkj/sicario2-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>O oficial da CIA Matt Graver (Josh Brolin) volta a contactar seu sicário de confiança, Alejandro Gillick (Benicio Del Toro), desta vez para sequestrar a filha caçula (Isabella Moner) de um barão das drogas mexicano. Os famosos cartéis agora são considerados células terroristas e o objetivo da missão, orientada secretamente pelo alto escalão do governo, é fazer eclodir uma guerra entre os grupos rivais.</info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] MAD MAX[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/mGQMcdb/madmax-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÃO MAD MAX </info>
-<genre>AÇÃO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA - 1979 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=caHnaRq8Qlg&t=27s$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bcf6a04f1af146b98bd020772ff64cfbe85aab6$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX 1 - O GUERREIRO DA ESTRADA - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/m698F2j/madmax1-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Num futuro próximo, o combustível que alimenta os motores dos carros é também motivo para crimes perpretados por violentas gangues. Max é um jovem policial e junto com seus companheiros patrulha as estradas a fim de impedir a ação daqueles que insistem em perturbar a paz. A morte de um membro pelas mãos de Max dá início a uma série de crimes cruéis cometidos contra sua família e o melhor amigo. Assim, Max só tem uma escolha: vingança.</info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - A CAÇADA CONTINUA - 1981 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=V0fNZPt6Fb8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - A CACADA CONTINUA[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bea7786d63edfc25efa02f78aad86636c282bd69&dn=Mad+Max+2+-+A+Ca%26ccedil%3Bada+Continua...+%281981%29+BDrip+720p+Dublad&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - A CACADA CONTINUA - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a63b5dbfd968f5cb0bb3b339fa86e15d1a26660e$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - A CACADA CONTINUA - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/FVymGDr/madmax2-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>No futuro o bem mais precioso é a gasolina, em virtude de uma guerra que acabou com os campos petrolíferos do Oriente Médio. Tendo combustível pode-se fugir da morte ou se dirigir a algum lugar para matar alguém. Neste contexto, Max resolve ajudar uma comunidade a defender sua refinaria contra uma gangue de motoqueiros.</info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - ALÉM DA CÚPULA DO TROVÃO - 1985 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=dTOwB4VMY6k$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - ALEM DA CUPULA DO TROVAO[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VwQqUZ98VxazJuva52dP_hH0zXuyrS-n/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] MAD MAX - ALEM DA CUPULA DO TROVAO - RES - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92c07d9c31204b13253f9159e8253dee78984427&dn=Mad+Max+3+%281985%29+BDrip+1080p+Dublado+datljs2014&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX - ALEM DA CUPULA DO TROVAO - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/CPCr73C/madmax3-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Após a destruição da civilização surge Bartertown, uma cidade no deserto com regras primitivas e mortais que tem uma governante que deseja consolidar seu poder a qualquer preço. Até que lá chega Max, que é forçado a participar de uma luta e, por ter se recusado a matar seu oponente, acaba sendo banido no deserto. Até que um grupo de jovens selvagens o salvam e passam a considerá-lo um messias que os levará até uma nova terra.</info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX -  A ESTRADA DA FÚRIA - 2015 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=NH5TpcVaqCQ$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX -  A ESTRADA DA FURIA[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FAF2665F2C528D2B68E9AFF97CFF3C3287FC981C&dn=Mad%20Max%20-%20Estrada%20da%20F%c3%baria%20%282015%29%20720p%205.1%20Dublado%20-%20Alan_680$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX -  A ESTRADA DA FURIA - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E25107EA08FB195A9008501849827670804FD099&dn=Mad%20Max%20-%20Estrada%20da%20F%c3%baria%20%282015%29%201080p%205.1%20Dublado%20-%20Alan_680$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAD MAX -  A ESTRADA DA FURIA - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/jDwSh8Y/madmax4-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assombrado por seu turbulento passado, Max acredita que a melhor maneira de sobreviver é vagar sozinho. No entanto, após ser capturado pelos homens do tirano Immortan Joe, o guerreiro das estradas se vê no meio de uma guerra mortal, iniciada pela Imperatriz Furiosa na tentativa de resgatar um grupo de garotas e retornar à sua terra natal. Enfurecido, o senhor da guerra convoca os seus garotos de guerra e caça impiedosamente os rebeldes nas estradas do deserto da Austrália. Também tentando fugir, Max aceita ajudar Furiosa em sua luta contra Joe e se vê dividido mais uma vez entre seguir o seu caminho sozinho ou ficar com o grupo.</info>
-<genre>AÇÃO</genre>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILME DE ÉPICOS ESTÃO AQUI</info>
+<genre>ÉPICOS</genre> 
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels></channels>
-<channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] JASON BOURNE[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/3MMD1gT/bourner-pasta.jpg</thumbnail>
+<item>
+<title>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 300[/B][/COLOR]</title>
+<link>NO LINK</link>
+<thumbnail>https://i.ibb.co/9q6zDcP/furtitas-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÃO JASON BOURNE </info>
-<genre>AÇÃO</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILME DE ÉPICOS ESTÃO AQUI</info>
+<genre>ÉPICOS</genre 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A IDENTIDADE BOURNE - 2002 - DUB[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 2006 - DUB[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=kJOsS1wOQSc$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A IDENTIDADE BOURNE[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ef8636d845ad45a4f8bb3605bb99fd2c86619ee&dn=A+Identidade+Bourne+%282002%29+720p+Dublado+-+Alan_680&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A IDENTIDADE BOURNE - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:499818984fcb5effe673fd446a869d5ff027f2b3&dn=A+Identidade+Bourne+%282002%29+BluRay+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A IDENTIDADE BOURNE - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=WkG34G6a59M$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:641A4DF9E982E7383284D69A920FE935291E9C2B&dn=300+2006+720p+bluray+5+1+x264+dual+bludv$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FA53657CB434E17C18394A9E3C1CAB75BBA1E53&dn=300+2006+1080p+bluray+5+1+x264+dual+bludv$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 1080 - DUB[/COLOR]</link>
 
-<thumbnail>https://i.ibb.co/R2cDXpG/bourne1-pasta.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/7tPxsjt/300-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Um homem sem memória é resgatado do oceano por barco de pesca. Sobre si, ele só sabe que tem talento para matar e um chip implantado no quadril. Enquanto busca sua história, tenta escapar de pessoas que, inexplicavelmente, querem matá-lo.</info>
-<genre>AÇÃO</genre> 
+<info>Em 480 A.C., existe uma guerra entre a Pérsia, liderada pelo rei Xerxes, e a Grécia. Na batalha de Thermopylae, Leônidas, rei da cidade grega de Sparta, lidera seu guerreiros em desvantagem contra o massivo exército persa. Mesmo sabendo que a morte certa os espera, seus sacrifícios inspiram toda a Grécia a unir-se contra o seu inimigo comum.</info>
+<genre>ÉPICOS</genre>  
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SUPREMACIA  BOURNE - 2004 - DUB[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - A ASCENÇÃO DO IMPÉRIO - 2014 - DUB[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=Y-HqyyfBbSo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SUPREMACIA  BOURNE[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SUPREMACIA  BOURNE - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:461f2147ab29fe4ffd153662957ee59e40ccfa38&dn=A+Supremacia+Bourne+%282004%29+BDRip+1080p+Dublado+-+Alan_680&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SUPREMACIA  BOURNE - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=s81qj2AQxpI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - A ASCENCAO DO IMPERIO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF9071F586BFC7FCAC86A1F04AD63CA6D6C96979&dn=300+a+ascens%C3%A3o+do+imp%C3%A9rio+2014+720p+bluray+5+1+x264+dual+bludv$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - A ASCENCAO DO IMPERIO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0C04D40732F70F8A48259D12D36E233D91008BD2&dn=300+a+ascens%C3%A3o+do+imp%C3%A9rio+2014+1080p+bluray+5+1+x264+dual+bludv$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - A ASCENCAO DO IMPERIO - 1080 - DUB[/COLOR]</link>
 
-<thumbnail>https://i.ibb.co/DzxXq35/bourne2-pasta.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/5n7x6tc/300asc-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Há 2 anos Jason Bourne (Matt Damon) achou que tivesse deixado para trás seu passado como assassino frio e calculista criado pela Treadstone. Desde então ele vem mantendo uma existência anônima, abrindo mão da estabilidade de ter um lar e se mudando com Marie (Franka Potente) sempre que surge a ameaça de ser descoberto. Quando um agente aparece na vila onde Jason e Marie vivem, eles não têm outra alternativa senão fugir. Porém um novo jogo internacional de perseguição faz com que Jason tenha que confrontar velhos inimigos.</info>
-<genre>AÇÃO</genre>
+<info>Após a morte do pai, Xerxes dá início a uma jornada de vingança e ruma em direção à Grécia, com seu exército liderado por Artemisia. Enquanto os 300 espartanos liderados por Leonidas tantam combater o Deus-Rei, os exércitos do resto da Grécia se unem para uma batalha com as tropas de Artemisia no mar. Themistocles é o responsável por liderar os gregos.</info>
+<genre>ÉPICOS</genre>  
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMATO  BOURNE - 2007 - DUB[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS 300 DE ESPARTA - 1962 - DUB[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=ZT2ZxjUjSo0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMATO  BOURNE[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab2c5136cd3bb0ac98475e2cfbe3745b231f3649&dn=O+Ultimato+Bourne+%282007%29+720p+Dublado+-+Alan_680&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMATO  BOURNE - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb5ce1fe360b81606f414f399dccec280d7884ed$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMATO  BOURNE - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=gicifdWJ9UU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS 300 DE ESPARTA[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS 300 DE ESPARTA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS 300 DE ESPARTA - 1080 - DUB[/COLOR]</link>
 
-<thumbnail>https://i.ibb.co/TM3bpwP/bourne3-pasta.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/DKh3fHq/os300deesparta-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Jason Bourne (Matt Damon) é um homem que vive sem país e sem passado após ter sido submetido a um treinamento brutal, ao qual não se lembra, por pessoas que não conhece. Ele é uma sofisticada arma humana, perseguida incessantemente pela CIA. Após sua última aparição ele decidiu sumir para sempre e esquecer a vida que lhe foi roubada. Entretanto uma matéria em um jornal de Londres, que especula sobre sua existência, faz com que ele torne-se mais uma vez um alvo. O programa Treadstone, que criou Bourne, já não existe mais, mas serviu de base para o programa Blackbriar, desenvolvido pelo Departamento de Defesa dos Estados Unidos. O Blackbriar desenvolve uma geração de novos matadores treinados secretamente pelo governo, que acredita que Bourne é uma ameaça de US$ 30 milhões que deve ser eliminada de uma vez por todas. Já Bourne vê neles uma oportunidade de descobrir quem realmente é e o que fizeram com ele.</info>
-<genre>AÇÃO</genre>
+<info>Xerxes, o rei persa, colocou seu enorme império de escravos para esmagar um pequeno grupo de estados independentes gregos. O rei contava com a desunião da Grécia para vencer a guerra, mas o famoso guerreiro Leonidas, o rei de Esparta, e o grande orador Themistocles de Atenas viram que a união era a única força capaz de derrotar o exército persa.</info>
+<genre>ÉPICO</genre>  
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGADO  BOURNE - 2012 - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=GCpeTw6iKcA$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGADO  BOURNE[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A43B2917A4215EC5F9E27889DB42A436468E509E&dn=Quadrilogia%20Bourne%202002%20-%202012%20%20WWW.BLUDV.COM&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGADO  BOURNE - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:957b75bb568ae0ed157af5485961b168e9307a77$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGADO  BOURNE - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/3vqGrLR/bourne4-pasta.jpg</thumbnail>
+<title>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FÚRIA DE TITÂS[/B][/COLOR]</title>
+<link>NO LINK</link>
+<thumbnail>https://i.ibb.co/9q6zDcP/furtitas-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Após Jason Bourne revelar publicamente o projeto Treadstone, Eric Byer (Edward Norton) é encarregado de apagar os rastros que possam incriminar o governo dos Estados Unidos neste e em outros projetos sigilosos. Um deles chama-se Outcome, um projeto que pretende suprimir a dor e aumentar a sensibilidade, inteligência e força de seus agentes através de remédios tomados periodicamente. Com o fim do Outcome, seus agente passam a ser eliminados a mando do próprio governo. Aaron Cross (Jeremy Renner) é um deles, mas consegue escapar sem que Byer perceba. Em busca de respostas, ele vai à casa da doutora Martha Shearing (Rachel Weisz) e a salva da morte certa. Juntos, eles precisam encontrar um meio de sobreviver ao mesmo tempo em que Aaron, sem seus remédios habituais, começa a sentir os efeitos colaterais da abstinência forçada.</info>
-<genre>AÇÃO</genre>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILME DE ÉPICOS ESTÃO AQUI</info>
+<genre>ÉPICOS</genre 
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] JASON  BOURNE - 2016 - DUB[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] FÚRIA DE TITÂS - 2010 - DUB[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] JASON  BOURNE[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d8d260b9e80a5e794bc0609adee37b91c7d1807$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] JASON  BOURNE - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba70423de2a9cab4c413ff0f02dad815f9338870$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] JASON  BOURNE - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=GwUBuNP4mgA$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DFB618C20877534D90C32E21F8E23017F1C7E518&dn=f%C3%BAria+de+tit%C3%A3s+2010+720p+bluray+5+1+x264+dual+bludv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D3DA54C18ACDE3294E63231EC8D4B4E02D5ED61&dn=f%C3%BAria+de+tit%C3%A3s+2010+1080p+bluray+5+1+x264+dual+bludv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS - 1080 - DUB[/COLOR]</link>
 
-<thumbnail>https://i.ibb.co/98qbWg9/bourne5-pasta.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/p3NwHm9/furidetitas-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Jason Bourne está novamente sendo caçado pela CIA. Começa quando Nicky Parson, um ex-agente da CIA que ajudou Bourne, e que depois "desapareceu", agora trabalha com um homem que quer expor as operações sujas da CIA. Então Nicky hackeia a CIA e baixa tudo de todas as Black Ops, incluindo Treadstone, da qual Bourne faz parte. O agente da CIA Heather Lee descobre o hack e avisa o diretor Dewey da CIA, o homem por trás das Black Ops. Dewey então ordena que Parsons seja encontrado e espera que Bourne também seja.</info>
-<genre>AÇÃO</genre>
+<info>Perseu descobre que é o filho mortal de Zeus, mas recusa-se a aceitar tal condição. Ele encontra-se entre a batalha dos deuses e sem ajuda para salvar a cidade e sua família da vingança de seu tio Hades, o deus do submundo. Sem nada a perder, Perseu lidera um grupo de guerreiros em uma perigosa missão para prevenir que Hades cause uma devastação na Terra.</info>
+<genre>ÉPICOS</genre>  
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] FÚRIA DE TITÂS 2 - 2012 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=Xs7fzOrUopc$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS 2[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74C03DE26F2676FFE18753FA5A004DC4E01877CE&dn=f%C3%BAria+de+tit%C3%A3s+2+2012+720p+bluray+5+1+x264+dual+bludv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS 2 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EFE57FFA64B29A6638ECA2E495FC30B04362EE80&dn=f%C3%BAria+de+tit%C3%A3s+2+2012+1080p+bluray+5+1+x264+dual+bludv&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS 2 - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/kHPXZWH/furidetitas2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Dez anos depois de derrotar o Kraken, Perseu vive em paz com seu filho Helios. Mas os Deuses perdem o controle sobre os Titãs, que estão presos. Perseu é chamado novamente, agora para resgatar seu pai, Zeus, vencer os Titãs e salvar a humanidade.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] FÚRIA DE TITÂS - 1981 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=ojw1sau9$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS - 1981[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95C582A90E72283F45DF5046309D5BB47CFE3643&dn=F%c3%baria%20de%20Tit%c3%a3s%201981%20%5bBluRay%5d%20%28720p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS - 1981 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C11D6497E6C7DD288775EF06EDE7424DD724A1F0&dn=F%c3%baria%20de%20Tit%c3%a3s%201981%20%5bBluRay%5d%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS - 1981 - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/DzjpGcZ/furidetitas1981-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Perseus, filho do deus grego Zeus, cresce em uma ilha deserta. Seu destino é se casar com a Princesa Andrômeda, que irá algum dia governar a cidade de Joppa. Porém enquanto o sátiro Calibos, o qual usa um gigante abutre para sequestrar a alma de Andrômeda todas as noites, está vivo, ninguém pode se casar com ela. Perseus viaja para Joppa, onde ele deve desafiar Calibos e outros monstros mitológicos para salvar Andrômeda.</info>
+<genre>ÉPICOS</genre>   
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 
 
