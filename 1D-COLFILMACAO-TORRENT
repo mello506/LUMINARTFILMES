@@ -274,8 +274,88 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] RAMBO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/0FJSqJr/rambo-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO NOMEDOARQUIVO </info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] RAMBO - II - A MISSÃO[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] RESOLUÇÃO 720 [/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE AÇÃO EM TORRENT 720 ESTÃO AQUI</info>
+<genre>AÇÃO</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] RAMBO - 1 - PROGRAMADO PARA MATAR[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=stWutFvRWo0</link>
+
+<thumbnail>https://i.ibb.co/PcXjn5Z/rambo1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>John Rambo é um veterano de guerra atormentado pelas lembranças do Vietnã. Numa viagem à procura de um colega do exército, passa por uma cidadezinha cujo xerife o toma por vagabundo, e acaba detido. Lá, a agressividade dos policiais traz à tona todos os seus traumas, mas também toda sua habilidade de guerra. Rambo foge, então, para uma floresta vizinha, e dá início a uma caçada explosiva, em que será preciso toda uma força policial para combater um só homem.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] RAMBO - 1 - PROGRAMADO PARA MATAR - DATA - DUB[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:496e6a2ad5980c30559f46907b16ac38b08bea2c&dn=Rambo+-+Programado+para+Matar+%281982%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+
+<thumbnail>https://i.ibb.co/PcXjn5Z/rambo1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>John Rambo é um veterano de guerra atormentado pelas lembranças do Vietnã. Numa viagem à procura de um colega do exército, passa por uma cidadezinha cujo xerife o toma por vagabundo, e acaba detido. Lá, a agressividade dos policiais traz à tona todos os seus traumas, mas também toda sua habilidade de guerra. Rambo foge, então, para uma floresta vizinha, e dá início a uma caçada explosiva, em que será preciso toda uma força policial para combater um só homem.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] RESOLUÇÃO 1080 [/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILME DE AÇÃO EM TORRENT 1080 ESTÃO AQUI</info>
+<genre>AÇÃO</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] RAMBO - 1 - PROGRAMADO PARA MATAR[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=stWutFvRWo0</link>
+
+<thumbnail>https://i.ibb.co/PcXjn5Z/rambo1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>John Rambo é um veterano de guerra atormentado pelas lembranças do Vietnã. Numa viagem à procura de um colega do exército, passa por uma cidadezinha cujo xerife o toma por vagabundo, e acaba detido. Lá, a agressividade dos policiais traz à tona todos os seus traumas, mas também toda sua habilidade de guerra. Rambo foge, então, para uma floresta vizinha, e dá início a uma caçada explosiva, em que será preciso toda uma força policial para combater um só homem.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] RAMBO - 1 - PROGRAMADO PARA MATAR - DATA - DUB[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0834036e0a84ca60874f6cd6e8cfb8fc2d9231d0&dn=First+Blood+1982+BluRay+BD25+AVC+DTS-HD+MA+5.1&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+
+<thumbnail>https://i.ibb.co/PcXjn5Z/rambo1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>John Rambo é um veterano de guerra atormentado pelas lembranças do Vietnã. Numa viagem à procura de um colega do exército, passa por uma cidadezinha cujo xerife o toma por vagabundo, e acaba detido. Lá, a agressividade dos policiais traz à tona todos os seus traumas, mas também toda sua habilidade de guerra. Rambo foge, então, para uma floresta vizinha, e dá início a uma caçada explosiva, em que será preciso toda uma força policial para combater um só homem.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] RAMBO II - A MISSÃO[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/JKg20D6/rambo2-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -284,3 +364,83 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] RESOLUÇÃO 720 [/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE GENERO EM TORRENT 720 ESTÃO AQUI</info>
+<genre>AÇÃO</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] RAMBO II - A MISSÃO[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=_8qnq2lP9V0</link>
+
+<thumbnail>https://i.ibb.co/JKg20D6/rambo2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>John Rambo está cumprindo pena em uma penitenciária federal quando recebe uma proposta: se participar de uma missão suicida (que consiste em localizar prisioneiros americanos) no sudeste asiático será perdoado e reintegrado ao exército. Ele concorda mas não imaginava que seria traído pelos compatriotas, que não querem de fato nenhuma prova de prisioneiros, pois isto acarretaria gastos de 2 bilhões de dólares para libertá-los. Com isso, Rambo acaba sendo abandonado pelos americanos em território inimigo.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] RAMBO II - A MISSÃO - DATA - DUB[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3da5cb8b56643b559bbf6863b183dcb6944e7b11&dn=Rambo+II%3A+A+Miss%26atilde%3Bo+BRRIP+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+
+<thumbnail>https://i.ibb.co/JKg20D6/rambo2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>John Rambo está cumprindo pena em uma penitenciária federal quando recebe uma proposta: se participar de uma missão suicida (que consiste em localizar prisioneiros americanos) no sudeste asiático será perdoado e reintegrado ao exército. Ele concorda mas não imaginava que seria traído pelos compatriotas, que não querem de fato nenhuma prova de prisioneiros, pois isto acarretaria gastos de 2 bilhões de dólares para libertá-los. Com isso, Rambo acaba sendo abandonado pelos americanos em território inimigo.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] RAMBO II - A MISSÃO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/JKg20D6/rambo2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>John Rambo está cumprindo pena em uma penitenciária federal quando recebe uma proposta: se participar de uma missão suicida (que consiste em localizar prisioneiros americanos) no sudeste asiático será perdoado e reintegrado ao exército. Ele concorda mas não imaginava que seria traído pelos compatriotas, que não querem de fato nenhuma prova de prisioneiros, pois isto acarretaria gastos de 2 bilhões de dólares para libertá-los. Com isso, Rambo acaba sendo abandonado pelos americanos em território inimigo.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] RESOLUÇÃO 1080 [/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILME DE AÇÃO EM TORRENT 1080 ESTÃO AQUI</info>
+<genre>AÇÃO</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] RAMBO II - A MISSÃO[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=_8qnq2lP9V0</link>
+
+<thumbnail>https://i.ibb.co/JKg20D6/rambo2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>John Rambo está cumprindo pena em uma penitenciária federal quando recebe uma proposta: se participar de uma missão suicida (que consiste em localizar prisioneiros americanos) no sudeste asiático será perdoado e reintegrado ao exército. Ele concorda mas não imaginava que seria traído pelos compatriotas, que não querem de fato nenhuma prova de prisioneiros, pois isto acarretaria gastos de 2 bilhões de dólares para libertá-los. Com isso, Rambo acaba sendo abandonado pelos americanos em território inimigo.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] RAMBO II - A MISSÃO - DATA - DUB[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8777e3764b099ad82711601e87f8ed334be7433a&dn=First+Blood+Part+II+1985+BluRay+BD25+AVC+DTS-HD+MA+5.1&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+
+<thumbnail>https://i.ibb.co/JKg20D6/rambo2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>John Rambo está cumprindo pena em uma penitenciária federal quando recebe uma proposta: se participar de uma missão suicida (que consiste em localizar prisioneiros americanos) no sudeste asiático será perdoado e reintegrado ao exército. Ele concorda mas não imaginava que seria traído pelos compatriotas, que não querem de fato nenhuma prova de prisioneiros, pois isto acarretaria gastos de 2 bilhões de dólares para libertá-los. Com isso, Rambo acaba sendo abandonado pelos americanos em território inimigo.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
