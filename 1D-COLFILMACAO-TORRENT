@@ -20,93 +20,93 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SICARIO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/D9bhVq7/sicarior-pasta.jpg</thumbnail>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]PROTETOR[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/hKnvDvg/protetori-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>COLEÇÃO SICARIO</info>
+<info>COLEÇÃO PROTETOR </info>
 <genre>AÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] SICÁRIO - TERRA DE NINGUÉM[/B][/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O PROTETOR[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/F42S37x/sicario1-icon.jpg</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ESCOLHA A RESOLUÇÃO</info>
-<genre>AÇÃO</genre>
+<genre>AÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - TERRA DE NINGUÉM[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=rJJh6p9pH18</link>
-<thumbnail>https://i.ibb.co/F42S37x/sicario1-icon.jpg</thumbnail>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=SLhhP7iknf8</link>
+<thumbnail><thumbnail>https://i.ibb.co/hgBFc0Y/protetor-icon.jpg</thumbnail></thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ASSISTA AO TRAILER</info>
-<genre>GENERO</genre>  
+<genre>AÇÃO</genre>  
 </item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - TERRA DE NINGUÉM - 2015 - DUB[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20297CFF21522776D01C72986000BCD760323B72&dn=Sicario%20-%20Terra%20de%20Ninguem%202016%20BLUDV&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&ws=</link>
-<thumbnail>https://i.ibb.co/F42S37x/sicario1-icon.jpg</thumbnail>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR - 2014 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5eeaf36ec1e8b5724dae3ecdd3cd11f6a07ff0d&dn=O%20Protetor%20%282014%29%20Bluray%20720p%20-%205.1%20Dual%20Audio%20Dublado%20%20Torrent%20Download%20-%20ComandoFilmesO Protetor %E2%80%93 Dublado BluRay 720p / 1080p</link>
+<thumbnail>https://i.ibb.co/hgBFc0Y/protetor-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Na crescente fronteira sem lei entre os Estados Unidos e o México, uma agente do FBI (Emily Blunt) é exposta ao mundo brutal do tráfico internacional de drogas por membros de uma força-tarefa do governo (Josh Brolin e Benicio Del Toro) que a escalam em seu plano para derrotar o chefe de um cartel mexicano.</info>
+<info>Baseado na série de televisão "The Equalizer" dos anos 1980, o filme apresenta Robert McCall (Denzel Washington), um homem misterioso que costumava trabalhar como oficial da polícia. Motivado pelas injustiças sociais, ele ajuda vítimas e qualquer pessoa em perigo. A protegida da vez é Teri (Chloë Grace Moretz), jovem explorada sexualmente por mafiosos russos.</info>
 <genre>AÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - TERRA DE NINGUÉM - 2015 - DUB[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CB3FDD73D318C0ECF00CB29C4114CD64C60947C9&dn=Sicario%20-%20Terra%20de%20Ninguem%202016%20%5b1080p%5d%20BLUDV&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&ws=</link>
-<thumbnail>https://i.ibb.co/F42S37x/sicario1-icon.jpg</thumbnail>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR - 2014 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:869006c9266f7152d8325dcde6649b7d914e98f4&dn=O%20Protetor%20%282014%29%20Bluray%201080p%205.1%20Dual%20Audio%20Dublado%20%20Torrent%20Download%20-%20Comando%20FilmesO Protetor %E2%80%93 Dublado BluRay 720p / 1080p</link>
+<thumbnail>https://i.ibb.co/hgBFc0Y/protetor-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Na crescente fronteira sem lei entre os Estados Unidos e o México, uma agente do FBI (Emily Blunt) é exposta ao mundo brutal do tráfico internacional de drogas por membros de uma força-tarefa do governo (Josh Brolin e Benicio Del Toro) que a escalam em seu plano para derrotar o chefe de um cartel mexicano.</info>
+<info>Baseado na série de televisão "The Equalizer" dos anos 1980, o filme apresenta Robert McCall (Denzel Washington), um homem misterioso que costumava trabalhar como oficial da polícia. Motivado pelas injustiças sociais, ele ajuda vítimas e qualquer pessoa em perigo. A protegida da vez é Teri (Chloë Grace Moretz), jovem explorada sexualmente por mafiosos russos.</info>
 <genre>AÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] SICÁRIO - DIA DO SOLDADO[/B][/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O PROTETOR II[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/ygtGtkj/sicario2-icon.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/16VrhWS/protetor2-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ESCOLHA A RESOLUÇÃO</info>
-<genre>AÇÃO</genre>
+<genre>AÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - DIA DO SOLDADO[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=0_VrIu-dCJk</link>
-<thumbnail>https://i.ibb.co/ygtGtkj/sicario2-icon.jpg</thumbnail>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR II[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=mCKrSwONuyk</link>
+<thumbnail>https://i.ibb.co/16VrhWS/protetor2-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ASSISTA AO TRAILER</info>
-<genre>GENERO</genre>  
+<genre>AÇÃO</genre>  
 </item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO DIA DO SOLDADO - 2018 - DUB[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54c4756a298ba89daa6f013077efe91dc9b9f49a&dn=Sicario.Day.Of.The.Soldado.2018.720p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710</link>
-<thumbnail>https://i.ibb.co/ygtGtkj/sicario2-icon.jpg</thumbnail>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR II - 2018 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa8c3ac71481aa420bd94164c572dbd11e3e15c1</link>
+<thumbnail>https://i.ibb.co/16VrhWS/protetor2-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>O oficial da CIA Matt Graver (Josh Brolin) volta a contactar seu sicário de confiança, Alejandro Gillick (Benicio Del Toro), desta vez para sequestrar a filha caçula (Isabella Moner) de um barão das drogas mexicano. Os famosos cartéis agora são considerados células terroristas e o objetivo da missão, orientada secretamente pelo alto escalão do governo, é fazer eclodir uma guerra entre os grupos rivais.</info>
+<info>Massachusetts, Estados Unidos. Robert McCall (Denzel Washington) agora trabalha como motorista, ajudando pessoas que enfrentam dificuldades decorrentes de injustiças. Quando sua amiga Susan Plummer (Melissa Leo) é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave (Pedro Pascal), no intuito de encontrar pistas sobre o autor do crime.</info>
 <genre>AÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - DIA DO SOLDADO - 2018 - DUB[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8d63b9ce5141748563e53ecfe6383ecd737ee1e&dn=Sicario.Day.Of.The.Soldado.2018.1080p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710</link>
-<thumbnail>https://i.ibb.co/ygtGtkj/sicario2-icon.jpg</thumbnail>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PROTETOR II - 2018 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be86c45562d8db979f7dad3cfdf3ec5136cc9fdd</link>
+<thumbnail>https://i.ibb.co/16VrhWS/protetor2-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>O oficial da CIA Matt Graver (Josh Brolin) volta a contactar seu sicário de confiança, Alejandro Gillick (Benicio Del Toro), desta vez para sequestrar a filha caçula (Isabella Moner) de um barão das drogas mexicano. Os famosos cartéis agora são considerados células terroristas e o objetivo da missão, orientada secretamente pelo alto escalão do governo, é fazer eclodir uma guerra entre os grupos rivais.</info>
+<info>Massachusetts, Estados Unidos. Robert McCall (Denzel Washington) agora trabalha como motorista, ajudando pessoas que enfrentam dificuldades decorrentes de injustiças. Quando sua amiga Susan Plummer (Melissa Leo) é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave (Pedro Pascal), no intuito de encontrar pistas sobre o autor do crime.</info>
 <genre>AÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -325,6 +325,98 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/DGXRg66/rambo5-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>O tempo passou para Rambo, agora ele vive recluso e trabalha em um rancho que fica na fronteira entre os Estados Unidos e o México. Sua vida antiga marcada por lutas violentas, mas quase sempre vitoriosas, ficou no passado. No entanto, quando a filha de um amigo é sequestrada, Rambo não consegue controlar seu ímpeto por justiça e resolve enfrentar um dos mais perigosos cartéis do México</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SICARIO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/D9bhVq7/sicarior-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO SICARIO</info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] SICÁRIO - TERRA DE NINGUÉM[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/F42S37x/sicario1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA A RESOLUÇÃO</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - TERRA DE NINGUÉM[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=rJJh6p9pH18</link>
+<thumbnail>https://i.ibb.co/F42S37x/sicario1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GENERO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - TERRA DE NINGUÉM - 2015 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20297CFF21522776D01C72986000BCD760323B72&dn=Sicario%20-%20Terra%20de%20Ninguem%202016%20BLUDV&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&ws=</link>
+<thumbnail>https://i.ibb.co/F42S37x/sicario1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Na crescente fronteira sem lei entre os Estados Unidos e o México, uma agente do FBI (Emily Blunt) é exposta ao mundo brutal do tráfico internacional de drogas por membros de uma força-tarefa do governo (Josh Brolin e Benicio Del Toro) que a escalam em seu plano para derrotar o chefe de um cartel mexicano.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - TERRA DE NINGUÉM - 2015 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CB3FDD73D318C0ECF00CB29C4114CD64C60947C9&dn=Sicario%20-%20Terra%20de%20Ninguem%202016%20%5b1080p%5d%20BLUDV&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&ws=</link>
+<thumbnail>https://i.ibb.co/F42S37x/sicario1-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Na crescente fronteira sem lei entre os Estados Unidos e o México, uma agente do FBI (Emily Blunt) é exposta ao mundo brutal do tráfico internacional de drogas por membros de uma força-tarefa do governo (Josh Brolin e Benicio Del Toro) que a escalam em seu plano para derrotar o chefe de um cartel mexicano.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] SICÁRIO - DIA DO SOLDADO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/ygtGtkj/sicario2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA A RESOLUÇÃO</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - DIA DO SOLDADO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0_VrIu-dCJk</link>
+<thumbnail>https://i.ibb.co/ygtGtkj/sicario2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>GENERO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO DIA DO SOLDADO - 2018 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54c4756a298ba89daa6f013077efe91dc9b9f49a&dn=Sicario.Day.Of.The.Soldado.2018.720p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710</link>
+<thumbnail>https://i.ibb.co/ygtGtkj/sicario2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O oficial da CIA Matt Graver (Josh Brolin) volta a contactar seu sicário de confiança, Alejandro Gillick (Benicio Del Toro), desta vez para sequestrar a filha caçula (Isabella Moner) de um barão das drogas mexicano. Os famosos cartéis agora são considerados células terroristas e o objetivo da missão, orientada secretamente pelo alto escalão do governo, é fazer eclodir uma guerra entre os grupos rivais.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SICÁRIO - DIA DO SOLDADO - 2018 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8d63b9ce5141748563e53ecfe6383ecd737ee1e&dn=Sicario.Day.Of.The.Soldado.2018.1080p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710</link>
+<thumbnail>https://i.ibb.co/ygtGtkj/sicario2-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O oficial da CIA Matt Graver (Josh Brolin) volta a contactar seu sicário de confiança, Alejandro Gillick (Benicio Del Toro), desta vez para sequestrar a filha caçula (Isabella Moner) de um barão das drogas mexicano. Os famosos cartéis agora são considerados células terroristas e o objetivo da missão, orientada secretamente pelo alto escalão do governo, é fazer eclodir uma guerra entre os grupos rivais.</info>
 <genre>AÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
