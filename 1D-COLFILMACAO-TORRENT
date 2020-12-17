@@ -631,3 +631,217 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] BOURNE[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/3MMD1gT/bourner-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO BOURNE </info>
+<genre>AÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A IDENTIDADE BOURNE[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/R2cDXpG/bourne1-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA A RESOLUÇÃO</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A IDENTIDADE BOURNE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kJOsS1wOQSc</link>
+<thumbnail>https://i.ibb.co/R2cDXpG/bourne1-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>AÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A IDENTIDADE BOURNE - DATA - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ef8636d845ad45a4f8bb3605bb99fd2c86619ee</link>
+<thumbnail>https://i.ibb.co/R2cDXpG/bourne1-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Após ficar à beira da morte, por ter sido baleado, um desconhecido Matt Damon acorda sem memória em uma costa do Mar Mediterrâneo. Ele consegue se recuperar, com a ajuda de um médico aposentado, mas tem como única pista de sua identidade um chip que estava implantado em seu quadril, onde estava gravado o número da conta de um banco de Zurique, na Suíça. No cofre deste banco suíço ele descobre que se chama Jason Bourne e que mora em Paris, mas também acha alguns passaportes falsos com sua fotografia, mas cada um com um nome diferente, uma arma e uma grande quantia em dinheiro. No entanto logo é perseguido, sem entender por qual razão, e demonstra possuir diversas habilidades em autodefesa e luta, além de saber vários idiomas. Ele oferece US$ 20 mil para Marie Helena Kreutz Franka Potente, que está dificuldades financeiras, para levá-lo até Paris. Após relutar ela concorda, pois precisa do dinheiro. Mas eles não poderiam imaginar o que o futuro lhes reservava.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A IDENTIDADE BOURNE - DATA - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:499818984fcb5effe673fd446a869d5ff027f2b3</link>
+<thumbnail>https://i.ibb.co/R2cDXpG/bourne1-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Após ficar à beira da morte, por ter sido baleado, um desconhecido Matt Damon acorda sem memória em uma costa do Mar Mediterrâneo. Ele consegue se recuperar, com a ajuda de um médico aposentado, mas tem como única pista de sua identidade um chip que estava implantado em seu quadril, onde estava gravado o número da conta de um banco de Zurique, na Suíça. No cofre deste banco suíço ele descobre que se chama Jason Bourne e que mora em Paris, mas também acha alguns passaportes falsos com sua fotografia, mas cada um com um nome diferente, uma arma e uma grande quantia em dinheiro. No entanto logo é perseguido, sem entender por qual razão, e demonstra possuir diversas habilidades em autodefesa e luta, além de saber vários idiomas. Ele oferece US$ 20 mil para Marie Helena Kreutz Franka Potente, que está dificuldades financeiras, para levá-lo até Paris. Após relutar ela concorda, pois precisa do dinheiro. Mas eles não poderiam imaginar o que o futuro lhes reservava.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A SUPREMACIA BOURNE[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/DzxXq35/bourne2-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA A RESOLUÇÃO</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SUPREMACIA BOURNE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Y-HqyyfBbSo</link>
+<thumbnail>https://i.ibb.co/DzxXq35/bourne2-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>AÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SUPREMACIA BOURNE - 2004 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:461f2147ab29fe4ffd153662957ee59e40ccfa38</link>
+<thumbnail>https://i.ibb.co/DzxXq35/bourne2-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> Há 2 anos Jason Bourne Matt Damon achou que tivesse deixado para trás seu passado como assassino frio e calculista criado pela Treadstone. Desde então ele vem mantendo uma existência anônima, abrindo mão da estabilidade de ter um lar e se mudando com Marie Franka Potente sempre que surge a ameaça de ser descoberto. Quando um agente aparece na vila onde Jason e Marie vivem, eles não têm outra alternativa senão fugir. Porém um novo jogo internacional de perseguição faz com que Jason tenha que confrontar velhos inimigos.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SUPREMACIA BOURNE - 2004 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:461f2147ab29fe4ffd153662957ee59e40ccfa38</link>
+<thumbnail>https://i.ibb.co/DzxXq35/bourne2-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> Há 2 anos Jason Bourne Matt Damon achou que tivesse deixado para trás seu passado como assassino frio e calculista criado pela Treadstone. Desde então ele vem mantendo uma existência anônima, abrindo mão da estabilidade de ter um lar e se mudando com Marie Franka Potente sempre que surge a ameaça de ser descoberto. Quando um agente aparece na vila onde Jason e Marie vivem, eles não têm outra alternativa senão fugir. Porém um novo jogo internacional de perseguição faz com que Jason tenha que confrontar velhos inimigos.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O ULTIMATO BOURNE[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/TM3bpwP/bourne3-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA A RESOLUÇÃO</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMATO BOURNE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKDOTRAILER</link>
+<thumbnail>https://i.ibb.co/TM3bpwP/bourne3-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>AÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMATO BOURNE - 2007 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab2c5136cd3bb0ac98475e2cfbe3745b231f3649</link>
+<thumbnail>https://i.ibb.co/TM3bpwP/bourne3-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Jason Bourne Matt Damon é um homem que vive sem país e sem passado após ter sido submetido a um treinamento brutal, ao qual não se lembra, por pessoas que não conhece. Ele é uma sofisticada arma humana, perseguida incessantemente pela CIA. Após sua última aparição ele decidiu sumir para sempre e esquecer a vida que lhe foi roubada. Entretanto uma matéria em um jornal de Londres, que especula sobre sua existência, faz com que ele torne-se mais uma vez um alvo. O programa Treadstone, que criou Bourne, já não existe mais, mas serviu de base para o programa Blackbriar, desenvolvido pelo Departamento de Defesa dos Estados Unidos. O Blackbriar desenvolve uma geração de novos matadores treinados secretamente pelo governo, que acredita que Bourne é uma ameaça de US$ 30 milhões que deve ser eliminada de uma vez por todas. Já Bourne vê neles uma oportunidade de descobrir quem realmente é e o que fizeram com ele.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMATO BOURNE - 2007 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb5ce1fe360b81606f414f399dccec280d7884ed</link>
+<thumbnail>https://i.ibb.co/TM3bpwP/bourne3-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Jason Bourne Matt Damon é um homem que vive sem país e sem passado após ter sido submetido a um treinamento brutal, ao qual não se lembra, por pessoas que não conhece. Ele é uma sofisticada arma humana, perseguida incessantemente pela CIA. Após sua última aparição ele decidiu sumir para sempre e esquecer a vida que lhe foi roubada. Entretanto uma matéria em um jornal de Londres, que especula sobre sua existência, faz com que ele torne-se mais uma vez um alvo. O programa Treadstone, que criou Bourne, já não existe mais, mas serviu de base para o programa Blackbriar, desenvolvido pelo Departamento de Defesa dos Estados Unidos. O Blackbriar desenvolve uma geração de novos matadores treinados secretamente pelo governo, que acredita que Bourne é uma ameaça de US$ 30 milhões que deve ser eliminada de uma vez por todas. Já Bourne vê neles uma oportunidade de descobrir quem realmente é e o que fizeram com ele.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O LEGADO BOURNE[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/3vqGrLR/bourne4-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA A RESOLUÇÃO</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGADO BOURNE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=GCpeTw6iKcA</link>
+<thumbnail>https://i.ibb.co/3vqGrLR/bourne4-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>AÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGADO BOURNE - 2012 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:508f92ca25324d999e3e7a5a20ca528626c93e1b&dn=O.Legado.Bourne.2012.720p.BluRay.x264-VTM_SL+%27%28Dublado%29%27&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</link>
+<thumbnail>https://i.ibb.co/3vqGrLR/bourne4-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Após Jason Bourne revelar publicamente o projeto Treadstone, Eric Byer Edward Norton é encarregado de apagar os rastros que possam incriminar o governo dos Estados Unidos neste e em outros projetos sigilosos. Um deles chama-se Outcome, um projeto que pretende suprimir a dor e aumentar a sensibilidade, inteligência e força de seus agentes através de remédios tomados periodicamente. Com o fim do Outcome, seus agente passam a ser eliminados a mando do próprio governo. Aaron Cross Jeremy Renner é um deles, mas consegue escapar sem que Byer perceba. Em busca de respostas, ele vai à casa da doutora Martha Shearing Rachel Weisz e a salva da morte certa. Juntos, eles precisam encontrar um meio de sobreviver ao mesmo tempo em que Aaron, sem seus remédios habituais, começa a sentir os efeitos colaterais da abstinência forçada.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O LEGADO BOURNE - 2012 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a43b2917a4215ec5f9e27889db42a436468e509e</link>
+<thumbnail>https://i.ibb.co/3vqGrLR/bourne4-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Após Jason Bourne revelar publicamente o projeto Treadstone, Eric Byer Edward Norton é encarregado de apagar os rastros que possam incriminar o governo dos Estados Unidos neste e em outros projetos sigilosos. Um deles chama-se Outcome, um projeto que pretende suprimir a dor e aumentar a sensibilidade, inteligência e força de seus agentes através de remédios tomados periodicamente. Com o fim do Outcome, seus agente passam a ser eliminados a mando do próprio governo. Aaron Cross Jeremy Renner é um deles, mas consegue escapar sem que Byer perceba. Em busca de respostas, ele vai à casa da doutora Martha Shearing Rachel Weisz e a salva da morte certa. Juntos, eles precisam encontrar um meio de sobreviver ao mesmo tempo em que Aaron, sem seus remédios habituais, começa a sentir os efeitos colaterais da abstinência forçada.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] JASON BOURNE[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/98qbWg9/bourne5-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA A RESOLUÇÃO</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] JASON BOURNE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=F4gJsKZvqE4</link>
+<thumbnail>https://i.ibb.co/98qbWg9/bourne5-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ASSISTA AO TRAILER</info>
+<genre>AÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] JASON BOURNE - 2016 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d8d260b9e80a5e794bc0609adee37b91c7d1807</link>
+<thumbnail>https://i.ibb.co/98qbWg9/bourne5-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O mais perigoso ex-agente da CIA “Sai da Toca” para descobrir verdades mais explosivas sobre seu passado.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] JASON BOURNE - 2016 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba70423de2a9cab4c413ff0f02dad815f9338870</link>
+<thumbnail>https://i.ibb.co/98qbWg9/bourne5-pasta.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O mais perigoso ex-agente da CIA “Sai da Toca” para descobrir verdades mais explosivas sobre seu passado.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
