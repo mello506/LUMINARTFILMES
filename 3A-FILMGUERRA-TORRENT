@@ -10,13 +10,12 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 <channels></channels>
 <channel>
 <name>[COLOR blue][B] FILMES DE GUERRA[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://i.ibb.co/XWpNRSZ/sub-cat-guerra.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES DE GUERRA ESTÃO AQUI</info>
 <genre>GUERRA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <channels></channels>
 <channel>
@@ -27,48 +26,44 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre>
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] NOMEDOFILME[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FLYBOYS[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/N1ysv46/flyboys-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>ASSISTA AQUI O FILME NOMEDOFILME EM TORRENT</info>
-<genre>GENERO</genre>  
+<info>ASSISTA AQUI O FILME FLYBOYS EM TORRENT</info>
+<genre>I GUERRA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOMEDOFILME[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER</link>
-
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FLYBOYS[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qhKnuKFEKcA</link>
+<thumbnail>https://i.ibb.co/N1ysv46/flyboys-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ASSISTA AO TRAILER</info>
-<genre>GENERO</genre>  
+<genre>I GUERRA</genre>  
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOMEDOFILME - DATA - DUB[/B][/COLOR]</title>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR red][B] FLYBOYS - 2006 - DUB[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.elementum/play?uri=LINKTORRENT</link>
 
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/N1ysv46/flyboys-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
+<info>Antes dos Estados Unidos participarem da Primeira Guerra Mundial, jovens americanos foram os primeiros pilotos de combate americanos e formaram o esquadrão conhecido como "Lafayette Escadrille"</info>
+<genre>1ª GUERRA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOMEDOFILME - DATA - DUB[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.elementum/play?uri=LINKTORRENT</link>
-
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FLYBOYS - 2006 - DUB[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3972F71683FCF9AADCA49FCD43333C39AE553F18&dn=Flyboys%20%282006%29%201080p%20Dublado%20-%20Alan_680&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>https://i.ibb.co/N1ysv46/flyboys-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
+<info>Antes dos Estados Unidos participarem da Primeira Guerra Mundial, jovens americanos foram os primeiros pilotos de combate americanos e formaram o esquadrão conhecido como "Lafayette Escadrille"</info>
+<genre>1ª GUERRA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
