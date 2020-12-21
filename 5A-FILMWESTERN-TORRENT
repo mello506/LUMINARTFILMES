@@ -159,6 +159,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] PRÓXIMA PAGINA[/B][/COLOR]</name>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/HFVVkdq/Proxima.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>CLIQUE AQUI PARA MAIS CONTEÚDO </info>
+<genre>ACESSO FÁCIL</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITÁRIO - 2013 - DUB[/COLOR]</title>
 
@@ -166,7 +177,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:212a395b3c5c8c72e41c6e4d824db21ab5379d50&dn=O+Cavaleiro+Solit%26aacute%3Brio+%282013%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITARIO - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:232eb075a0c23ef527f53c026e3240f38ab8679f&dn=O+Cavaleiro+Solit%26aacute%3Brio+%282013%29+BluRay+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITARIO - DUB[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://i.ibb.co/LQqyFLX/zorro1icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Colby, Texas, 1869. John Reid (Armie Hammer) é um advogado que acaba de retornar à sua cidade-natal, onde vive seu irmão Dan (James Badge Dale), a cunhada Rebecca (Ruth Wilson) e o sobrinho Danny (Bryant Prince). John está disposto a cumprir a justiça ao pé da letra, levando os criminosos ao tribunal, apesar da resistência local. Ao acompanhar o irmão e outros Texas Rangers em uma patrulha pelo deserto, o grupo é atacado pelos capangas de Butch Cavendish (William Fichtner), um bandido que tem a fama de comer carne humana. Todos são assassinados, com exceção de John, que fica à beira da morte. O índio Tonto (Johnny Depp) o encontra e, ao perceber que um cavalo branco escolhe John, passa a ajudá-lo. Tonto acredita que John foi escolhido por um mensageiro espiritual e que, como voltou da morte, não pode mais ser morto. A partir de então John passa a usar uma máscara e, ao lado de Tonto, faz de tudo para reencontrar Cavendish.</info>
 <genre>WESTERN</genre>  
@@ -223,7 +234,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FB2A9224E10B364FA91A133DC1AA6C90EF3DEA4&dn=O%20Regresso%20720p%20%282016%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REGRESSO - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80803d9fb6d1b6e9ff421b954262aecbc1c978b8&dn=O+Regresso+2016+%5B1080p%5D+WWW.BLUDV.COM$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REGRESSO - DUB[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://i.ibb.co/9YvSjgd/revenanticon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>1822. Hugh Glass (Leonardo DiCaprio) parte para o oeste americano disposto a ganhar dinheiro caçando. Atacado por um urso, fica seriamente ferido e é abandonado à própria sorte pelo parceiro John Fitzgerald (Tom Hardy), que ainda rouba seus pertences. Entretanto, mesmo com toda adversidade, Glass consegue sobreviver e inicia uma árdua jornada em busca de vingança.</info>
 <genre>WESTERN</genre>  
