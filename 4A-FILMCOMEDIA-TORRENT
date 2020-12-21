@@ -1,53 +1,262 @@
-<channels></channels>
-<channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<item>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<link>NOLINK</link>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
+</item>
 
-<channels></channels>
-<channel>
-<name>[COLOR blue][B] COMÉDIA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/4pyT65J/comedia-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE COMÉDIA DO SERVER1</info>
-<genre>COMÉDIA</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR red][B] FILMES DE COMÉDIA[/B][/COLOR]</name>
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE FAROESTE[/B][/COLOR]</title>
+<link>NOLINK</link>
 <thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE FILMES DE COMÉDIA EM TORRENT ESTÃO AQUI</info>
-<genre>COMÉDIA</genre> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>OS MELHORES FILMES DE FAROESTE EM TORRENT ESTÃO AQUI</info>
+<genre>FAROESTE</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-CONTEUDO
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] DJANGO LIVRE - 2013 - DUB[/COLOR]</title>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.youtube/play/?video_id=tivv135aGbc$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] DJANGO LIVRE[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F54825B33ADA10CF043A6CA0B7DA3E7E73040F8&dn=Django%20Livre%20720p%20%282012%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] DJANGO LIVRE - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB70910B497D0B4E7A36C04538D0C622F9E00FB0&dn=Django%20Livre%201080p%20%282012%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] DJANGO LIVRE - DUB[/COLOR]</link>
 
-<channels></channels>
-<channel>
-<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red][B] FILMES DE COMÉDIA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
+<thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE FILMES DE COMÉDIA DO REDE CANAIS ESTÃO AQUI</info>
-<genre>COMÉDIA</genre> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>No sul dos Estados Unidos, o ex-escravo Django faz uma aliança inesperada com o caçador de recompensas Schultz para caçar os criminosos mais procurados do país e resgatar sua esposa de um fazendeiro que força seus escravos a participar de competições mortais.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels></channels>
-<channel>
-<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red][B] FILMES DE COMÉDIA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] ERA UMA VEZ NO OESTE - 1968 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=pAdbGKuYV8s$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ERA UMA VEZ NO OESTE[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c19541c58d6d26063efcb40b6f4a8abcae3bc104$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] ERA UMA VEZ NO OESTE - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbbcacb01961df74cd140aa8402865a5a6970a6b$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] ERA UMA VEZ NO OESTE - DUB[/COLOR]</link>
+
+<thumbnail>https://image.tmdb.org/t/p/w342/sBcaRQEZInpiQNSKKW5wjcEtXUS.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE FILMES DE COMÉDIA DO SERVER 1 ESTÃO AQUI</info>
-<genre>COMÉDIA</genre> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>SINOPSE</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] BRAVURA INDÕMITA - 2010 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=AfCWTEPEh6Q$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] BRAVURA INDOMITA[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e432b45a5f19115d9303835d23ee2e4947f2445a$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] BRAVURA INDOMITA - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e432b45a5f19115d9303835d23ee2e4947f2445a$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] BRAVURA INDOMITA - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O pai de Mattie Ross (Hailee Steinfeld), de apenas 14 anos, foi assassinado a sangue frio por Tom Shaney (Josh Brolin). Em busca de vingança, ela resolve contratar um xerife beberrão, Reuben J. Cogburn (Jeff Bridges), para ir atrás dele. Inicialmente ele recusa a oferta, mas como precisa de dinheiro acaba aceitando. Mattie exige ir junto com Reuben, o que não lhe agrada. Para capturar Shaney eles precisam entrar em território indígena e encontrá-lo antes de La Boeuf (Matt Damon), um policial do Texas que está à sua procura devido ao assassinato de outro homem.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS ÚLTIMOS MACHÕES - 1976 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=xdhqqY7pO8w$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS ULTIMOS MACHOES[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:yfn7qyfxwtyfifvm3qts7qelzk4tffsy$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS ULTIMOS MACHOES - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:yfn7qyfxwtyfifvm3qts7qelzk4tffsy$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS ULTIMOS MACHOES - DUB[/COLOR]</link>
+
+<thumbnail>https://image.tmdb.org/t/p/w342/syIUf5t38uETFXjVRJJMNkZDlsw.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>No início do século XX, alguns presos realizam uma fuga e criam uma gangue que cruza o deserto. Um desses homens é Zach Provo (Coburn), um meio índio que foi capturado por Sam Burgade (Heston) e enviado para a prisão durante a última parte do século XIX. Provo planeja sua vingança.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] POR UM PUNHADO DE DÓLARES - 1966 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=-X2DtiE7VLw$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] POR UM PUNHADO DE DOLARES[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dq6xaw4g4vk5muntlj7ukdnrcqtov2on$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] POR UM PUNHADO DE DOLARES - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dq6xaw4g4vk5muntlj7ukdnrcqtov2on1080$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] POR UM PUNHADO DE DOLARES - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um pistoleiro sem nome (Clint Eastwood) chega à San Miguel, uma cidade no México que faz fronteira com os Estados Unidos. O lugar está em guerra, dividido entre duas facções poderosas, os Baxters e os Rojos, e ambas querem o apoio do pistoleiro. Para ganhar dinheiro, ele aceita as duas propostas e passa a trabalhar para as gangues rivais.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] POR UNS DÓLARES A MAIS - 1965 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=oT_rJmHoiKA$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] POR UNS DOLARES A MAIS[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:uwzuumiov3bthtsvpkua5unn34d66coa$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] POR UNS DOLARES A MAIS - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29a6c825ca652e24a8cb24fe30875eb8a30f4efb$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] POR UNS DOLARES A MAIS - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Manco (Clink Eastwood) é um astuto caçador de recompensas, que perambula pelas cidades do velho oeste americano em busca de um novo alvo. Ele o encontra quando vê o cartaz de procurado de Indio (Gian Maria Volonté), um perigoso bandido que também está sendo procurado pelo coronel Douglas Mortimer (Lee Van Cleef), outro caçador de recompensas. Os dois partem no encalço de Indio mas, sem conseguir capturar o bandido nem eliminar o rival, eles precisam decidir entre unir forças ou serem eliminados pela gangue de Indio.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] RASTROS DE ÓDIO - 1956 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=pi-zM9A5S0M$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] RASTROS DE ODIO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e1d3727e579c6bc531f95b9fcf275e6775d69f7$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] RASTROS DE ODIO - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e1d3727e579c6bc531f95b9fcf275e6775d69f7$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] RASTROS DE ODIO - DUB[/COLOR]</link>
+
+<thumbnail>https://image.tmdb.org/t/p/w342/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O veterano da Guerra Civil Ethan Edwards (John Wayne) chega ao Texas em 1868 e encontra o seu irmão e a família dele. Entretanto, no dia seguinte, comanches invadem o rancho e matam o seu irmão e Martha (Dorothy Jordan), a esposa dele. Além disso, raptam as duas filhas do casal. Ethan parte então em uma busca vingativa pelas meninas junto com o companheiro Martin (Jeffrey Hunter), um mestiço que logo percebe que Ethan está obcecado por matar os índios e cheio de ódio racista. Eles encontram o corpo da mais velha, e saem em busca da caçula, que procuram por mais 5 anos no deserto.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SEM LEI E SEM ALMA - 1957 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=L5FSo_NVF1o$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SEM LEI E SEM ALMA[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W75QWT3GGEWGTPSHBS2O2ADHV47AECC4&dn=Sem+Lei+e+Sem+Alma+%281957%29+BRrip+Blu-Ray+720p+Dublado+-+DAT&tr=udp://tracker.openbittorrent.com:80/announce$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SEM LEI E SEM ALMA - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR red] SEM LEI E SEM ALMA - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Wyatt Earp (Burt Lancaster), lendário homem da lei, aposenta-se e vai visitar a família em Tombstone, no Arizona. Lá ele se une a Doc Holliday (Kirk Douglas) - pistoleiro gravemente doente e viciado em jogo que também acaba de chegar na cidade - para combater o temido bando de Ike Clanton (Lyle Bettger).</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] TOMBSTONE A JUSTIÇA ESTA CHEGANDO - 1993 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=IPS7xnVh4qk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] TOMBSTONE A JUSTICA ESTA CHEGANDO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ubvty62adol2yhoauqg37xtnvioltmll$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] TOMBSTONE A JUSTICA ESTA CHEGANDO - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86c404d20243c549daca92aa4a71f8cc7611f063$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] TOMBSTONE A JUSTICA ESTA CHEGANDO - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Após acabar com o crime em Dodge City, Wyatt Earp (Kurt Russell) se muda para a cidade de Tombstone, onde pretende enriquecer anonimamente. Lá ele encontra seus irmãos e também Doc Holliday (Val Kilmer), seu velho amigo. Eles levam a vida sem problemas, até o aparecimento de um grupo de bandoleiros que começa a causar confusão pelas redondezas. Para resolver a situação os integrantes da família Earp e Doc Holliday decidem combatê-los.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] TRÊS HOMENS EM CONFLITO - 1966 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=dW-5NigvQGI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] TRES HOMENS EM CONFLITO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50e038b216ab13cfc7e6c8f0c90165c5c40d4ce0$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] TRES HOMENS EM CONFLITO - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7c48a37d154cc3c1df1f1eb0c71d118d16dd01b$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] TRES HOMENS EM CONFLITO - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Em meio à Guerra Civil Americana, três homens fazem de tudo para colocar as mãos em 200 mil dólares roubados</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITÁRIO - 2013 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=6XJLKw96fr0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITARIO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:212a395b3c5c8c72e41c6e4d824db21ab5379d50&dn=O+Cavaleiro+Solit%26aacute%3Brio+%282013%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITARIO - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:232eb075a0c23ef527f53c026e3240f38ab8679f&dn=O+Cavaleiro+Solit%26aacute%3Brio+%282013%29+BluRay+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITARIO - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Colby, Texas, 1869. John Reid (Armie Hammer) é um advogado que acaba de retornar à sua cidade-natal, onde vive seu irmão Dan (James Badge Dale), a cunhada Rebecca (Ruth Wilson) e o sobrinho Danny (Bryant Prince). John está disposto a cumprir a justiça ao pé da letra, levando os criminosos ao tribunal, apesar da resistência local. Ao acompanhar o irmão e outros Texas Rangers em uma patrulha pelo deserto, o grupo é atacado pelos capangas de Butch Cavendish (William Fichtner), um bandido que tem a fama de comer carne humana. Todos são assassinados, com exceção de John, que fica à beira da morte. O índio Tonto (Johnny Depp) o encontra e, ao perceber que um cavalo branco escolhe John, passa a ajudá-lo. Tonto acredita que John foi escolhido por um mensageiro espiritual e que, como voltou da morte, não pode mais ser morto. A partir de então John passa a usar uma máscara e, ao lado de Tonto, faz de tudo para reencontrar Cavendish.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] DESAPARECIDAS - 2003 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=535RNQ0REx8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] DESAPARECIDAS[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR red] DESAPARECIDAS - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5F2BE68EE9DA02DD42578B078722E801D3EF210&dn=Desaparecidas%202003%20%5bTorrentDosFilmesHD.net%5d&tr=udp%3a//tracker.openbittorrent.com%3a80/announce$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] DESAPARECIDAS - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Em pleno século XIX Samuel Jones (Tommy Lee Jones) decide voltar para casa, após muitos anos ausente, numa tentativa de fazer as pazes com sua filha Maggie (Cate Blanchett). Maggie não vê o pai desde quando era criança, mas precisa de sua ajuda quando sua filha mais velha é sequestrada por Chidin (Eric Schweig), um psicopata que possui poderes místicos. Chidin já sequestrou outras crianças, sendo o responsável por uma grande quantidade de mortos no Novo México. Juntos, Samuel e Maggie precisam encontrá-la antes que Chidin atravesse a fronteira com o México. </info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SALVAÇÃO - 2015 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SALVACAO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D6AAA6D4F980BF69829891111B4057DC4C4DF12&dn=A%20Salva%c3%a7%c3%a3o%20%282015%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SALVACAO - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26BBB2D371EA0B02A47A41852A5CDD6AA32C7AA5&dn=A%20Salva%c3%a7%c3%a3o%20%282015%29%205.1%20CH%20Dublado%201080p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SALVACAO - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Na América de 1870, um pacífico colono americano mata o culpado por assassinar sua família, o que desperta a fúria do líder de uma famosa gangue local. Os covardes moradores da cidade traem sua confiança e delatam sua localização e plano para o bandido. Sozinho, ele é forçado a caçar a gangue com as próprias mãos.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] DIABLO - 2015 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=xL9F-Irm5tQ&feature=youtu.be$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] DIABLO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD66D471B5AEC08427D57E81A2012C66C9FB0FE5&dn=Diablo%202016%20720p%20Bluray%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] DIABLO - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE037DDA748826C4980A7AEF91CA2722F38F3EDF&dn=Diablo%202016%201080p%20Bluray%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] DIABLO - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Nos anos que seguiram à Guerra Civil americana, o país ficou em pedaços até começar a reconstruir sua sociedade e a nação como um todo, aos poucos. Em meio à essa situação, um homem, jovem veterano da Guerra Civil, precisará embarcar em uma jornada repleta de desespero com o objetivo de resgatar sua mulher, que foi raptada.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REGRESSO - 2016 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=S4PpYv9n0ko$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REGRESSO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FB2A9224E10B364FA91A133DC1AA6C90EF3DEA4&dn=O%20Regresso%20720p%20%282016%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REGRESSO - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80803d9fb6d1b6e9ff421b954262aecbc1c978b8&dn=O+Regresso+2016+%5B1080p%5D+WWW.BLUDV.COM$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REGRESSO - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>1822. Hugh Glass (Leonardo DiCaprio) parte para o oeste americano disposto a ganhar dinheiro caçando. Atacado por um urso, fica seriamente ferido e é abandonado à própria sorte pelo parceiro John Fitzgerald (Tom Hardy), que ainda rouba seus pertences. Entretanto, mesmo com toda adversidade, Glass consegue sobreviver e inicia uma árdua jornada em busca de vingança.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SETE HOMENS E UM DESTINO - 1960 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=bG-ZxrG7htU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SETE HOMENS E UM DESTINO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d7bbebc1b87703b6f0021cb431f5c1be9da8169$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SETE HOMENS E UM DESTINO - 1960 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d0b9f10294bfcff4f57307013a91d0ad6d1cb67&dn=%5bACESSE...HD-ELITE.ME%5d%20Sete.Homens.e.Um.Destino.1960(Classica.e.Redublagem).1080p.BluRay.by.britodiass&tr=udp%3a%2f%2f9.rarbg.me%3a2790%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SETE HOMENS E UM DESTINO - 1960 - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/BrhpbpN/thesevenicon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Em um vilarejo mexicano, os habitantes sofrem constantes ataques de um bando de pistoleiros liderados pelo temido Calvera. Cansados de serem saqueados, alguns moradores locais que não têm armas e muito menos temperamento violento viajam até a fronteira, onde encontram Chris e Vin, dois pistoleiros desempregados que estão dispostos, não pelo dinheiro mas pela aventura, a reunir mais cinco outros foras-da-lei, que concordam por motivos diversos, a defendê-los de Calvera. A vitória parecia assegurada, mas Calvera não desiste facilmente e volta ao povoado, obrigando Chris e seus companheiros a lutarem até a morte para salvar os habitantes da pequena cidade.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] AMALDIÇOADA - 2017 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=N0BFGTwKc6A$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] AMALDICOADA[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA77F3F02DB16A426F95DED87C719FDF63BEC6EE&dn=Amaldi%c3%a7oada%202017%20%5bBluRay%5d%20%28720p%29$$lsname=[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] AMALDICOADA - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0371E9CD4C5002822F3D4F180DDE80BAC235514&dn=Amaldi%c3%a7oada%202017%20%5bBluRay%5d%20%281080p%29$$lsname=[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] AMALDICOADA - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Liz (Dakota Fanning) é uma corajosa mulher que tenta fugir de seu passado, mas passa a ser perseguida por um fanático diabólico (Guy Pearce). Diante dessa adversidade, Liz é uma verdadeira sobrevivente, que vai lutar para criar uma vida melhor para ela e sua filha. Custe o que custar, Liz fará de tudo para trazer retribuição.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
