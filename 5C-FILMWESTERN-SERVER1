@@ -1,3 +1,37 @@
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<link>NOLINK</link>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE WESTERN[/B][/COLOR]</name>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES FILMES DE WESTERN NO SERVER 1 ESTÃO AQUI</info>
+<genre>WESTERN</genre> 
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] PRIMEIRA PÁGINA[/B][/COLOR]</name>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/HFVVkdq/Proxima.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>CLIQUE AQUI PARA MAIS CONTEÚDO </info>
+<genre>ACESSO FÁCIL</genre> 
+
 <item>
 <title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
 <link>NOLINK</link>
@@ -13,10 +47,11 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE WESTERN EM SERVER 1 ESTÃO AQUI</info>
+<info>OS MELHORES FILMES DE WESTERN NO SERVER 1 ESTÃO AQUI</info>
 <genre>WESTERN</genre> 
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] DJANGO LIVRE - 2013 - DUB[/COLOR]</title>
@@ -147,6 +182,37 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>WESTERN</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SEGUNDA PÁGINA[/B][/COLOR]</name>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/HFVVkdq/Proxima.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>CLIQUE AQUI PARA MAIS CONTEÚDO </info>
+<genre>ACESSO FÁCIL</genre> 
+
+<item>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</item>
+
+<item>
+<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE WESTERN[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES FILMES DE WESTERN NO SERVER 1 ESTÃO AQUI</info>
+<genre>WESTERN</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITÁRIO - 2013 - DUB[/COLOR]</title>
@@ -154,7 +220,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=6XJLKw96fr0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITARIO[/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/39263.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITARIO - DUB[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://i.ibb.co/LQqyFLX/zorro1icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Colby, Texas, 1869. John Reid (Armie Hammer) é um advogado que acaba de retornar à sua cidade-natal, onde vive seu irmão Dan (James Badge Dale), a cunhada Rebecca (Ruth Wilson) e o sobrinho Danny (Bryant Prince). John está disposto a cumprir a justiça ao pé da letra, levando os criminosos ao tribunal, apesar da resistência local. Ao acompanhar o irmão e outros Texas Rangers em uma patrulha pelo deserto, o grupo é atacado pelos capangas de Butch Cavendish (William Fichtner), um bandido que tem a fama de comer carne humana. Todos são assassinados, com exceção de John, que fica à beira da morte. O índio Tonto (Johnny Depp) o encontra e, ao perceber que um cavalo branco escolhe John, passa a ajudá-lo. Tonto acredita que John foi escolhido por um mensageiro espiritual e que, como voltou da morte, não pode mais ser morto. A partir de então John passa a usar uma máscara e, ao lado de Tonto, faz de tudo para reencontrar Cavendish.</info>
 <genre>WESTERN</genre>  
@@ -206,7 +272,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=S4PpYv9n0ko$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REGRESSO[/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/39267.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REGRESSO - DUB[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://i.ibb.co/9YvSjgd/revenanticon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>1822. Hugh Glass (Leonardo DiCaprio) parte para o oeste americano disposto a ganhar dinheiro caçando. Atacado por um urso, fica seriamente ferido e é abandonado à própria sorte pelo parceiro John Fitzgerald (Tom Hardy), que ainda rouba seus pertences. Entretanto, mesmo com toda adversidade, Glass consegue sobreviver e inicia uma árdua jornada em busca de vingança.</info>
 <genre>WESTERN</genre>  
