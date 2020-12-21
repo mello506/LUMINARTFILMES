@@ -12,16 +12,17 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels>
 <channel>
-<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE FAROESTE[/B][/COLOR]</name>
+<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE WESTERN[/B][/COLOR]</name>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE FAROESTE EM TORRENT ESTÃO AQUI</info>
-<genre>FAROESTE</genre> 
+<info>OS MELHORES FILMES DE WESTERN EM TORRENT ESTÃO AQUI</info>
+<genre>WESTERN</genre> 
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels></channels>
 <channel>
 <name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] PRIMEIRA PÁGINA[/B][/COLOR]</name>
@@ -44,9 +45,9 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE WESTERN[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
+<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE WESTERN EM REDE CANAIS ESTÃO AQUI</info>
+<info>OS MELHORES FILMES DE WESTERN EM TORRENT ESTÃO AQUI</info>
 <genre>WESTERN</genre> 
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -192,6 +193,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] PRÓXIMA PAGINA[/B][/COLOR]</name>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/HFVVkdq/Proxima.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>CLIQUE AQUI PARA MAIS CONTEÚDO </info>
+<genre>ACESSO FÁCIL</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITÁRIO - 2013 - DUB[/COLOR]</title>
 
@@ -203,36 +215,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Colby, Texas, 1869. John Reid (Armie Hammer) é um advogado que acaba de retornar à sua cidade-natal, onde vive seu irmão Dan (James Badge Dale), a cunhada Rebecca (Ruth Wilson) e o sobrinho Danny (Bryant Prince). John está disposto a cumprir a justiça ao pé da letra, levando os criminosos ao tribunal, apesar da resistência local. Ao acompanhar o irmão e outros Texas Rangers em uma patrulha pelo deserto, o grupo é atacado pelos capangas de Butch Cavendish (William Fichtner), um bandido que tem a fama de comer carne humana. Todos são assassinados, com exceção de John, que fica à beira da morte. O índio Tonto (Johnny Depp) o encontra e, ao perceber que um cavalo branco escolhe John, passa a ajudá-lo. Tonto acredita que John foi escolhido por um mensageiro espiritual e que, como voltou da morte, não pode mais ser morto. A partir de então John passa a usar uma máscara e, ao lado de Tonto, faz de tudo para reencontrar Cavendish.</info>
 <genre>WESTERN</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SEGUNDA PÁGINA[/B][/COLOR]</name>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/HFVVkdq/Proxima.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>CLIQUE AQUI PARA MAIS CONTEÚDO </info>
-<genre>ACESSO FÁCIL</genre> 
-
-<item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
-NO EMAIL - luminartstudio4@gmail.com</info>
-</item>
-
-<item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE WESTERN[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE WESTERN EM REDE CANAIS ESTÃO AQUI</info>
-<genre>WESTERN</genre> 
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
