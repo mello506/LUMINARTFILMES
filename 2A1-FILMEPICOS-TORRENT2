@@ -22,9 +22,60 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
- <channels></channels>
+<channels></channels>
 <channel>
-<name>[B]ACESSE + CONTEÚDO[/B][COLOR yellow] ->[/COLOR][COLOR red][B] PRÓXIMA PÁGINA[/B][/COLOR]</name>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Águia da Legião Perdida[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme A Águia da Legião Perdida</info>
+<genre>ÉPICOS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Águia da Legião Perdida[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme A Águia da Legião Perdida em TORRENT</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Águia da Legião Perdida[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1zh4rMKiPmo</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ÉPICOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Águia da Legião Perdida - 2011 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:172f79e24ef8df4ab1a48e26c7e7f156d3f2b04f&dn=A+%26Aacute%3Bguia+da+Legi%26atilde%3Bo+Perdida+%282011%29+BDRip+720p+dublad&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Ano 120 AC. Vinte anos se passaram sem que ninguém soubesse explicar o desaparecimento da Nona Legião nas montanhas da Escócia. Agora, o jovem centurião Marcus Aquila , apesar de desacreditado por todos, veio de Roma para tentar solucionar o mistério e restaurar a reputação de seu pai, comandante daquele pelotão. Acompanhado do escravo Esca , ele cruza as Muralhas de Hadrian até a parte alta da Caledônia, onde irá enfrentar tribos selvagens para recuperar o emblema da águia de ouro da Nona Legião também desaparecido.</info>
+<genre>ÉPICOS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Águia da Legião Perdida - 2011 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afd1647f9d321eb75c2eebc8a4f14fe29c4fb29c&dn=A+%C3%81guia+da+Legi%C3%A3o+Perdida+2011+%5B1080p%5D+WWW.BLUDV.COM</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Ano 120 AC. Vinte anos se passaram sem que ninguém soubesse explicar o desaparecimento da Nona Legião nas montanhas da Escócia. Agora, o jovem centurião Marcus Aquila , apesar de desacreditado por todos, veio de Roma para tentar solucionar o mistério e restaurar a reputação de seu pai, comandante daquele pelotão. Acompanhado do escravo Esca , ele cruza as Muralhas de Hadrian até a parte alta da Caledônia, onde irá enfrentar tribos selvagens para recuperar o emblema da águia de ouro da Nona Legião também desaparecido.</info>
+<genre>ÉPICOS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channels></channels>
+<channel>
+<name>[B]ACESSE + CONTEÚDO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] PRÓXIMA PÁGINA[/B][/COLOR]</name>
 <externallink>LINKRAWPARAPROXIMAPAGE</externallink>
 <thumbnail>https://i.ibb.co/HFVVkdq/Proxima.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
