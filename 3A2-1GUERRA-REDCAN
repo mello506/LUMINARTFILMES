@@ -74,27 +74,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Gallipoli[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/KwgmJLx/gallipoli-icon.jpg</thumbnail>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Promessas de Guerra[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Filme Gallipoli</info>
+<info>Filme Promessas de Guerra</info>
 <genre>1ª GUERRA</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Gallipoli[/B][/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Promessas de Guerra[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/KwgmJLx/gallipoli-icon.jpg</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o filme Gallipoli em TORRENT</info>
+<info>Assista aqui o filme Promessas de Guerra em TORRENT</info>
 <genre>1ª GUERRA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Gallipoli[/B][/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Promessas de Guerra[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=ngu6HDmFKZ4</link>
-<thumbnail>https://i.ibb.co/KwgmJLx/gallipoli-icon.jpg</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
 <genre>1ª GUERRA</genre>  
@@ -102,13 +102,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Gallipoli - 1981 - Dublado[/B][/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Promessas de Guerra - 1981 - Dublado[/B][/COLOR]</title>
 
 <link>LINKUNIVERSALREDCAN</link>
 
-<thumbnail>https://i.ibb.co/KwgmJLx/gallipoli-icon.jpg</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Unidos pelo idealismo, dois amigos velocistas australianos se alistam no exército em 1915. Enviados para lutar contra os turcos na lendária batalha de Gallipoli, eles se deparam com os horrores da guerra.</info>
+<info>Unidos pelo idealismo, dois amigos velocistas australianos se alistam no exército em 1915. Enviados para lutar contra os turcos na lendária batalha de Promessas de Guerra, eles se deparam com os horrores da guerra.</info>
 <genre>1ª GUERRA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -248,7 +248,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Atrás da Linha: Fuga para Dunkirk[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/zs0bfHv/terrenoproibido-icon.jpg</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui o filme Atrás da Linha: Fuga para Dunkirk em TORRENT</info>
 <genre>1ª GUERRA</genre>  
@@ -258,7 +258,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Atrás da Linha: Fuga para Dunkirk[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=PtfgLVdEeyw</link>
-<thumbnail>https://i.ibb.co/zs0bfHv/terrenoproibido-icon.jpg</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
 <genre>1ª GUERRA</genre>  
@@ -268,7 +268,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Atrás da Linha: Fuga para Dunkirk - 2020 - Dublado[/B][/COLOR]</title>
 <link>https://d37a1qllf6mpmc.cloudfront.net/RCFServer5/ondemand/ATRSDLNHDFGAPRDNKNG.mp4</link>
-<thumbnail>https://i.ibb.co/zs0bfHv/terrenoproibido-icon.jpg</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Atrás da Linha: Fuga para Dunkirk é a incrível história de um trio de soldados na Primeira Guerra Mundial, surpreendidos em uma explosão, que ficam encurralados entre duas trincheiras. Desesperados para chegar à segurança das trincheiras inglesas, os homens precisam atravessar um lamaçal e enfrentar um bombardeio de granadas, gás, rajada de metralhadoras e artilharia pesada, à medida que os alemães rapidamente se aproximam de sua localização. Com autenticidade e impressionantes efeitos, este filme mostra a guerra como jamais vista. Situado em França 1916.</info>
 <genre>1ª GUERRA</genre>  
@@ -288,7 +288,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Última Jornada[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/kHL5wZD/silenciomontanha-icon.jpg</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui o filme A Última Jornada em TORRENT</info>
 <genre>1ª GUERRA</genre>  
@@ -298,7 +298,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Última Jornada[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=tLpyaLNfudY</link>
-<thumbnail>https://i.ibb.co/kHL5wZD/silenciomontanha-icon.jpg</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
 <genre>1ª GUERRA</genre>  
@@ -308,7 +308,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Última Jornada - 2018 - Dublado[/B][/COLOR]</title>
 <link>https://d37a1qllf6mpmc.cloudfront.net/RCFServer4/ondemand/AULTMJRND.mp4</link>
-<thumbnail>https://i.ibb.co/kHL5wZD/silenciomontanha-icon.jpg</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Itália, 1915. Os jovens Andreas (William Moseley) e Francesca (Eugenia Costantini) se conhecem no casamento da irmã dele e logo se apaixonam perdidamente. Na mesma época, a Itália declara guerra a Áustria-Hungria e a Primeira Guerra Mundial eclode. Andreas é chamado a lutar no fronte, nas montanhas Dolomitri, localizadas no norte da Itália, mas deixa com Francesca um sinalizador para que ela acenda caso esteja em perigo. Quando o conflito se agrava, o batalhão do rapaz descobre que o seu vilarejo está sendo atacado, e no momento em que a moça pede ajuda, ele precisa decidir entre lutar pelo seu país ou por sua amada.</info>
 <genre>1ª GUERRA</genre>
@@ -398,4 +398,43 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Promessas de Guerra[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Promessas de Guerra</info>
+<genre>1ª GUERRA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Promessas de Guerra[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Promessas de Guerra em TORRENT</info>
+<genre>1ª GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Promessas de Guerra[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=bWCHqx6pL0Q</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>1ª GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Promessas de Guerra - 2014 - Dublado[/B][/COLOR]</title>
+<link>https://d37a1qllf6mpmc.cloudfront.net/RCFServer1/ondemand/PRMSDGRRLEG.mp4</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Após a batalha de Gallipoli em 1919, um pai (Russell Crowe) descobre que seus três filhos desapareceram do local. Logo, ele abandona sua Austrália natal e viaja até a Turquia, para descobrir o paradeiro dos filhos.</info>
+<genre>1ª GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
