@@ -11,12 +11,13 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels>
 <channel>
-<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DA 2ª GUERRA[/B][/COLOR]</name>
+<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE 2ª GUERRA[/B][/COLOR]</name>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
+<thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DA 2ª GUERRA EM TORRENT ESTÃO AQUI</info>
+<info>OS MELHORES FILMES DE 2ª GUERRA NO REDE CANAIS ESTÃO AQUI</info>
 <genre>2ª GUERRA</genre> 
+</item>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -80,7 +81,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/VWzX3bJ/303esq-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Filme Esquadrão 303</info>
-<genre>GENERO</genre> 
+<genre>2ª GUERRA</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
@@ -89,7 +90,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/VWzX3bJ/303esq-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui o filme Esquadrão 303 em TORRENT</info>
-<genre>GENERO</genre>  
+<genre>2ª GUERRA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -99,7 +100,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/VWzX3bJ/303esq-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
-<genre>GENERO</genre>  
+<genre>2ª GUERRA</genre>  
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -169,6 +170,106 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/cgSVsWv/ateoulthomem-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Desmond T. Doss, foi o médico do Exército Americano da Segunda Guerra Mundial, que serviu durante a Batalha de Okinawa, se recusando a matar pessoas, tornando-se o primeiro homem da história americana a receber a Medalha de Honra sem disparar um tiro.</info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Resgate do Soldado Ryan[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/hyc754q/resgatsoldryan-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme O Resgate do Soldado Ryan </info>
+<genre>2ª GUERRA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Resgate do Soldado Ryan[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/hyc754q/resgatsoldryan-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme O Resgate do Soldado Ryan</info>
+<genre>2ª GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Resgate do Soldado Ryan[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ffN5ty0hZYA</link>
+<thumbnail>https://i.ibb.co/hyc754q/resgatsoldryan-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>2ª GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Resgate do Soldado Ryan - 1998 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a16a3e04ed208645d3ac755c9b3a3945c307041&dn=O+Resgate+do+Soldado+Ryan+%281998%29+Bluray+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80</link>
+<thumbnail>https://i.ibb.co/hyc754q/resgatsoldryan-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Ao desembarcar na Normandia, no dia 6 de junho de 1944, capitão Miller (Tom Hanks) recebe a missão de comandar um grupo do segundo batalhão para o resgate do soldado James Ryan, caçula de quatro irmãos, dentre os quais três morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.</info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Resgate do Soldado Ryan - 1998 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE4CFC1352D2C797B19C7F400B622AF0729502A2&dn=O%20Resgate%20do%20Soldado%20Ryan%201998%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://i.ibb.co/hyc754q/resgatsoldryan-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Ao desembarcar na Normandia, no dia 6 de junho de 1944, capitão Miller (Tom Hanks) recebe a missão de comandar um grupo do segundo batalhão para o resgate do soldado James Ryan, caçula de quatro irmãos, dentre os quais três morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.</info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Esquadrão Red Tails[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/vqMqtGY/redtails-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme  Esquadrão Red Tails</info>
+<genre>2ª GUERRA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B]  Esquadrão Red Tails[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/vqMqtGY/redtails-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme  Esquadrão Red Tails em TORRENT</info>
+<genre>2ª GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Esquadrão Red Tails[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=E4QNoTOz1U8</link>
+<thumbnail>https://i.ibb.co/vqMqtGY/redtails-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>2ª GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Esquadrão Red Tails - 2012 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3733f901205a340f369592c41eff49b1f29282cc</link>
+<thumbnail>https://i.ibb.co/vqMqtGY/redtails-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A força aérea norte-americana sofre muitas baixas devido aos bombardeiros em suas missões contra a Alemanha. O governo começa a considerar a possibilidade de ter pilotos afrodescendentes. Surge, então, a chance destes jovens mostrarem sua coragem.</info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]  Esquadrão Red Tails - 2012 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=2012</link>
+<thumbnail>https://i.ibb.co/vqMqtGY/redtails-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A força aérea norte-americana sofre muitas baixas devido aos bombardeiros em suas missões contra a Alemanha. O governo começa a considerar a possibilidade de ter pilotos afrodescendentes. Surge, então, a chance destes jovens mostrarem sua coragem.</info>
 <genre>GUERRA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
