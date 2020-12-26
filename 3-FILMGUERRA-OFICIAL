@@ -21,7 +21,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES DA I GUERRA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/3A-FILMES-1GUERRA-OFICIAL</externallink>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://i.ibb.co/XWpNRSZ/sub-cat-guerra.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES DA I GUERRA ESTÃO AQUI</info>
 <genre>GUERRA</genre>
@@ -32,7 +32,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES DA II GUERRA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/3B-FILMES-2GUERRA-OFICIAL</externallink>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://i.ibb.co/XWpNRSZ/sub-cat-guerra.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES DA II GUERRA ESTÃO AQUI</info>
 <genre>GUERRA</genre>
@@ -214,7 +214,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES DA GUERRA DO VIETNAN[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://i.ibb.co/XWpNRSZ/sub-cat-guerra.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES DA GUERRA DO VIETNAN ESTÃO AQUI</info>
 <genre>GUERRA</genre>
@@ -285,7 +285,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES DE OUTRAS GUERRAS[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://i.ibb.co/XWpNRSZ/sub-cat-guerra.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES DE OUTRAS GUERRAS ESTÃO AQUI</info>
 <genre>GUERRA</genre>
@@ -365,7 +365,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] LÁGRIMAS DO SOL - <info>A Nigéria está à beira de uma guerra civil. O Tenente Waters vai liderar uma equipe de soldados para a selva para resgatarem a Dra. Lena Kendricks. Mas ela deixará seus pacientes para serem abatidos por rebeldes. A equipe provoca a ira das forças dos Estados Unidos e da Nigéria quando tenta proteger os refugiados.</info>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] LÁGRIMAS DO SOL - 
+<info>A Nigéria está à beira de uma guerra civil. O Tenente Waters vai liderar uma equipe de soldados para a selva para resgatarem a Dra. Lena Kendricks. Mas ela deixará seus pacientes para serem abatidos por rebeldes. A equipe provoca a ira das forças dos Estados Unidos e da Nigéria quando tenta proteger os refugiados.</info>
 <genre>GUERRA</genre> 
 </item> - DUB[/COLOR]</title>
 
@@ -389,7 +390,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES DE OCUPAÇÃO E RESISTÊNCIA[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://i.ibb.co/XWpNRSZ/sub-cat-guerra.png</thumbnail> JTY6YJJ
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES DE OCUPAÇÃO E RESISTÊNCIA ESTÃO AQUI</info>
 <genre>GUERRA</genre>
@@ -547,7 +548,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES DE COMANDOS E ESPIONAGEM[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://i.ibb.co/XWpNRSZ/sub-cat-guerra.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES DE COMANDOS E ESPIONAGEM ESTÃO AQUI</info>
 <genre>GUERRA</genre>
@@ -620,3 +621,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SÉRIES E SEQUÊNCIAS DE FILMES DE GUERRA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/3A-FILMES-1GUERRA-OFICIAL</externallink>
+<thumbnail>https://i.ibb.co/XWpNRSZ/sub-cat-guerra.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AS MELHORES SÉRIES E COLEÇÕES DE FILMES DE GUERRA ESTÃO AQUI</info>
+<genre>GUERRA</genre>
