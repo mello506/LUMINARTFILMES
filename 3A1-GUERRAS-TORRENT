@@ -1377,6 +1377,56 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zona Verde[/B][/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/a/a7/Green_Zone_poster.jpg/200px-Green_Zone_poster.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Zona Verde</info>
+<genre>OUTRAS GUERRAS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Zona Verde[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/a/a7/Green_Zone_poster.jpg/200px-Green_Zone_poster.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Zona Verde em TORRENT</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zona Verde[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=e3KJ21TLKVE</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/a/a7/Green_Zone_poster.jpg/200px-Green_Zone_poster.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zona Verde - 2010 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75dddb91512597f895d07544c5ab993a5f62ad4c</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/a/a7/Green_Zone_poster.jpg/200px-Green_Zone_poster.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Bagdá, 2003. Roy Miller Matt Damon lidera uma equipe, a serviço da inteligência do exército, em busca de armas de destruição em massa no Iraque. Depois de algumas tentativas frustradas, o militar se vê diante de um cenário caótico entre seus compatriotas, o que o deixa dividido entre aplacar o anseio do governo de encontrar algo que justificasse a invasão ou descobrir a verdade dos fatos.</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zona Verde - 2010 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75dddb91512597f895d07544c5ab993a5f62ad4c</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/a/a7/Green_Zone_poster.jpg/200px-Green_Zone_poster.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Bagdá, 2003. Roy Miller Matt Damon lidera uma equipe, a serviço da inteligência do exército, em busca de armas de destruição em massa no Iraque. Depois de algumas tentativas frustradas, o militar se vê diante de um cenário caótico entre seus compatriotas, o que o deixa dividido entre aplacar o anseio do governo de encontrar algo que justificasse a invasão ou descobrir a verdade dos fatos.</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lágrimas do Sol[/B][/COLOR]</name>
 <thumbnail>https://media.fstatic.com/H53FaXNL1JrPLhF7uRaXlhv4yVk=/210x312/smart/media/movies/covers/2012/01/d8b1345f6041088b8c750b91777b2c40.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
