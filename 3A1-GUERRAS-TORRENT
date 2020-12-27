@@ -1429,6 +1429,56 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ato de Coragem[/B][/COLOR]</name>
+<thumbnail>https://media.fstatic.com/KHszLMZpM7-XUt08u30d5s7cogs=/fit-in/290x478/smart/media/movies/covers/2012/06/6c402014d2fa7117f4f8160bce7dc4d4.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Ato de Coragem</info>
+<genre>OUTRAS GUERRAS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Ato de Coragem[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://media.fstatic.com/KHszLMZpM7-XUt08u30d5s7cogs=/fit-in/290x478/smart/media/movies/covers/2012/06/6c402014d2fa7117f4f8160bce7dc4d4.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Ato de Coragem em TORRENT</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ato de Coragem[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=WxM5TiSdxQQ</link>
+<thumbnail>https://media.fstatic.com/KHszLMZpM7-XUt08u30d5s7cogs=/fit-in/290x478/smart/media/movies/covers/2012/06/6c402014d2fa7117f4f8160bce7dc4d4.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ato de Coragem - 2012 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c908031a3d68a30e6c0d8fe7762f9a939c2dc99e</link>
+<thumbnail>https://media.fstatic.com/KHszLMZpM7-XUt08u30d5s7cogs=/fit-in/290x478/smart/media/movies/covers/2012/06/6c402014d2fa7117f4f8160bce7dc4d4.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Os conhecidos Navy SEALs são a divisão de elite da Marinha dos Estados Unidos e também os protagonistas desta produção, que conta a história da tentativa dos militares em resgatar um agente da CIA que foi sequestrado. O elenco conta com as presenças de verdadeiros oficiais da Marinha. A direção é da dupla Mike McCoy e Scott Waugh.</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ato de Coragem - 2012 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c908031a3d68a30e6c0d8fe7762f9a939c2dc99e</link>
+<thumbnail>https://media.fstatic.com/KHszLMZpM7-XUt08u30d5s7cogs=/fit-in/290x478/smart/media/movies/covers/2012/06/6c402014d2fa7117f4f8160bce7dc4d4.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Os conhecidos Navy SEALs são a divisão de elite da Marinha dos Estados Unidos e também os protagonistas desta produção, que conta a história da tentativa dos militares em resgatar um agente da CIA que foi sequestrado. O elenco conta com as presenças de verdadeiros oficiais da Marinha. A direção é da dupla Mike McCoy e Scott Waugh.</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 12 Heróis[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/xiiyh02DvmfoIJYZFHE3CJren50.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
