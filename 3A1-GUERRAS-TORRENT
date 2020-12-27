@@ -1429,6 +1429,56 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 12 Heróis[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/xiiyh02DvmfoIJYZFHE3CJren50.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme 12 Heróis</info>
+<genre>OUTRAS GUERRAS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] 12 Heróis[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/xiiyh02DvmfoIJYZFHE3CJren50.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme 12 Heróis em TORRENT</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 12 Heróis[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0Q9W9vgLa58</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/xiiyh02DvmfoIJYZFHE3CJren50.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 12 Heróis - 2018 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6984e1b126c42b960448829f8b7e2dc6df0e5ac6</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/xiiyh02DvmfoIJYZFHE3CJren50.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Após os atentados de 11 de setembro de 2001, o capitão Mitch Nelson Chris Hemsworth decide abandonar o posto de escritório recém-conquistado para retomar à ação. Ao lado de seu batalhão das Forças Especiais dos Estados Unidos, ele assume a responsabilidade de formar a primeira equipe a operar no Afeganistão após os ataques ao World Trade Center. Baseado em fatos reais.</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 12 Heróis - 2018 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9747e1202e47ba378f91e8bb843e2ef3e3f56096</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/xiiyh02DvmfoIJYZFHE3CJren50.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Após os atentados de 11 de setembro de 2001, o capitão Mitch Nelson Chris Hemsworth decide abandonar o posto de escritório recém-conquistado para retomar à ação. Ao lado de seu batalhão das Forças Especiais dos Estados Unidos, ele assume a responsabilidade de formar a primeira equipe a operar no Afeganistão após os ataques ao World Trade Center. Baseado em fatos reais.</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sniper Americano[/B][/COLOR]</name>
 <thumbnail>https://m.media-amazon.com/images/I/517aKo0pNsL.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
