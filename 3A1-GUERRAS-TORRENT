@@ -1377,6 +1377,56 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sniper Americano[/B][/COLOR]</name>
+<thumbnail>https://m.media-amazon.com/images/I/517aKo0pNsL.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Sniper Americano</info>
+<genre>OUTRAS GUERRAS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Sniper Americano[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://m.media-amazon.com/images/I/517aKo0pNsL.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Sniper Americano em TORRENT</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sniper Americano[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ztUAnmhwCWU</link>
+<thumbnail>https://m.media-amazon.com/images/I/517aKo0pNsL.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sniper Americano - 2014 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b6403f52b2395086159d7632cf4a26a0533c316</link>
+<thumbnail>https://m.media-amazon.com/images/I/517aKo0pNsL.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O filme conta a história real de Chris Kyle Bradley Cooper, atirador de elite das forças especiais da marinha americana. Durante cerca de dez anos ele matou mais de 150 pessoas, tendo recebido diversas condecorações por sua atuação na Guerra do Iraque.</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Sniper Americano - 2014 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:442e4a1778d39f37ec6ebe51a620c9777c6924c1</link>
+<thumbnail>https://m.media-amazon.com/images/I/517aKo0pNsL.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O filme conta a história real de Chris Kyle Bradley Cooper, atirador de elite das forças especiais da marinha americana. Durante cerca de dez anos ele matou mais de 150 pessoas, tendo recebido diversas condecorações por sua atuação na Guerra do Iraque.</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zona Verde[/B][/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/a/a7/Green_Zone_poster.jpg/200px-Green_Zone_poster.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
