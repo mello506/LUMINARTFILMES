@@ -1240,8 +1240,57 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lista de Schindler[/B][/COLOR]</name>
+<thumbnail>https://media.fstatic.com/3tpkZOTIW6YFDVprsX4_pX7h7Xc=/210x312/smart/media/movies/covers/2011/10/7051400748567488a5f0e28b02a0ff5c.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme A Lista de Schindler</info>
+<genre>OCUPAÇÃO E RESISTÊNCIA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Lista de Schindler[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://media.fstatic.com/3tpkZOTIW6YFDVprsX4_pX7h7Xc=/210x312/smart/media/movies/covers/2011/10/7051400748567488a5f0e28b02a0ff5c.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme A Lista de Schindler em TORRENT</info>
+<genre>OCUPAÇÃO E RESISTÊNCIA</genre>  
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- 
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lista de Schindler[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=tSHqEBhQx8M</link>
+<thumbnail>https://media.fstatic.com/3tpkZOTIW6YFDVprsX4_pX7h7Xc=/210x312/smart/media/movies/covers/2011/10/7051400748567488a5f0e28b02a0ff5c.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>OCUPAÇÃO E RESISTÊNCIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lista de Schindler - 1993 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddc0a35cb4b7558231eaac3e3896f95b461160e3</link>
+<thumbnail>https://media.fstatic.com/3tpkZOTIW6YFDVprsX4_pX7h7Xc=/210x312/smart/media/movies/covers/2011/10/7051400748567488a5f0e28b02a0ff5c.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A inusitada história de Oskar Schindler, um sujeito oportunista, sedutor, armador, simpático, comerciante no mercado negro, mas, acima de tudo, um homem que se relacionava muito bem com o regime nazista, tanto que era membro do próprio Partido Nazista o que não o impediu de ser preso algumas vezes, mas sempre o libertavam rapidamente, em razão dos seus contatos. No entanto, apesar dos seus defeitos, ele amava o ser humano e assim fez o impossível, a ponto de perder a sua fortuna, mas conseguir salvar mais de mil judeus dos campos de concentração.</info>
+<genre>OCUPAÇÃO E RESISTÊNCIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lista de Schindler - 1993 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48d57d2075ce88c78c295b83619591e44da25c7c</link>
+<thumbnail>https://media.fstatic.com/3tpkZOTIW6YFDVprsX4_pX7h7Xc=/210x312/smart/media/movies/covers/2011/10/7051400748567488a5f0e28b02a0ff5c.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A inusitada história de Oskar Schindler, um sujeito oportunista, sedutor, armador, simpático, comerciante no mercado negro, mas, acima de tudo, um homem que se relacionava muito bem com o regime nazista, tanto que era membro do próprio Partido Nazista o que não o impediu de ser preso algumas vezes, mas sempre o libertavam rapidamente, em razão dos seus contatos. No entanto, apesar dos seus defeitos, ele amava o ser humano e assim fez o impossível, a ponto de perder a sua fortuna, mas conseguir salvar mais de mil judeus dos campos de concentração.</info>
+<genre>OCUPAÇÃO E RESISTÊNCIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
  <channels>
 <channel>
 <name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE COMANDOS E ESPIONAGEM[/B][/COLOR]</name>
