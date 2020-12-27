@@ -495,6 +495,58 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dunkirk[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/3ldmcbmoQ6A9dUwphrwWxXIYQZM.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Dunkirk</info>
+<genre>2ª GUERRA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Dunkirk[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/3ldmcbmoQ6A9dUwphrwWxXIYQZM.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Dunkirk em TORRENT</info>
+<genre>2ª GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dunkirk[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER</link>
+
+<thumbnail>https://image.tmdb.org/t/p/w342/3ldmcbmoQ6A9dUwphrwWxXIYQZM.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>2ª GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dunkirk - 2017 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79741a52d10e3287dfb2c407bca86c442e6fc24f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/3ldmcbmoQ6A9dUwphrwWxXIYQZM.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Na Operação Dínamo, mais conhecida como a Evacuação de Dunquerque, soldados aliados da Bélgica, do Império Britânico e da França são rodeados pelo exército alemão e devem ser resgatados durante uma feroz batalha no início da Segunda Guerra Mundial. A história acompanha três momentos distintos: uma hora de confronto no céu, onde o piloto Farrier precisa destruir um avião inimigo, um dia inteiro em alto mar, onde o civil britânico Dawson leva seu barco de passeio para ajudar a resgatar o exército de seu país, e uma semana na praia, onde o jovem soldado Tommy busca escapar a qualquer preço.</info>
+<genre>2ª GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dunkirk - 2017 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db9c8636b4a6fb2d97abfa9d95a2636386c4906a</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/3ldmcbmoQ6A9dUwphrwWxXIYQZM.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Na Operação Dínamo, mais conhecida como a Evacuação de Dunquerque, soldados aliados da Bélgica, do Império Britânico e da França são rodeados pelo exército alemão e devem ser resgatados durante uma feroz batalha no início da Segunda Guerra Mundial. A história acompanha três momentos distintos: uma hora de confronto no céu, onde o piloto Farrier precisa destruir um avião inimigo, um dia inteiro em alto mar, onde o civil britânico Dawson leva seu barco de passeio para ajudar a resgatar o exército de seu país, e uma semana na praia, onde o jovem soldado Tommy busca escapar a qualquer preço.</info>
+<genre>2ª GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Pearl Harbor[/B][/COLOR]</name>
 <thumbnail>https://media.fstatic.com/wDghpiKhmosiAhzKCAaiPmAXVbQ=/210x312/smart/media/movies/covers/2012/01/416865f36289cfab0472c00aa0ad32f1_4.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
