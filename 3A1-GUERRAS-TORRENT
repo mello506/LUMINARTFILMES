@@ -1276,8 +1276,57 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lágrimas do Sol[/B][/COLOR]</name>
+<thumbnail>https://media.fstatic.com/H53FaXNL1JrPLhF7uRaXlhv4yVk=/210x312/smart/media/movies/covers/2012/01/d8b1345f6041088b8c750b91777b2c40.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Lágrimas do Sol</info>
+<genre>OUTRAS GUERRAS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Lágrimas do Sol[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://media.fstatic.com/H53FaXNL1JrPLhF7uRaXlhv4yVk=/210x312/smart/media/movies/covers/2012/01/d8b1345f6041088b8c750b91777b2c40.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Lágrimas do Sol em TORRENT</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- 
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lágrimas do Sol[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=e0cgUCHqirs</link>
+<thumbnail>https://media.fstatic.com/H53FaXNL1JrPLhF7uRaXlhv4yVk=/210x312/smart/media/movies/covers/2012/01/d8b1345f6041088b8c750b91777b2c40.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lágrimas do Sol - 2003 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3611dabe28302dd57f0be258268a9081c7588158</link>
+<thumbnail>https://media.fstatic.com/H53FaXNL1JrPLhF7uRaXlhv4yVk=/210x312/smart/media/movies/covers/2012/01/d8b1345f6041088b8c750b91777b2c40.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A.K. Waters Bruce Willis é um dedicado e fiel tenente da Marinha, que recebe como missão ir até as selvas da Nigéria e resgatar a médica missionária Lena Hendricks Monica Bellucci. Ao chegar ao local com sua unidade, Water precisa lidar com a imposição feita pela doutora: ou é levada juntamente a outros 70 refugiados de guerra, que seriam deixados na fronteira com Camarões, ou ficará onde está. Em dúvida entre cumprir sua missão e prestar ajuda humanitária aos refugiados, Waters decide atender ao apelo de Hendricks e levá-los com sua unidade. Porém logo a Marinha descobre que entre os refugiados está um homem procurado pela milícia rebelde nigeriana, o que põe toda a missão em perigo.</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Lágrimas do Sol - 2003 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fcfca0f4a46fd111df9375874d559b5f3acec6d6</link>
+<thumbnail>https://media.fstatic.com/H53FaXNL1JrPLhF7uRaXlhv4yVk=/210x312/smart/media/movies/covers/2012/01/d8b1345f6041088b8c750b91777b2c40.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A.K. Waters Bruce Willis é um dedicado e fiel tenente da Marinha, que recebe como missão ir até as selvas da Nigéria e resgatar a médica missionária Lena Hendricks Monica Bellucci. Ao chegar ao local com sua unidade, Water precisa lidar com a imposição feita pela doutora: ou é levada juntamente a outros 70 refugiados de guerra, que seriam deixados na fronteira com Camarões, ou ficará onde está. Em dúvida entre cumprir sua missão e prestar ajuda humanitária aos refugiados, Waters decide atender ao apelo de Hendricks e levá-los com sua unidade. Porém logo a Marinha descobre que entre os refugiados está um homem procurado pela milícia rebelde nigeriana, o que põe toda a missão em perigo.</info>
+<genre>OUTRAS GUERRAS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
  <channels>
 <channel>
 <name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE OCUPAÇÃO E RESISTÊNCIA[/B][/COLOR]</name>
