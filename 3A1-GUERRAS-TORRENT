@@ -1000,58 +1000,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Além da Linha Vermelha[/B][/COLOR]</name>
-<thumbnail>https://cinema10.com.br/upload/filmes/filmes_3077_Alem%20da%20Linha%20Vermelha.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Filme Além da Linha Vermelha</info>
-<genre>2ª GUERRA</genre> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Além da Linha Vermelha[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://cinema10.com.br/upload/filmes/filmes_3077_Alem%20da%20Linha%20Vermelha.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o filme Além da Linha Vermelha em TORRENT</info>
-<genre>2ª GUERRA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Além da Linha Vermelha[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=mKl5_OxKBn8</link>
-<thumbnail>https://cinema10.com.br/upload/filmes/filmes_3077_Alem%20da%20Linha%20Vermelha.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao trailer</info>
-<genre>2ª GUERRA</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Além da Linha Vermelha - 1998 - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c45c821ab97b3093f52ec25009b1f0137adf17b&dn=Al%26eacute%3Bm+da+Linha+Vermelha+%281998%29+BDRip+720p+dublado+-+FB&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
-<thumbnail>https://cinema10.com.br/upload/filmes/filmes_3077_Alem%20da%20Linha%20Vermelha.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Um drama de guerra profundo que detona a tensão interior das tropas no Pacífico contra a beleza indiferente da natureza. Quando os integrantes do Batalhão Charlie são destacados para a remota ilha de Guadalcanal, lutam para compreender seu lugar no mundo.</info>
-<genre>2ª GUERRA</genre> 
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Além da Linha Vermelha - 1998 - Dublado[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.elementum/play?uri=LINKTORRENT</link>
-
-<thumbnail>https://cinema10.com.br/upload/filmes/filmes_3077_Alem%20da%20Linha%20Vermelha.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Um drama de guerra profundo que detona a tensão interior das tropas no Pacífico contra a beleza indiferente da natureza. Quando os integrantes do Batalhão Charlie são destacados para a remota ilha de Guadalcanal, lutam para compreender seu lugar no mundo.</info>
-<genre>2ª GUERRA</genre> 
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Max Manus - O Homem da Guerra[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/hRGn1F4/maxmanus-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
