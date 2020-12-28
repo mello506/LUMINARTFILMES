@@ -22,55 +22,6 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels></channels>
-<channel>
-<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lenda do Tesouro Perdido[/B][/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w342/6ivilibA23a8LAIcvySBE3MQamZ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Filme A Lenda do Tesouro Perdido</info>
-<genre>AVENTURA</genre> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Lenda do Tesouro Perdido[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/6ivilibA23a8LAIcvySBE3MQamZ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o filme A Lenda do Tesouro Perdido em TORRENT</info>
-<genre>AVENTURA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lenda do Tesouro Perdido[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Sr_7ldR08uE</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/6ivilibA23a8LAIcvySBE3MQamZ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao trailer</info>
-<genre>AVENTURA</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lenda do Tesouro Perdido - 2004 - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6862f840979e016d91855a3dae491f1e9a1a3fe</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/6ivilibA23a8LAIcvySBE3MQamZ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Benjamin Franklin Gates (Nicolas Cage) é um caçador de tesouros, função que já está na 3ª geração em sua família. Durante toda sua vida Benjamin procurou um tesouro que ninguém acredita existir, tendo sido acumulado durante séculos e transportado por vários continentes para evitar que fosse roubado. As investigações de Benjamin sobre a localização deste tesouro fazem com que ele descubra que existe um mapa codificado escondido na Declaração de Independência dos Estados Unidos. Só que para conseguir lê-lo Benjamin terá que enganar o FBI e roubar um dos documentos mais vigiados do país.</info>
-<genre>AVENTURA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lenda do Tesouro Perdido - 2004 - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6862f840979e016d91855a3dae491f1e9a1a3fe</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/6ivilibA23a8LAIcvySBE3MQamZ.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Benjamin Franklin Gates (Nicolas Cage) é um caçador de tesouros, função que já está na 3ª geração em sua família. Durante toda sua vida Benjamin procurou um tesouro que ninguém acredita existir, tendo sido acumulado durante séculos e transportado por vários continentes para evitar que fosse roubado. As investigações de Benjamin sobre a localização deste tesouro fazem com que ele descubra que existe um mapa codificado escondido na Declaração de Independência dos Estados Unidos. Só que para conseguir lê-lo Benjamin terá que enganar o FBI e roubar um dos documentos mais vigiados do país.</info>
-<genre>AVENTURA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
