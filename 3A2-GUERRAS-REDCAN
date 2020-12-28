@@ -456,8 +456,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE OUTRAS GUERRAS[/B][/COLOR]</name>
-<link>NOLINK</link>
+<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE OUTRAS GUERRAS [/B][/COLOR]</name>
+<link>NOLINK</link> 
 <thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES DE OUTRAS GUERRAS NO REDE CANAIS ESTÃO AQUI</info>
