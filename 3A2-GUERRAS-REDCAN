@@ -187,46 +187,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Atrás da Linha: Fuga para Dunkirk[/B][/COLOR]</name>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Filme Atrás da Linha: Fuga para Dunkirk</info>
-<genre>1ª GUERRA</genre> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Atrás da Linha: Fuga para Dunkirk[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o filme Atrás da Linha: Fuga para Dunkirk em TORRENT</info>
-<genre>1ª GUERRA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Atrás da Linha: Fuga para Dunkirk[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=PtfgLVdEeyw</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao trailer</info>
-<genre>1ª GUERRA</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Atrás da Linha: Fuga para Dunkirk - 2020 - Dublado[/B][/COLOR]</title>
-<link>https://drkjaqjbzojf9.cloudfront.net/RCFServer5/ondemand/ATRSDLNHDFGAPRDNKNG.mp4</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Atrás da Linha: Fuga para Dunkirk é a incrível história de um trio de soldados na Primeira Guerra Mundial, surpreendidos em uma explosão, que ficam encurralados entre duas trincheiras. Desesperados para chegar à segurança das trincheiras inglesas, os homens precisam atravessar um lamaçal e enfrentar um bombardeio de granadas, gás, rajada de metralhadoras e artilharia pesada, à medida que os alemães rapidamente se aproximam de sua localização. Com autenticidade e impressionantes efeitos, este filme mostra a guerra como jamais vista. Situado em França 1916.</info>
-<genre>1ª GUERRA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Última Jornada[/B][/COLOR]</name>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -395,10 +355,50 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES DA 2ª GUERRA NO REDE CANAIS ESTÃO AQUI</info>
 <genre>2ª GUERRA</genre> 
-</item>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Atrás da Linha: Fuga para Dunkirk[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Atrás da Linha: Fuga para Dunkirk</info>
+<genre>1ª GUERRA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Atrás da Linha: Fuga para Dunkirk[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Atrás da Linha: Fuga para Dunkirk em TORRENT</info>
+<genre>1ª GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Atrás da Linha: Fuga para Dunkirk[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=PtfgLVdEeyw</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>1ª GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Atrás da Linha: Fuga para Dunkirk - 2020 - Dublado[/B][/COLOR]</title>
+<link>https://drkjaqjbzojf9.cloudfront.net/RCFServer5/ondemand/ATRSDLNHDFGAPRDNKNG.mp4</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Atrás da Linha: Fuga para Dunkirk é a incrível história de um trio de soldados na Primeira Guerra Mundial, surpreendidos em uma explosão, que ficam encurralados entre duas trincheiras. Desesperados para chegar à segurança das trincheiras inglesas, os homens precisam atravessar um lamaçal e enfrentar um bombardeio de granadas, gás, rajada de metralhadoras e artilharia pesada, à medida que os alemães rapidamente se aproximam de sua localização. Com autenticidade e impressionantes efeitos, este filme mostra a guerra como jamais vista. Situado em França 1916.</info>
+<genre>1ª GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels></channels>
 <channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Corações de Ferro[/B][/COLOR]</name>
