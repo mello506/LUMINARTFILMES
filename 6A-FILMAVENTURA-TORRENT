@@ -21,30 +21,30 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- 
+
 <channels></channels>
 <channel>
-<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Patriota [/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/BqqrKND/opatriota-icon.jpg</thumbnail>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lenda do Tesouro Perdido[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/6ivilibA23a8LAIcvySBE3MQamZ.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Filme O Patriota </info>
+<info>Filme A Lenda do Tesouro Perdido</info>
 <genre>AVENTURA</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Patriota [/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Lenda do Tesouro Perdido[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/BqqrKND/opatriota-icon.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w342/6ivilibA23a8LAIcvySBE3MQamZ.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o filme O Patriota  em TORRENT</info>
+<info>Assista aqui o filme A Lenda do Tesouro Perdido em TORRENT</info>
 <genre>AVENTURA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Patriota [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=P5u1am7pmrw</link>
-<thumbnail>https://i.ibb.co/BqqrKND/opatriota-icon.jpg</thumbnail>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lenda do Tesouro Perdido[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Sr_7ldR08uE</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/6ivilibA23a8LAIcvySBE3MQamZ.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
 <genre>AVENTURA</genre>  
@@ -52,71 +52,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Patriota  - 2000 - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c610db36a512dab9f8f087374071984b47525eb&dn=O+Patriota+%282000%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<thumbnail>https://i.ibb.co/BqqrKND/opatriota-icon.jpg</thumbnail>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lenda do Tesouro Perdido - 2004 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6862f840979e016d91855a3dae491f1e9a1a3fe</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/6ivilibA23a8LAIcvySBE3MQamZ.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Benjamin Martin (Mel Gibson) o herói de um violento conflito. Desde o término da guerra ele renunciou a luta, vivendo em paz com sua família. Quando os ingleses levam a guerra da independência americana para dentro de sua casa, Benjamin não vê outra saída a não ser pegar nas armas novamente, desta vez acompanhado por seu filho idealista (Heath Ledger), e liderar uma brava rebelião em uma batalha contra o implacável e equipado exército britânico. Neste processo ele descobre que o único meio de proteger sua família lutando pela liberdade da jovem nação.</info>
+<info>Benjamin Franklin Gates (Nicolas Cage) é um caçador de tesouros, função que já está na 3ª geração em sua família. Durante toda sua vida Benjamin procurou um tesouro que ninguém acredita existir, tendo sido acumulado durante séculos e transportado por vários continentes para evitar que fosse roubado. As investigações de Benjamin sobre a localização deste tesouro fazem com que ele descubra que existe um mapa codificado escondido na Declaração de Independência dos Estados Unidos. Só que para conseguir lê-lo Benjamin terá que enganar o FBI e roubar um dos documentos mais vigiados do país.</info>
 <genre>AVENTURA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Patriota  - 2000 - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B329B16FE8D5740C1B4888F4843B5EB030F662E&dn=O%20Patriota%202000%20Vers%c3%a3o%20Estendida%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-<thumbnail>https://i.ibb.co/BqqrKND/opatriota-icon.jpg</thumbnail>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lenda do Tesouro Perdido - 2004 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6862f840979e016d91855a3dae491f1e9a1a3fe</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/6ivilibA23a8LAIcvySBE3MQamZ.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Benjamin Martin (Mel Gibson) o herói de um violento conflito. Desde o término da guerra ele renunciou a luta, vivendo em paz com sua família. Quando os ingleses levam a guerra da independência americana para dentro de sua casa, Benjamin não vê outra saída a não ser pegar nas armas novamente, desta vez acompanhado por seu filho idealista (Heath Ledger), e liderar uma brava rebelião em uma batalha contra o implacável e equipado exército britânico. Neste processo ele descobre que o único meio de proteger sua família lutando pela liberdade da jovem nação.</info>
-<genre>AVENTURA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zulu[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/f4BTfJw/zulu-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Filme Zulu</info>
-<genre>AVENTURA</genre> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Zulu[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/f4BTfJw/zulu-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o filme Zulu em TORRENT</info>
-<genre>AVENTURA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zulu[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=CbdZMUON3Is</link>
-<thumbnail>https://i.ibb.co/f4BTfJw/zulu-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao trailer</info>
-<genre>AVENTURA</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zulu - 1964 - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db9c1fc44eb1c728e8d5d8b18b4602c6a51adc8</link>
-<thumbnail>https://i.ibb.co/f4BTfJw/zulu-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Em Natal, África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus. Baseado em fatos verídicos.</info>
-<genre>AVENTURA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zulu - 1964 - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f05ca9d4bcabca2dd54d08571170886e35db0645</link>
-<thumbnail>https://i.ibb.co/f4BTfJw/zulu-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Em Natal, África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus. Baseado em fatos verídicos.</info>
+<info>Benjamin Franklin Gates (Nicolas Cage) é um caçador de tesouros, função que já está na 3ª geração em sua família. Durante toda sua vida Benjamin procurou um tesouro que ninguém acredita existir, tendo sido acumulado durante séculos e transportado por vários continentes para evitar que fosse roubado. As investigações de Benjamin sobre a localização deste tesouro fazem com que ele descubra que existe um mapa codificado escondido na Declaração de Independência dos Estados Unidos. Só que para conseguir lê-lo Benjamin terá que enganar o FBI e roubar um dos documentos mais vigiados do país.</info>
 <genre>AVENTURA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
