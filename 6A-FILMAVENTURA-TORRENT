@@ -123,7 +123,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <channels></channels>
 <channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Liga Extraordinária[/B][/COLOR]</name>
@@ -183,6 +182,47 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>AVENTURA</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Ilha da Garganta Cortada[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/pRxzhVB/gargantacortada-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme A Ilha da Garganta Cortada em TORRENT</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ilha da Garganta Cortada[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sxcxBBHVzu0</link>
+<thumbnail>https://i.ibb.co/pRxzhVB/gargantacortada-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>AVENTURA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ilha da Garganta Cortada - 1996 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B7FC6FEC6F4B109967AB0CE1EF3B63B1C361F11</link>
+<thumbnail>https://i.ibb.co/pRxzhVB/gargantacortada-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O mapa de um fabuloso tesouro pirata enterrado foi cortado em três partes por um velho bucaneiro e dividido entre seus três filhos. Vários anos depois, na segunda metade do século XVII, um deste filhos, passa a sua parte no mapa (que estava desenhada no seu couro cabeludo) para a sua filha (Geena Davis), uma sexy aventureira que lutava tão bem quanto qualquer homem e tinha sua cabeça posta a prêmio. Auxiliada por sua tripulação, ela decide então encontrar o tesouro e o navio do seu pai, que agora são dela. Porém, sua parte no mapa está em latim, assim ela decide comprar um prisioneiro (Matthew Modine) que será vendido como escravo, para ajudá-la na tradução. Mas se ela ambiciona conseguir o tesouro outros também têm a mesma idéia e ela passa a se defrontar com diversos inimigos (inclusive o governador), e só pode ter como aliados alguns membros da tripulação e seu escravo. </info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ilha da Garganta Cortada - 1996 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B7FC6FEC6F4B109967AB0CE1EF3B63B1C361F11</link>
+<thumbnail>https://i.ibb.co/pRxzhVB/gargantacortada-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O mapa de um fabuloso tesouro pirata enterrado foi cortado em três partes por um velho bucaneiro e dividido entre seus três filhos. Vários anos depois, na segunda metade do século XVII, um deste filhos, passa a sua parte no mapa (que estava desenhada no seu couro cabeludo) para a sua filha (Geena Davis), uma sexy aventureira que lutava tão bem quanto qualquer homem e tinha sua cabeça posta a prêmio. Auxiliada por sua tripulação, ela decide então encontrar o tesouro e o navio do seu pai, que agora são dela. Porém, sua parte no mapa está em latim, assim ela decide comprar um prisioneiro (Matthew Modine) que será vendido como escravo, para ajudá-la na tradução. Mas se ela ambiciona conseguir o tesouro outros também têm a mesma idéia e ela passa a se defrontar com diversos inimigos (inclusive o governador), e só pode ter como aliados alguns membros da tripulação e seu escravo. </info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels></channels>
 <channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Piratas das Ilhas Selvagens[/B][/COLOR]</name>
@@ -228,47 +268,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://img.travessa.com.br/DVD/BA/36/3632b153-3e93-4c31-8f77-90391a49000d.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SINOPSE</info>
-<genre>AVENTURA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Ilha da Garganta Cortada[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/pRxzhVB/gargantacortada-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o filme A Ilha da Garganta Cortada em TORRENT</info>
-<genre>AVENTURA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ilha da Garganta Cortada[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=sxcxBBHVzu0</link>
-<thumbnail>https://i.ibb.co/pRxzhVB/gargantacortada-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista ao trailer</info>
-<genre>AVENTURA</genre>  
-</item> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ilha da Garganta Cortada - 1996 - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B7FC6FEC6F4B109967AB0CE1EF3B63B1C361F11</link>
-<thumbnail>https://i.ibb.co/pRxzhVB/gargantacortada-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>O mapa de um fabuloso tesouro pirata enterrado foi cortado em três partes por um velho bucaneiro e dividido entre seus três filhos. Vários anos depois, na segunda metade do século XVII, um deste filhos, passa a sua parte no mapa (que estava desenhada no seu couro cabeludo) para a sua filha (Geena Davis), uma sexy aventureira que lutava tão bem quanto qualquer homem e tinha sua cabeça posta a prêmio. Auxiliada por sua tripulação, ela decide então encontrar o tesouro e o navio do seu pai, que agora são dela. Porém, sua parte no mapa está em latim, assim ela decide comprar um prisioneiro (Matthew Modine) que será vendido como escravo, para ajudá-la na tradução. Mas se ela ambiciona conseguir o tesouro outros também têm a mesma idéia e ela passa a se defrontar com diversos inimigos (inclusive o governador), e só pode ter como aliados alguns membros da tripulação e seu escravo. </info>
-<genre>AVENTURA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ilha da Garganta Cortada - 1996 - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B7FC6FEC6F4B109967AB0CE1EF3B63B1C361F11</link>
-<thumbnail>https://i.ibb.co/pRxzhVB/gargantacortada-icon.jpg</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>O mapa de um fabuloso tesouro pirata enterrado foi cortado em três partes por um velho bucaneiro e dividido entre seus três filhos. Vários anos depois, na segunda metade do século XVII, um deste filhos, passa a sua parte no mapa (que estava desenhada no seu couro cabeludo) para a sua filha (Geena Davis), uma sexy aventureira que lutava tão bem quanto qualquer homem e tinha sua cabeça posta a prêmio. Auxiliada por sua tripulação, ela decide então encontrar o tesouro e o navio do seu pai, que agora são dela. Porém, sua parte no mapa está em latim, assim ela decide comprar um prisioneiro (Matthew Modine) que será vendido como escravo, para ajudá-la na tradução. Mas se ela ambiciona conseguir o tesouro outros também têm a mesma idéia e ela passa a se defrontar com diversos inimigos (inclusive o governador), e só pode ter como aliados alguns membros da tripulação e seu escravo. </info>
 <genre>AVENTURA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
