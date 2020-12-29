@@ -25,6 +25,56 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perseguição Mortal[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/RCsxVkV/persegmortal-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Perseguição Mortal</info>
+<genre>AVENTURA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Perseguição Mortal[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/RCsxVkV/persegmortal-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Perseguição Mortal em TORRENT</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perseguição Mortal[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Y4OhjdqeYB0</link>
+<thumbnail>https://i.ibb.co/RCsxVkV/persegmortal-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>AVENTURA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perseguição Mortal - 1981 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3znockfvl7zs4rbfvalk6ihalzwzlgo</link>
+<thumbnail>https://i.ibb.co/RCsxVkV/persegmortal-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Albert Johnson Charles Bronson, da série Desejo de Matar é um homem estranho e solitário, que gosta dos animais e se comporta como um fugitivo da lei. Certo dia ele impede que um cão seja morto durante uma briga, coisa comum nos anos 1930, nas gélidas montanhas do Canadá. Depois de comprar o animal ferido, Johnson desagrada a um bando de homens que, para se livrarem dele, inventam a história de um roubo num posto policial. O chefe da Polícia Montada, Edgar Millen Lee Marvin, de os 12 Condenados, é obrigado a investigar o fato. Instigado pelos homens, o policial acusa Johnson em sua própria cabana. Mas Johnson acaba matando alguns agressores no confronto e foge. A partir daí, uma grande caçada humana é empreendida na neve para prende-lo. Esta história foi baseada num fato real.</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perseguição Mortal - 1981 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3znockfvl7zs4rbfvalk6ihalzwzlgo</link>
+<thumbnail>https://i.ibb.co/RCsxVkV/persegmortal-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Albert Johnson Charles Bronson, da série Desejo de Matar é um homem estranho e solitário, que gosta dos animais e se comporta como um fugitivo da lei. Certo dia ele impede que um cão seja morto durante uma briga, coisa comum nos anos 1930, nas gélidas montanhas do Canadá. Depois de comprar o animal ferido, Johnson desagrada a um bando de homens que, para se livrarem dele, inventam a história de um roubo num posto policial. O chefe da Polícia Montada, Edgar Millen Lee Marvin, de os 12 Condenados, é obrigado a investigar o fato. Instigado pelos homens, o policial acusa Johnson em sua própria cabana. Mas Johnson acaba matando alguns agressores no confronto e foge. A partir daí, uma grande caçada humana é empreendida na neve para prende-lo. Esta história foi baseada num fato real.</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Anjos da Vida: Mais Bravos que o Mar[/B][/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/9/93/Brasil_anjos_da_vida.jpg/255px-Brasil_anjos_da_vida.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
