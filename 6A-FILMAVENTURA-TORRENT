@@ -133,6 +133,56 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>AVENTURA</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Piratas das Ilhas Selvagens[/B][/COLOR]</name>
+<thumbnail>https://img.travessa.com.br/DVD/BA/36/3632b153-3e93-4c31-8f77-90391a49000d.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Piratas das Ilhas Selvagens</info>
+<genre>AVENTURA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Piratas das Ilhas Selvagens[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://img.travessa.com.br/DVD/BA/36/3632b153-3e93-4c31-8f77-90391a49000d.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Piratas das Ilhas Selvagens em TORRENT</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Piratas das Ilhas Selvagens[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uPs-dklj9Hw</link>
+<thumbnail>https://img.travessa.com.br/DVD/BA/36/3632b153-3e93-4c31-8f77-90391a49000d.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>AVENTURA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Piratas das Ilhas Selvagens - 1983 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E85DA9488C774F622CAD679FA676B9BAE9242D50</link>
+<thumbnail>https://img.travessa.com.br/DVD/BA/36/3632b153-3e93-4c31-8f77-90391a49000d.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SINOPSE</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Piratas das Ilhas Selvagens - 1983 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E85DA9488C774F622CAD679FA676B9BAE9242D50</link>
+<thumbnail>https://img.travessa.com.br/DVD/BA/36/3632b153-3e93-4c31-8f77-90391a49000d.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SINOPSE</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Ilha da Garganta Cortada[/B][/COLOR]</title>
 <link>NOLINK</link>
