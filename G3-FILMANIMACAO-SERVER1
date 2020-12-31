@@ -22,46 +22,203 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+
 <channels></channels>
 <channel>
-<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme[/B][/COLOR]</name>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Festa no Céu[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/4dMG2NM/festanoceu-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Filme NomedoFilme</info>
-<genre>GENERO</genre> 
+<info>Filme Festa no Céu</info>
+<genre>ANIMAÇÃO</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] NomedoFilme[/B][/COLOR]</title>
+<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Festa no Céu[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/4dMG2NM/festanoceu-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o filme NomedoFilme em TORRENT</info>
-<genre>GENERO</genre>  
+<info>Assista aqui o filme Festa no Céu no SERVER 1</info>
+<genre>ANIMAÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER</link>
-
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Festa no Céu[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8gTP4-AfjMY$</link>
+<thumbnail>https://i.ibb.co/4dMG2NM/festanoceu-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
-<genre>GENERO</genre>  
+<genre>ANIMAÇÃO</genre>  
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Dublado[/B][/COLOR]</title>
-
-<link>LINKUNIVERSALSERVER1</link>
-
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Festa no Céu - 2014 - Dublado[/B][/COLOR]</title>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/25385.mp4</link>
+<thumbnail>https://i.ibb.co/4dMG2NM/festanoceu-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
+<info>O jovem Manolo tem dúvidas entre cumprir as expectativas impostas por sua família de toureiros ou seguir a vontade de seu coração - que leva à música. Tentando se decidir, ele embarca em uma viagem por três diferentes mundos: o dos Vivos, o dos Esquecidos e o dos Eternizados. Ele encontra figuras marcantes e conta com o apoio do amigo Joaquin e da amada Maria</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vida de Inseto[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/6yDCH1z/vidainseto-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Vida de Inseto</info>
+<genre>ANIMAÇÃO</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Vida de Inseto[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/6yDCH1z/vidainseto-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Vida de Inseto no SERVER 1</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vida de Inseto[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=znXehHytQcM</link>
+<thumbnail>https://i.ibb.co/6yDCH1z/vidainseto-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ANIMAÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Vida de Inseto - 1998 - Dublado[/B][/COLOR]</title>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26044.mp4</link>
+<thumbnail>https://i.ibb.co/6yDCH1z/vidainseto-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Flik é uma formiga cheia de ideias e sempre causa problemas na sua colônia. Seu último acidente foi destruir os alimentos que seriam usados para pagamento ao gafanhoto Hopper. Agora, Hopper está exigindo o dobro, senão a colônia será aniquilada. Para evitar o desastre, Flik tenta recrutar combatentes para defender o local, e quando encontra um bando de insetos voadores, ele acredita que encontrou a sua salvação.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Noiva Cadáver[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ZXTPqpb/anoivacadaver-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme A Noiva Cadáver</info>
+<genre>ANIMAÇÃO</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Noiva Cadáver[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/ZXTPqpb/anoivacadaver-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme A Noiva Cadáver no SERVER 1</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Noiva Cadáver[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ZE5CbXVheJk&list=PL9eQ9KTAJwMosV64ooiqFC-ApTPMt1vmy</link>
+<thumbnail>https://i.ibb.co/ZXTPqpb/anoivacadaver-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ANIMAÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Noiva Cadáver - 2005 - Dublado[/B][/COLOR]</title>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/25224.mp4</link>
+<thumbnail>https://i.ibb.co/ZXTPqpb/anoivacadaver-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>As famílias de Victor e Victoria estão arranjando seu casamento. Nervoso com a cerimônia, Victor vai sozinho à floresta para ensaiar seus votos. No entanto, o que ele pensava ser um tronco de árvore na verdade é o braço esquelético de Emily, uma noiva que foi assassinada depois de fugir com seu amor. Convencida que Victor acabara de lhe pedir a mão em casamento, Emily o leva para o mundo dos mortos, mas ele precisa retornar rapidamente antes que Victoria se case com o malvado Lorde Barkis.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Casa Monstro[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/bNCC9v5/casamonstro-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme A Casa Monstro</info>
+<genre>ANIMAÇÃO</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Casa Monstro[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/bNCC9v5/casamonstro-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme A Casa Monstro no SERVER 1</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Casa Monstro[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=q3h98qqikyA</link>
+<thumbnail>https://i.ibb.co/bNCC9v5/casamonstro-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ANIMAÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Casa Monstro - 2006 - Dublado[/B][/COLOR]</title>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/25195.mp4</link>
+<thumbnail>https://i.ibb.co/bNCC9v5/casamonstro-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Nenhum adulto acredita quando três adolescentes falam que existe uma casa no bairro que é uma criatura perigosa.Com o Dia das Bruxas se aproximando, eles têm que descobrir uma forma de destruir a estrutura da casa antes que ela faça mala crianças inocentes.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zootopia: Essa Cidade e o Bicho[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/y0PgfP5/zootopia-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Zootopia: Essa Cidade e o Bicho</info>
+<genre>ANIMAÇÃO</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Zootopia: Essa Cidade e o Bicho[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/y0PgfP5/zootopia-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Zootopia: Essa Cidade e o Bicho no SERVER 1</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zootopia: Essa Cidade e o Bicho[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=prct6AB5tR8</link>
+<thumbnail>https://i.ibb.co/y0PgfP5/zootopia-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ANIMAÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Zootopia: Essa Cidade e o Bicho - 2016 - Dublado[/B][/COLOR]</title>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/26058.mp4</link>
+<thumbnail>https://i.ibb.co/y0PgfP5/zootopia-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Judy Hopps é a pequena coelha de uma fazenda isolada, filha de agricultores que plantam cenouras há décadas.Mas ela tem sonhos maiores: pretende se mudar para a cidade grande, Zootopia, onde todas as espécies de animais convivem em harmonia, na intenção de se tornar a primeira coelha policial. Judy enfrenta o preconceito e as manipulações dos outros animais, mas conta com a ajuda inesperada da raposa Nick Wilde, conhecida por sua malícia e suas infrações. A inesperada dupla se dedica à busca de um animal desaparecido, descobrindo uma conspiração que afeta toda a cidade.</info>
+<genre>ANIMAÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
