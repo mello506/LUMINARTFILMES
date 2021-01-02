@@ -30,7 +30,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
+<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red][B] FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/I2-FILMCRIMEDRAMA-REDCAN</externallink>
 <thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -41,7 +41,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red][B] FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTFILMES/main/I3-FILMCRIMEDRAMA-SERVER1</externallink>
 <thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -62,7 +62,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] COLEÇÕES DE FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
+<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR red][B] COLEÇÕES DE FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTCOLFILMES/main/I1-COLFILMSCRIMEEDRAMA-TORRENT</externallink>
 <thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -72,7 +72,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] COLEÇÕES DE FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
+<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red][B] COLEÇÕES DE FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTCOLFILMES/main/I2-COLFILMSCRIMEEDRAMA-REDCAN</externallink>
 <thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -82,7 +82,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] COLEÇÕES DE FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red][B] COLEÇÕES DE FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINARTCOLFILMES/main/I3-COLFILMSCRIMEEDRAMA-SERVER1</externallink>
 <thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
