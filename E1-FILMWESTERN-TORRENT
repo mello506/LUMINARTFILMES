@@ -326,6 +326,57 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Indomáveis[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/NL8xv22/indomaveisicon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Os Indomáveis</info>
+<genre>WESTERN</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Os Indomáveis[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/NL8xv22/indomaveisicon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Os Indomáveis em TORRENT</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Indomáveis[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=pM83chat6kw</link>
+<thumbnail>https://i.ibb.co/NL8xv22/indomaveisicon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>WESTERN</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Indomáveis - 2007 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f674684944d3a9b6a9da24638df8332af2118d8</link>
+<thumbnail>https://i.ibb.co/NL8xv22/indomaveisicon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O fazendeiro Dan Evans se dirige a Bisbee para esclarecer questões relativas à venda de sua terra quando ele testemunha os eventos finais de um assalto a uma carruagem liderada pelo famoso bandido Ben Wade. Pouco tempo depois, Wade é capturado pela lei em Bisbee e Evans se vê como um dos acompanhantes que levarão Wade para o Yuma de 3 a 10 em Contenção, com a recompensa de 200 dólares. O esforço de Evans para levar Wade para a estação é em parte um esforço para salvar sua terra, mas também parte de uma batalha interna para determinar se ele pode ser mais do que apenas um fazendeiro ingênuo aos olhos de seu filho impetuoso e pistoleiro William Evans. O transporte para Contenção é arriscado e repleto de emboscadas de índios, perseguições da turma vingativa de Wade e do comportamento clamoroso e sub-reptício de Wade, que torna o percurso ainda mais intenso.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Indomáveis - 2007 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6d791338cf3da9e085fde76cc67f9326b255988</link>
+<thumbnail>https://i.ibb.co/NL8xv22/indomaveisicon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O fazendeiro Dan Evans se dirige a Bisbee para esclarecer questões relativas à venda de sua terra quando ele testemunha os eventos finais de um assalto a uma carruagem liderada pelo famoso bandido Ben Wade. Pouco tempo depois, Wade é capturado pela lei em Bisbee e Evans se vê como um dos acompanhantes que levarão Wade para o Yuma de 3 a 10 em Contenção, com a recompensa de 200 dólares. O esforço de Evans para levar Wade para a estação é em parte um esforço para salvar sua terra, mas também parte de uma batalha interna para determinar se ele pode ser mais do que apenas um fazendeiro ingênuo aos olhos de seu filho impetuoso e pistoleiro William Evans. O transporte para Contenção é arriscado e repleto de emboscadas de índios, perseguições da turma vingativa de Wade e do comportamento clamoroso e sub-reptício de Wade, que torna o percurso ainda mais intenso.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Django Livre[/B][/COLOR]</name>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
