@@ -31,51 +31,55 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GENERO</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Chave Mestra[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme A Chave Mestra</info>
+<genre>SUSPENSE E TERROR</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] NomedoFilme[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A Chave Mestra[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o filme NomedoFilme em TORRENT</info>
-<genre>GENERO</genre>  
+<info>Assista aqui o filme A Chave Mestra em TORRENT</info>
+<genre>SUSPENSE E TERROR</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER</link>
-
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Chave Mestra[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=MM9PJ5DvKys</link>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
-<genre>GENERO</genre>  
+<genre>SUSPENSE E TERROR</genre>  
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Dublado[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.elementum/play?uri=LINKTORRENT</link>
-
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Chave Mestra - 2005 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a0b360ec6afaa164725f98bdf6ee7bf095123b5&dn=A+Chave+Mestra+%282005%29+BluRay+720p+Dual+Audio&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
+<thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
+<info>Caroline aceita trabalhar como enfermeira para um casal de deficientes que vive em uma estranha mansão em Nova Orleans. Após encontrar objetos misteriosos, ela começa a desvendar o passado sinistro do casal.</info>
+<genre>SUSPENSE E TERROR</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme - DATA - Dublado[/B][/COLOR]</title>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Chave Mestra - 2005 - Dublado[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.elementum/play?uri=LINKTORRENT</link>
 
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
+<info>Caroline aceita trabalhar como enfermeira para um casal de deficientes que vive em uma estranha mansão em Nova Orleans. Após encontrar objetos misteriosos, ela começa a desvendar o passado sinistro do casal.</info>
+<genre>SUSPENSE E TERROR</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
