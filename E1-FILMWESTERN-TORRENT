@@ -426,6 +426,58 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Cavaleiro Solitário - The Lone Ranger[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/LQqyFLX/zorro1icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme O Cavaleiro Solitário - The Lone Ranger</info>
+<genre>WESTERN</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Cavaleiro Solitário - The Lone Ranger[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/LQqyFLX/zorro1icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme O Cavaleiro Solitário - The Lone Ranger em TORRENT</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Cavaleiro Solitário - The Lone Ranger[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6XJLKw96fr0</link>
+<thumbnail>https://i.ibb.co/LQqyFLX/zorro1icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>WESTERN</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Cavaleiro Solitário - The Lone Ranger - 2013 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://ondeeubaixo.net/o-cavaleiro-solitario-torrent</link>
+<thumbnail>https://i.ibb.co/LQqyFLX/zorro1icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O índio guerreiro Tonto Johnny Depp conta a história não conhecida que transformou John Reid Armie Hammer, um homem da lei, em uma lenda da justiça. É uma acelerada viagem cheia de surpresas épicas e muito humor sobre os dois improváveis heróis que precisam aprender a trabalhar juntos e lutar contra a ganância e a corrupção.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Cavaleiro Solitário - The Lone Ranger - 2013 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=LINKTORRENT</link>
+
+<thumbnail>https://i.ibb.co/LQqyFLX/zorro1icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O índio guerreiro Tonto Johnny Depp conta a história não conhecida que transformou John Reid Armie Hammer, um homem da lei, em uma lenda da justiça. É uma acelerada viagem cheia de surpresas épicas e muito humor sobre os dois improváveis heróis que precisam aprender a trabalhar juntos e lutar contra a ganância e a corrupção.</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Django Livre[/B][/COLOR]</name>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
