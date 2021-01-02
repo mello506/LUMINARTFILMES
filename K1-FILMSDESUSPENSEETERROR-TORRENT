@@ -24,15 +24,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channels></channels>
 <channel>
-<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NomedoFilme[/B][/COLOR]</name>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Filme NomedoFilme</info>
-<genre>GENERO</genre> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Chave Mestra[/B][/COLOR]</name>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
