@@ -479,7 +479,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] À Procura da Vingança[/B][/COLOR]</name>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/C8M2yHf/serafinfallsicon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Filme À Procura da Vingança</info>
 <genre>WESTERN</genre> 
@@ -488,7 +488,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] À Procura da Vingança[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/C8M2yHf/serafinfallsicon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui o filme À Procura da Vingança em TORRENT</info>
 <genre>WESTERN</genre>  
@@ -498,7 +498,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] À Procura da Vingança[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=4afWoSzxqaU</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/C8M2yHf/serafinfallsicon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
 <genre>WESTERN</genre>  
@@ -510,7 +510,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeed9b75c070fd2f4cdf14e39d494e14e3ac6dd6&dn=Seraphim.Falls.2006.BluRay.h264.AC3.Dublado&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
 
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/C8M2yHf/serafinfallsicon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Fim da Guerra Civil dos Estados Unidos, pouco antes da virada para o século XIX. Decidido a se vingar de Gideon Pierce Brosnan, o coronel Carver Liam Neeson parte em sua busca.</info>
 <genre>WESTERN</genre>  
@@ -522,7 +522,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.elementum/play?uri=LINKTORRENT</link>
 
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://i.ibb.co/C8M2yHf/serafinfallsicon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Fim da Guerra Civil dos Estados Unidos, pouco antes da virada para o século XIX. Decidido a se vingar de Gideon Pierce Brosnan, o coronel Carver Liam Neeson parte em sua busca.</info>
 <genre>WESTERN</genre>  
