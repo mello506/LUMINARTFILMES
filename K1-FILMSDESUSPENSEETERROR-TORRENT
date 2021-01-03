@@ -423,5 +423,59 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Enigma de Outro Mundo[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme O Enigma de Outro Mundo</info>
+<genre>SUSPENSE E TERROR</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Enigma de Outro Mundo[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme O Enigma de Outro Mundo em TORRENT</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Enigma de Outro Mundo[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=nWMITzWTN2U</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Enigma de Outro Mundo - 1982 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1910604ae64b876cce3b61652549de39559df53c&dn=O+Enigma+de+Outro+Mundo+%281982%29Blu+Ray+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Antártica, inverno de 1982. Na remota Estação 4 do Instituto Nacional de Ciências dos Estados Unidos estão 12 homens cientistas e operários, que observam com espanto um norueguês tentar de todas as maneiras matar um cão, tanto que invade a estação e atira até nos americanos, mas é morto. O helicóptero, que trouxe o intruso, explode, matando os outros tripulantes e a razão daquilo fica sem explicação. Após isto o cachorro fica na base e os americanos começam a querer saber o que realmente aconteceu. O piloto de helicóptero J.R MacReady Kurt Russell se oferece para viajar até a base norueguesa e tentar achar alguma explicação. Chegando lá descobrem que o local foi destruído e descobrem um corpo mutilado, que parece de uma pessoa. Eles o levam para a base americana para ser estudado e só então surgem pistas do acontecido, pois o cachorro se transforma em uma terrível criatura que ataca os pesquisadores. Gradativamente concluem que estão diante de um alienígena, que pode se transformar em uma cópia exata das suas vítimas. Isto significa que membros da equipe podem ser mortos e a cópia assumir o lugar deles. </info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Enigma de Outro Mundo - 1982 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=LINKTORRENT</link>
+
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Antártica, inverno de 1982. Na remota Estação 4 do Instituto Nacional de Ciências dos Estados Unidos estão 12 homens cientistas e operários, que observam com espanto um norueguês tentar de todas as maneiras matar um cão, tanto que invade a estação e atira até nos americanos, mas é morto. O helicóptero, que trouxe o intruso, explode, matando os outros tripulantes e a razão daquilo fica sem explicação. Após isto o cachorro fica na base e os americanos começam a querer saber o que realmente aconteceu. O piloto de helicóptero J.R MacReady Kurt Russell se oferece para viajar até a base norueguesa e tentar achar alguma explicação. Chegando lá descobrem que o local foi destruído e descobrem um corpo mutilado, que parece de uma pessoa. Eles o levam para a base americana para ser estudado e só então surgem pistas do acontecido, pois o cachorro se transforma em uma terrível criatura que ataca os pesquisadores. Gradativamente concluem que estão diante de um alienígena, que pode se transformar em uma cópia exata das suas vítimas. Isto significa que membros da equipe podem ser mortos e a cópia assumir o lugar deles. </info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 
