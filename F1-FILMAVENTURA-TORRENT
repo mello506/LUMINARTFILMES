@@ -423,4 +423,54 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Conde de Monte Cristo[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ZJ8mbtX/ICONES.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme O Conde de Monte Cristo</info>
+<genre>WESTERN</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Conde de Monte Cristo[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/ZJ8mbtX/ICONES.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme O Conde de Monte Cristo em TORRENT</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Conde de Monte Cristo[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=X9F6Ssb7GHo&feature=emb_logo</link>
+<thumbnail>https://i.ibb.co/ZJ8mbtX/ICONES.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>AVENTURA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Conde de Monte Cristo - 2002 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4242fd3fb024fdeb855f132b16a8c68004e25a8</link>
+<thumbnail>https://i.ibb.co/ZJ8mbtX/ICONES.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>‘O conde de Monte Cristo’ é um remake do conto de Alexander Dumas com o mesmo nome. Dantes, um marinheiro que é falsamente acusado de traição por seu melhor amigo Fernand, que quer a namorada de Dantes, Mercedes, para si. Dantes é preso na ilha prisão de Chateau d’If por 13 anos, onde ele trama a vingança contra aqueles que o traíram. Com a ajuda de outro prisioneiro, ele escapa da ilha e passa a se transformar no rico Conde de Monte Cristo como parte de seu plano para se vingar.</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Conde de Monte Cristo - 2002 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f566e6b3c64956842f7528b1325e426b31537d6e</link>
+<thumbnail>https://i.ibb.co/ZJ8mbtX/ICONES.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>‘O conde de Monte Cristo’ é um remake do conto de Alexander Dumas com o mesmo nome. Dantes, um marinheiro que é falsamente acusado de traição por seu melhor amigo Fernand, que quer a namorada de Dantes, Mercedes, para si. Dantes é preso na ilha prisão de Chateau d’If por 13 anos, onde ele trama a vingança contra aqueles que o traíram. Com a ajuda de outro prisioneiro, ele escapa da ilha e passa a se transformar no rico Conde de Monte Cristo como parte de seu plano para se vingar.</info>
+<genre>AVENTURA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
