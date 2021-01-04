@@ -2104,53 +2104,104 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Doze Condenados[/B][/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aLogpA6ZWJD1FTkyktSY2cLj6yR.jpg</thumbnail>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Enigma[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Coleção Os Doze Condenados </info>
-<genre>AVENTURA</genre> 
+<info>Filme Enigma</info>
+<genre>COMANDOS E ESPIONAGEM</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Enigma[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Enigma em TORRENT</info>
+<genre>COMANDOS E ESPIONAGEM</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Enigma[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5NrfiIpUd20</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>COMANDOS E ESPIONAGEM</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Enigma - 2001 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9678030C7002280475DE612E05FE62794344EE3&dn=Enigma%202001%20WWW.BLUDV.COM&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Em março de 1943, a equipe de elite dos decodificadores da Inglaterra tem uma responsabilidade monumental: decifrar o Enigma, um código ultraseguro utilizado pelos nazistas para enviar mensagens aos seus submarinos. O desafio fica ainda maior quando se sabe que uma grande esquadra de navios mercantis está prestes a cruzar o Atlântico e cerca de dez mil homens correrão perigo caso a localização dos submarinos alemães não seja logo descoberta, o que apenas poderá ocorrer quando o Enigma for decifrado. Para liderar este trabalho é chamado Tom Jericho Dougray Scott, um gênio da matemática que consegue realizar tarefas consideradas impossíveis pelos especialistas. Porém, ao mesmo tempo em que Jericho se envolve cada vez mais com a decodificação do Enigma ele precisa estar atento à sua namorada Claire Saffron Burrows, uma sedutora e misteriosa mulher que pode estar trabalhando como espiã para os alemães.</info>
+<genre>COMANDOS E ESPIONAGEM</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Enigma - 2001 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D5BA5903EEF4BDBB6EF051390F650EAE820788FD&dn=Enigma%202001%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Em março de 1943, a equipe de elite dos decodificadores da Inglaterra tem uma responsabilidade monumental: decifrar o Enigma, um código ultraseguro utilizado pelos nazistas para enviar mensagens aos seus submarinos. O desafio fica ainda maior quando se sabe que uma grande esquadra de navios mercantis está prestes a cruzar o Atlântico e cerca de dez mil homens correrão perigo caso a localização dos submarinos alemães não seja logo descoberta, o que apenas poderá ocorrer quando o Enigma for decifrado. Para liderar este trabalho é chamado Tom Jericho Dougray Scott, um gênio da matemática que consegue realizar tarefas consideradas impossíveis pelos especialistas. Porém, ao mesmo tempo em que Jericho se envolve cada vez mais com a decodificação do Enigma ele precisa estar atento à sua namorada Claire Saffron Burrows, uma sedutora e misteriosa mulher que pode estar trabalhando como espiã para os alemães.</info>
+<genre>COMANDOS E ESPIONAGEM</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Doze Condenados[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Os Doze Condenados</info>
+<genre>COMANDOS E ESPIONAGEM</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Os Doze Condenados[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aLogpA6ZWJD1FTkyktSY2cLj6yR.jpg</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Filme Os Doze Condenados</info>
-<genre>AVENTURA</genre>  
+<info>Assista aqui o filme Os Doze Condenados em TORRENT</info>
+<genre>COMANDOS E ESPIONAGEM</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Doze Condenados[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=3LbtQP5aO1s</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aLogpA6ZWJD1FTkyktSY2cLj6yR.jpg</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
-<genre>AVENTURA</genre>  
+<genre>COMANDOS E ESPIONAGEM</genre>  
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Doze Condenados - 1967 - Dublado[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56f784911d00952a4ca4dae86513ebd96d940f7b&dn=COMANDO.TO%20-%20Os%20Doze%20Condenados%201967%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-<thumbnail>Durante a Segunda Guerra Mundial, um comandante do exército norte-americano tem a missão de treinar e liderar um grupo de 12 condenados pela corte marcial em uma missão que envolve a morte de oficiais alemães. Se eles sobreviverem à missão suicida, terão suas penas relaxadas.</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>AVENTURA</genre>  
+<info>Durante a Segunda Guerra Mundial, um comandante do exército norte-americano tem a missão de treinar e liderar um grupo de 12 condenados pela corte marcial em uma missão que envolve a morte de oficiais alemães. Se eles sobreviverem à missão suicida, terão suas penas relaxadas.</info>
+<genre>COMANDOS E ESPIONAGEM</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Doze Condenados - 1967 - Dublado[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56f784911d00952a4ca4dae86513ebd96d940f7b&dn=COMANDO.TO%20-%20Os%20Doze%20Condenados%201967%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-<thumbnail>Durante a Segunda Guerra Mundial, um comandante do exército norte-americano tem a missão de treinar e liderar um grupo de 12 condenados pela corte marcial em uma missão que envolve a morte de oficiais alemães. Se eles sobreviverem à missão suicida, terão suas penas relaxadas.</thumbnail>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SINOPSE</info>
-<genre>AVENTURA</genre>  
+<info>Durante a Segunda Guerra Mundial, um comandante do exército norte-americano tem a missão de treinar e liderar um grupo de 12 condenados pela corte marcial em uma missão que envolve a morte de oficiais alemães. Se eles sobreviverem à missão suicida, terão suas penas relaxadas.</info>
+<genre>COMANDOS E ESPIONAGEM</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <channels></channels>
 <channel>
