@@ -21,6 +21,59 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Besouro Verde[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme O Besouro Verde</info>
+<genre>SUPER-HERÓIS</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Besouro Verde[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme O Besouro Verde em TORRENT</info>
+<genre>SUPER-HERÓIS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Besouro Verde[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=PMA-taGtfXs</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>SUPER-HERÓIS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Besouro Verde - 2011 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B8BDC44BA9608D5978F83CCEFFF872AC0BF48484&dn=O.Besouro.Verde.2011.720p.BluRay.x264-VTM_SL&tr=http://tracker.thepiratebay.org/announce&tr=udp://tracker.openbittorrent.com:80&tr=udp://tntvillage.org:6969&tr=udp://tntvillage.org:2710&tr=udp://tracker.istole.it:80&tr=udp://tracker.tntvillage.scambioetico.org:2710&tr=udp://tracker.ccc.de:80&tr=udp://tracker.publicbt.com:80&tr=http://fr33dom.h33t.com:3310/announce&tr=http://www.h33t.com:3310/announce&tr=udp://tracker.ilibr.org:80/announce&tr=http://tracker.torrent</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Britt Reid Seth Rogen está perto dos 30 anos e não quer saber de responsabilidades, dedicando sua vida à diversão. Até o dia em que seu pai morre misteriosamente e ele precisa assumir os negócios da família, ficando a frente de um grande e respeitado jornal. Milionário e entediado, Reid resolve criar um personagem junto com seu fiel funcionário Kato Jay Chou, fera das artes marciais e grande inventor de máquinas revolucionárias. Cheios de vontade, surge então o Besouro Verde. Só que a cidade está nas garras de Chudnofsky Christoph Waltz, um criminoso que busca meios der ser mais ameaçador para as pessoas.</info>
+<genre>SUPER-HERÓIS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR red][B] O Besouro Verde - 2011 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=LINKTORRENT</link>
+
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Britt Reid Seth Rogen está perto dos 30 anos e não quer saber de responsabilidades, dedicando sua vida à diversão. Até o dia em que seu pai morre misteriosamente e ele precisa assumir os negócios da família, ficando a frente de um grande e respeitado jornal. Milionário e entediado, Reid resolve criar um personagem junto com seu fiel funcionário Kato Jay Chou, fera das artes marciais e grande inventor de máquinas revolucionárias. Cheios de vontade, surge então o Besouro Verde. Só que a cidade está nas garras de Chudnofsky Christoph Waltz, um criminoso que busca meios der ser mais ameaçador para as pessoas.</info>
+<genre>SUPER-HERÓIS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Demolidor[/B][/COLOR]</name>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
