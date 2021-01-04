@@ -376,4 +376,57 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Inimigos Públicos[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Inimigos Públicos</info>
+<genre>CRIME</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Inimigos Públicos[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Inimigos Públicos em TORRENT</info>
+<genre>CRIME</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Inimigos Públicos[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Q8xOgO7_eT8</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>CRIME</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Inimigos Públicos - 2009 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D6EB3F32E1D40B1D42A0B366DD893F9240AD828D&dn=inimigos+p%C3%BAblicos+2009+bdrip+bluray+720p+dublado&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>John Dillinger Johnny Depp era um criminoso audacioso e violento, mas que atraía a opinião pública ao seu favor, principalmente, porque dizia retirar das instituições financeiras o dinheiro que elas roubavam do cidadão. Seus assaltos a bancos e fugas rápidas enlouqueciam a polícia que não tinha condições de enfrentá-lo. Assim, prender o assaltante tornou-se uma obsessão do então burocrata J. Edgar Hoover Billy Crudup, que disposto a tudo para fortalecer o famoso F.B.I., coloca Dillinger como o inimigo público número um. Para ajudar em sua missão, Hoover contrata o policial Melvin Purvis Christian Bale e o deixa igualmente obcecado pela captura do bandido, que se apaixona por Billie Frechetti Marion Cotillard e acaba complicando a sua vida.</info>
+<genre>CRIME</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Inimigos Públicos - 2009 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=LINKTORRENT</link>
+
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>John Dillinger Johnny Depp era um criminoso audacioso e violento, mas que atraía a opinião pública ao seu favor, principalmente, porque dizia retirar das instituições financeiras o dinheiro que elas roubavam do cidadão. Seus assaltos a bancos e fugas rápidas enlouqueciam a polícia que não tinha condições de enfrentá-lo. Assim, prender o assaltante tornou-se uma obsessão do então burocrata J. Edgar Hoover Billy Crudup, que disposto a tudo para fortalecer o famoso F.B.I., coloca Dillinger como o inimigo público número um. Para ajudar em sua missão, Hoover contrata o policial Melvin Purvis Christian Bale e o deixa igualmente obcecado pela captura do bandido, que se apaixona por Billie Frechetti Marion Cotillard e acaba complicando a sua vida.</info>
+<genre>CRIME</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 
